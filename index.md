@@ -28,7 +28,8 @@ Supported arguments:
 ```
 Perth, Australia
 ```
-- M.S. in Information Technology, GPA 6/7 for Semester 1, 2021
+- M.S. in Information Technology
+- GPA 6/7
 
 
 ### **National Chung Cheng University** `2014.9 - 2016.7`
@@ -36,8 +37,9 @@ Perth, Australia
 ```
 Chiayi, Taiwan
 ```
-- M.S in Accounting and Information Technology, GPA 3.93/4.0
+- M.S in Accounting and Information Technology
 - The _2nd_ place in the entrance examination
+- GPA 3.93/4.0
 
 ### **National Kaohsiung University of Science and Technology** `2010.9 - 2014.6`
 
@@ -48,7 +50,7 @@ Kaohsiung, Taiwan
 
 ## Professional Program
 
-### **CPA Australia Program** `2020.7 -`
+### **[CPA Australia Program](https://www.cpaaustralia.com.au)** `2020.7 -`
 
 ```
 Australia
@@ -67,8 +69,6 @@ Taiwan
 ## Experience
 
 #### **Assistant Manager, Deloitte Taiwan** `2019.3 - 2020.8`
-
-_Senior Auditor_
 <br>
 **Responsibility**
 - Possessed sound knowledge of US GAAP, IFRS, and SOX internal control audits.
@@ -100,9 +100,8 @@ _Senior Auditor_
 <br>
 
 #### **Staff - Senior Associate, PwC Taiwan** `2016.9 - 2019.2`
-
-_Auditor_
 <br>
+
 **Responsibility**
 - Conducted in Biotechnology Industry initial public offering project.
 - Evaluated investment profile including local/international, public/private stocks, and bonds by natures under IFRS9.
@@ -137,7 +136,7 @@ _Auditor_
 <br>
 
 |Subject|Duration|
-|:---|---:|
+|---|---|
 |Business analysis and Valuation|`2016.2-2016.6`|
 |Principles of Accounting|`2015.9-2016.6`|
 |Advanced Accounting|`2015.9-2016.6`|
@@ -149,7 +148,8 @@ _Auditor_
 ## Honors & Awards
 
 **CCU AIT 5th Summer Camp Best Lecturer**
-`Accounting and Information Technology Faculty, National Chung Cheng University, 2016.7` 
+`Accounting and Information Technology Faculty, National Chung Cheng University, 2016.7`
+<br>
 Before I graduated, the Accounting students’ Guild invited me as a lecturer for the fifth accounting summer camp on July 10, 2016. It flattered me when I heard. I attached great importance to teaching high school students who are interested in accounting. Hence, I took a week to design my game - Fraud and Fraudit. It was an interactive game with audiences. Participants won credits by a group if they answered correctly. Then, all teams showed their financial statements and told a good story to gain the fund. Be careful! It may be a fraud! Candidates who acted as accountants must find out whether it was fraud. Call “BLUFF” when determining it was a scandal, then you won.<br>
 <br>
 
@@ -159,11 +159,13 @@ Before I graduated, the Accounting students’ Guild invited me as a lecturer fo
 
 **KPMG Academic competition Champion Team**
 `KPMG Taiwan, 2015.5`
+<br>
 KPMG International Limited (or simply KPMG) is a multinational professional services network, and one of the Big Four accounting organizations. Every June, they hold a KPMG academic competition in my university to reward those who have professional and practical knowledge. All candidates must answer the questions about intermediate accounting in a limited time. In the end, my team won the champion. It was thrill experience; I was glad that we showed teamwork and professionalism.
 <br>
 
 **XBRL Academic Winter Camp Third place in the competition**
 `Taiwan Stock Exchange Corporation, 2015.1`
+<br>
 XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. Hence, my classmates and I enrolled in the XBRL camp hold by Taiwan Stock Exchange from January 19, 2015, to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day. Luckily, we won third place!
 <br>
 
@@ -185,6 +187,7 @@ XBRL (eXtensible Business Reporting Language) was the latest idea of a global fr
 - Level C technician for International Trade Management
 - Blockchain Basic
 - Business Analysis Foundation
+<br>
 
 <!-- ### Footer
 
