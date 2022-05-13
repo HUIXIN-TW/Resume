@@ -11,7 +11,7 @@ homepage:
   url: https://www.notion.so/huixin/Personal-Profile-89bf504efcbb4b1682c249e127b194f1
   text: Personal Profile
 phone:
-  tel: +447821269796
+  tel: tel:+447821269796
   text: 447821269796
 ---
 
@@ -137,11 +137,11 @@ Industry Experiences
 <br>
 
 ### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
-_Business analysis and Valuation `2016.2-2016.6`_<br>
-_Principles of Accounting `2015.9-2016.6`_<br>
-_Advanced Accounting `2015.9-2016.6`_<br>
-_Audit and Assurance `2015.9-2016.6`_<br>
-_Statistics `2015.9-2016.6`<br>_
+_Business analysis and Valuation `2016.2 - 2016.6`_<br>
+_Principles of Accounting `2015.9 - 2016.6`_<br>
+_Advanced Accounting `2015.9 - 2016.6`_<br>
+_Audit and Assurance `2015.9 - 2016.6`_<br>
+_Statistics `2015.9 - 2016.6`<br>_
 - Provided guidance and handouts
 - Assisted Professor and gave students instructions
 <br>
