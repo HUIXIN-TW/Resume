@@ -47,6 +47,7 @@ Chiayi, Taiwan
 Kaohsiung, Taiwan 
 ```
 - B.S. in Accounting and Information System
+- GPA 80.44/100
 
 ## Professional Program
 
@@ -68,10 +69,9 @@ Taiwan
 
 ## Experience
 
-#### **Assistant Manager, Deloitte Taiwan** `2019.3 - 2020.8`
-<br>
+### **Assistant Manager, Deloitte Taiwan** `2019.3 - 2020.8`
 
-**Responsibility**
+Responsibility
 - Possessed sound knowledge of US GAAP, IFRS, and SOX internal control audits.
 - Performed financial modeling to support and challenge key assumptions made by the development team and external advisors, such as DCF models.
 - Performed risk assessment of material financial statement items while exercising judgment within agreed parameters under COSO framework.
@@ -87,7 +87,7 @@ Taiwan
 - Utilized IT skills for data cleaning, manipulation, and mapping - Microsoft Excel, Power BI
 <br>
 
-**Leadership**
+Leadership
 - Leaded 4 members and managed audit plan for a listed companies
 - Supervise, coach, and develop junior members of staff within teams, on client premises, and in the office.
 - Drafted reports and presentations to the engagement leader, which will enable decisions on audit opinion.
@@ -95,15 +95,14 @@ Taiwan
 - Conducted client interviews and led internal meetings to facilitate effective audit planning and execution.
 <br>
 
-**Industry Experiences**
+Industry Experiences
 - Medical Manufacturing, listed Taipei Exchange and NASDAQ
 - Telecommunication, listed Taipei Exchange and NASDAQ
 <br>
 
-#### **Staff - Senior Associate, PwC Taiwan** `2016.9 - 2019.2`
-<br>
+### **Staff - Senior Associate, PwC Taiwan** `2016.9 - 2019.2`
 
-**Responsibility**
+Responsibility
 - Conducted in Biotechnology Industry initial public offering project.
 - Evaluated investment profile including local/international, public/private stocks, and bonds by natures under IFRS9.
 - Evaluated derivative financial instruments.
@@ -117,21 +116,21 @@ Taiwan
 - Assisting in preparing the company and branches year-end audit, with constant monitoring of internal controls for Taiwan and overseas branch offices:12 days in Dongguan, 17 days in Shanghai, 2 days in Nanjing, 3days in Wuhan and 12 days in New Jersey and Memphis.
 <br>
 
-**Leadership**
+Leadership
 - Initiated plans before auditing, and managed a project, then assign tasks to team member based on priority
 - Leaded 2 members and managed audit plan for a listed companies
 <br>
 
-**Industry Experiences**
+Industry Experiences
 - Medical Manufacturing, Investment, Advertising, Hospitality, Clothing Manufacturing
 <br>
 
-### **Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
+### Instructor, Tekom Technologies, Inc `2016.3 - 2016.6`
 - Provided guidance
 - Initiated study planning for students
 <br>
 
-### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
+### Facilitator, National Chung Cheng University `2015.2 - 2016.6`
 - Provided guidance and handouts
 - Assisted Professor and gave students instructions
 <br>
