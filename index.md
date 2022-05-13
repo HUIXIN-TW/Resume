@@ -4,11 +4,13 @@ title: HUIXIN *YANG*
 email:
   url: mailto:huixin.yang.tw@gmail.com
   text: huixin.yang.tw@gmail.com
+github:
+  url: https://github.com/HUIXIN-TW
+  text: HUIXIN-TW
 homepage:
   url: https://www.notion.so/huixin/Personal-Profile-89bf504efcbb4b1682c249e127b194f1
   text: Personal Profile
-phone:
-  number: 447821269796
+phone: 447821269796
 ---
 
 # HUIXIN **YANG**
@@ -133,15 +135,14 @@ Industry Experiences
 <br>
 
 ### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
+_Business analysis and Valuation `2016.2-2016.6`_<br>
+_Principles of Accounting `2015.9-2016.6`_<br>
+_Advanced Accounting `2015.9-2016.6`_<br>
+_Audit and Assurance `2015.9-2016.6`_<br>
+_Statistics `2015.9-2016.6`<br>_
 - Provided guidance and handouts
 - Assisted Professor and gave students instructions
 <br>
-
-Business analysis and Valuation `2016.2-2016.6`<br>
-Principles of Accounting `2015.9-2016.6`<br>
-Advanced Accounting `2015.9-2016.6`<br>
-Audit and Assurance `2015.9-2016.6`<br>
-Statistics `2015.9-2016.6`<br>
 
 ---
 
@@ -149,7 +150,7 @@ Statistics `2015.9-2016.6`<br>
 
 ### **CCU AIT 5th Summer Camp Best Lecturer** `Accounting and Information Technology Faculty, National Chung Cheng University, 2016.7`
 
-Before I graduated, the Accounting students’ Guild invited me as a lecturer for the fifth accounting summer camp on July 10, 2016. It flattered me when I heard. I attached great importance to teaching high school students who are interested in accounting. Hence, I took a week to design my game - Fraud and Fraudit. It was an interactive game with audiences. Participants won credits by a group if they answered correctly. Then, all teams showed their financial statements and told a good story to gain the fund. Be careful! It may be a fraud! Candidates who acted as accountants must find out whether it was fraud. Call “BLUFF” when determining it was a scandal, then you won.<br>
+Before I graduated, the Accounting students’ Guild invited me as a lecturer for the fifth accounting summer camp on July 10, 2016. It flattered me when I heard. I attached great importance to teaching high school students who are interested in accounting. Hence, I took a week to design my game - Fraud and Fraudit. It was an interactive game with audiences. Participants won credits by a group if they answered correctly. Then, all teams showed their financial statements and told a good story to gain the fund. Be careful! It may be a fraud! Candidates who acted as accountants must find out whether it was fraud. Call “BLUFF” when determining it was a scandal, then you won.
 <br>
 
 ### **Excellent Teaching Assistant** `Accounting and Information Technology Faculty, National Chung Cheng University, 2016.5` 

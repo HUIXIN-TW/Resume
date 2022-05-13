@@ -10,6 +10,11 @@
     <a href="{{ page.email.url }}" style="margin-left:0.5em">{{ page.email.text }}</a>
     {% endif %}
 
+    {% if page.github %}
+    <i class="fi-social-github" style="margin-left:1em"></i>
+    <a href="{{ page.github.url }}" style="margin-left:0.5em">{{ page.github.text }}</a>
+    {% endif %}
+
     {% if page.phone %}
     <i class="fi-telephone" style="margin-left:1em"></i>
     {{ page.phone }}
