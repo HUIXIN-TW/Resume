@@ -1,4 +1,17 @@
-# HUIXIN **YANG**
+@import "style.css"
+
+---
+title: "CV"
+author: Huixin Yang
+date: May 13, 2022
+output: 
+    pdf_document:
+        toc: true
+        toc_depth: 2
+---
+
+
+# HUIXIN **YANG** {#name}
 
 ---
 
@@ -11,7 +24,7 @@
 ### **National Chung Cheng University** `2014.9 - 2016.7`
 *Chiayi, Taiwan*
 - M.S in Accounting and Information Technology, GPA 3.93/4.0
-- The **2^nd^** place in the entrance examination
+- The **Second** place in the entrance examination
 
 ### **National Kaohsiung University of Science and Technology** `2010.9 - 2014.6`
 **Kaohsiung, Taiwan**
