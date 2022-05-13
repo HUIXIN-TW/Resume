@@ -7,6 +7,8 @@ email:
 homepage:
   url: https://www.notion.so/huixin/Personal-Profile-89bf504efcbb4b1682c249e127b194f1
   text: Personal Profile
+phone:
+  text: +447821269796
 ---
 
 # HUIXIN **YANG**
