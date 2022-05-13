@@ -10,7 +10,7 @@ Introduce myself to the world
 - Pandoc
 
 ```Bash
-pip install -r requriements.txt
+pip3 install -r requriements.txt
 ```
 
 # Reference

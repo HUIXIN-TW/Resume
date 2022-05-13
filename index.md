@@ -8,10 +8,26 @@ output:
     pdf_document:
         toc: true
         toc_depth: 2
+email:
+  url: mailto:huixin.yang.tw@gmail.com
+  text: huixin.yang.tw@gmail.com
+homepage:
+  url: https://www.notion.so/huixin/Personal-Profile-89bf504efcbb4b1682c249e127b194f1
+  text: Personal-Profile-Notion
 ---
 
 
 # HUIXIN **YANG** {#name}
+
+<!--
+include contact information from the front matter
+Supported arguments:
+    - homepage: url, text
+    - phone
+    - email
+-->
+
+{% include cv-contact.html %}
 
 ---
 
@@ -130,7 +146,7 @@ KPMG International Limited (or simply KPMG) is a multinational professional serv
 `Taiwan Stock Exchange Corporation, 2015.1`
 XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. Hence, my classmates and I enrolled in the XBRL camp hold by Taiwan Stock Exchange from January 19, 2015, to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day. Luckily, we won third place!
 
-## Qualfications and Certifications
+## Qualifications and Certifications
 
 **Technology and Programming**
 - Highly proficient with Microsoft Excel, Microsoft PowerPoint, Microsoft Word, Microsoft Power BI, Globe3 ERP
@@ -147,3 +163,7 @@ XBRL (eXtensible Business Reporting Language) was the latest idea of a global fr
 - Level C technician for International Trade Management
 - Blockchain Basic
 - Business Analysis Foundation
+
+<!-- ### Footer
+
+Last updated: May 2022 -->
