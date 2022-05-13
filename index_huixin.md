@@ -1,6 +1,13 @@
+@import "style.css"
+
 ---
-layout: cv
-title: Huixin *Yang*
+title: "CV"
+author: Huixin Yang
+date: May 13, 2022
+output: 
+    pdf_document:
+        toc: true
+        toc_depth: 2
 email:
   url: mailto:huixin.yang.tw@gmail.com
   text: huixin.yang.tw@gmail.com
@@ -9,7 +16,8 @@ homepage:
   text: Personal-Profile-Notion
 ---
 
-# Huixin **Yang**
+
+# HUIXIN **YANG** {#name}
 
 <!--
 include contact information from the front matter
@@ -21,50 +29,33 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+---
+
 ## Education
 
-### **University of Western Australia** `2021.2 -`
-
-```
-Perth, Australia
-```
-
+### **University of Western Australia** `2021.2`
+*Perth, Australia*
 - M.S. in Information Technology, GPA 6/7 for Semester 1, 2021
 
-
 ### **National Chung Cheng University** `2014.9 - 2016.7`
-
-```
-Chiayi, Taiwan
-```
-
+*Chiayi, Taiwan*
 - M.S in Accounting and Information Technology, GPA 3.93/4.0
-- The _2nd_ place in the entrance examination
+- The **Second** place in the entrance examination
 
 ### **National Kaohsiung University of Science and Technology** `2010.9 - 2014.6`
-
-```
-Kaohsiung, Taiwan 
-```
-
+**Kaohsiung, Taiwan**
 - B.S. in Accounting and Information System
+
+---
 
 ## Professional membership and program
 
 ### **CPA Australia Program** `2020.7 -`
-
-```
-Australia
-```
-
+**Australia**
 - Financial Reporting, High Distinction
-
+- 
 ### **Law Program** `2017.8 - 2018.5`
-
-```
-Taiwan
-```
-
+**Taiwan**
 - GPA 78.6/100
 
 ---
@@ -72,8 +63,7 @@ Taiwan
 ## Experience
 
 ### **Assistant Manager, Deloitte Taiwan** `2019.3 - 2020.8`
-
-_Senior Auditor_<br>
+_Senior Auditor_
 **Responsibility**
 - Possessed sound knowledge of US GAAP, IFRS, and SOX internal control audits.
 - Performed financial modeling to support and challenge key assumptions made by the development team and external advisors, such as DCF models.
@@ -101,8 +91,7 @@ _Senior Auditor_<br>
 - Telecommunication, listed Taipei Exchange and NASDAQ
 
 ### **Staff - Senior Associate, PwC Taiwan** `2016.9 - 2019.2`
-
-_Auditor_<br>
+_Auditor_
 **Responsibility**
 - Conducted in Biotechnology Industry initial public offering project.
 - Evaluated investment profile including local/international, public/private stocks, and bonds by natures under IFRS9.
@@ -124,7 +113,6 @@ _Auditor_<br>
 - Medical Manufacturing, Investment, Advertising, Hospitality, Clothing Manufacturing
 
 ### **Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
-
 - Provided guidance
 - Initiated study planning for students
 
@@ -132,13 +120,13 @@ _Auditor_<br>
 - Provided guidance and handouts
 - Assisted Professor and gave students instructions
 
-|Subject|Duration|
-|---|---|
-|Business analysis and Valuation|`2016.2-2016.6`|
-|Principles of Accounting|`2015.9-2016.6`|
-|Advanced Accounting|`2015.9-2016.6`|
-|Audit and Assurance|`2015.9-2016.6`|
-|Statistics|`2015.9-2016.6`|
+Subject|Duration
+:---|---:
+Business analysis and Valuation|`2016.2-2016.6`
+Principles of Accounting|`2015.9-2016.6`
+Advanced Accounting|`2015.9-2016.6`
+Audit and Assurance|`2015.9-2016.6`
+Statistics|`2015.9-2016.6`
 
 ---
 
@@ -154,27 +142,22 @@ Before I graduated, the Accounting students’ Guild invited me as a lecturer fo
 `KPMG Taiwan, 2015.5`
 KPMG International Limited (or simply KPMG) is a multinational professional services network, and one of the Big Four accounting organizations. Every June, they hold a KPMG academic competition in my university to reward those who have professional and practical knowledge. All candidates must answer the questions about intermediate accounting in a limited time. In the end, my team won the champion. It was thrill experience; I was glad that we showed teamwork and professionalism.
 
-XBRL Academic Winter Camp Third place in the competition
+**XBRL Academic Winter Camp Third place in the competition**
 `Taiwan Stock Exchange Corporation, 2015.1`
 XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. Hence, my classmates and I enrolled in the XBRL camp hold by Taiwan Stock Exchange from January 19, 2015, to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day. Luckily, we won third place!
 
-## Teaching
-
-Teaching Assistant, **Crafting Software (17-450/17-950)** `CMU, 2022` <br>
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
 ## Qualifications and Certifications
+
 **Technology and Programming**
 - Highly proficient with Microsoft Excel, Microsoft PowerPoint, Microsoft Word, Microsoft Power BI, Globe3 ERP
 - Basic level of ACL, SAS, SQL, Python, Java, Linux, C, SAP, Oracle, Google Analytics.
+
 **Accounting and Finance**
 - Certified Practicing Account, Australia (In Progress, Have Passed EG, FR, SMA, DF. 4 out of 5 units)
 - Certified Public Accountant, ROC
 - Level B technician for Accounting
 - Level C technician for Accounting
+
 **International Business and Business Analysis**
 - Futures Specialist
 - Level C technician for International Trade Management
