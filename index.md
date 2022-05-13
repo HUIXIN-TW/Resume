@@ -70,6 +70,7 @@ Taiwan
 
 #### **Assistant Manager, Deloitte Taiwan** `2019.3 - 2020.8`
 <br>
+
 **Responsibility**
 - Possessed sound knowledge of US GAAP, IFRS, and SOX internal control audits.
 - Performed financial modeling to support and challenge key assumptions made by the development team and external advisors, such as DCF models.
