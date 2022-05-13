@@ -6,7 +6,7 @@ email:
   text: huixin.yang.tw@gmail.com
 homepage:
   url: https://www.notion.so/huixin/Personal-Profile-89bf504efcbb4b1682c249e127b194f1
-  text: Personal-Profile-Notion
+  text: Personal Profile
 ---
 
 # Huixin **Yang**
@@ -133,7 +133,7 @@ _Auditor_<br>
 - Assisted Professor and gave students instructions
 
 |Subject|Duration|
-|---|---|
+|:---|---:|
 |Business analysis and Valuation|`2016.2-2016.6`|
 |Principles of Accounting|`2015.9-2016.6`|
 |Advanced Accounting|`2015.9-2016.6`|
@@ -158,13 +158,6 @@ XBRL Academic Winter Camp Third place in the competition
 `Taiwan Stock Exchange Corporation, 2015.1`
 XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. Hence, my classmates and I enrolled in the XBRL camp hold by Taiwan Stock Exchange from January 19, 2015, to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day. Luckily, we won third place!
 
-## Teaching
-
-Teaching Assistant, **Crafting Software (17-450/17-950)** `CMU, 2022` <br>
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 ## Qualifications and Certifications
 **Technology and Programming**
