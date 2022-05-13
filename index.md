@@ -11,7 +11,7 @@ homepage:
   url: https://www.notion.so/huixin/Personal-Profile-89bf504efcbb4b1682c249e127b194f1
   text: Personal Profile
 phone:
-  tel: +44-7821-269796
+  tel: +447821269796
   text: 447821269796
 ---
 
