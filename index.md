@@ -141,9 +141,9 @@ _Business analysis and Valuation `2016.2 - 2016.6`_<br>
 _Principles of Accounting `2015.9 - 2016.6`_<br>
 _Advanced Accounting `2015.9 - 2016.6`_<br>
 _Audit and Assurance `2015.9 - 2016.6`_<br>
-_Statistics `2015.9 - 2016.6`<br>_
+_Statistics `2015.2 - 2015.6`<br>_
 - Provided guidance and handouts
-- Assisted Professor and gave students instructions
+- Assisted professors and gave students instructions
 <br>
 
 ---
