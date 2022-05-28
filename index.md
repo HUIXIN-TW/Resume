@@ -27,6 +27,10 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+<!--
+print format: use --- to separate pages
+-->
+
 ## Education
 
 ### **University of Western Australia (UWA)** `2021.2 -`
@@ -101,10 +105,10 @@ Leadership
 <br>
 
 Industry Experiences
+-->
 - Medical Manufacturing, listed Taipei Exchange and NASDAQ
 - Telecommunication, listed Taipei Exchange and NASDAQ
 <br>
--->
 
 ### **Staff - Senior Associate, PwC** `2016.9 - 2019.2`
 
@@ -129,12 +133,11 @@ Leadership
 <br>
 
 Industry Experiences
+-->
 - Medical Manufacturing, Investment, Advertising, Hospitality, Clothing Manufacturing
 <br>
--->
 
-### **Instructor, Tekom Technologies, Inc**
-Intermediate Accounting  `2016.3 - 2016.6`<br>
+### ** Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`<br>
 
 <!-- For more detail but not show on CV
 - Provided guidance
@@ -142,18 +145,20 @@ Intermediate Accounting  `2016.3 - 2016.6`<br>
 <br>
 -->
 
-### **Facilitator, National Chung Cheng University**
+### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`<br>
+
+<!-- For more detail but not show on CV
 Business analysis and Valuation `2016.2 - 2016.6`<br>
 Principles of Accounting `2015.9 - 2016.6`<br>
 Advanced Accounting `2015.9 - 2016.6`<br>
 Audit and Assurance `2015.9 - 2016.6`<br>
 Statistics `2015.2 - 2015.6`<br>
-
-<!-- For more detail but not show on CV
 - Provided guidance and handouts
 - Assisted professors and gave students instructions
 <br>
 -->
+
+---
 
 ## Honors & Awards
 
@@ -210,5 +215,4 @@ XBRL (eXtensible Business Reporting Language) was the latest idea of a global fr
 <br>
 
 <!-- ### Footer
-
 Last updated: May 2022 -->
