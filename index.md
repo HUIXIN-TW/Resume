@@ -106,7 +106,7 @@ Leadership
 -->
 
 Industry Experiences
-- Medical Manufacturing(listed Taipei Exchange and NASDAQ) and Telecommunication(listed Taipei Exchange and NASDAQ)
+- Medical Manufacturing and Telecommunication (Both are listed on the Taipei Stock Exchange and NASDAQ)
 <br>
 
 ### **Staff - Senior Associate, PwC** `2016.9 - 2019.2`
@@ -160,6 +160,26 @@ Statistics `2015.2 - 2015.6`<br>
 
 ---
 
+## Qualifications and Certifications
+### **Technology and Programming**
+- Highly proficient with Microsoft Excel, Microsoft PowerPoint, Microsoft Word, Microsoft Power BI, Globe3 ERP
+- Basic level of ACL, SAS, SQL, Python, Java, Linux, C, SAP, Oracle, Google Analytics. 
+<br>
+
+### **Accounting and Finance**
+- In Progress - Certified Practicing Account, Australia (Passed EG, FR, SMA, DF. 4 out of 5 units)
+- Certified Public Accountant, ROC
+- Level B technician for Accounting
+- Level C technician for Accounting
+<br>
+
+### **International Business and Business Analysis**
+- Futures Specialist licensed by [SFI](https://www.sfi.org.tw/en/)
+- Level C technician for International Trade Management
+- Blockchain Basic
+- Business Analysis Foundation
+<br>
+
 ## Honors & Awards
 
 ### **Best Lecturer on CCU AIT 5th Summer Camp** `2016.7`
@@ -184,26 +204,6 @@ KPMG International Limited (or simply KPMG) is a multinational professional serv
 XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. Hence, my classmates and I enrolled in the XBRL camp hold by Taiwan Stock Exchange from January 19, 2015, to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day. Luckily, we won third place!
 <br>
 -->
-
-## Qualifications and Certifications
-### **Technology and Programming**
-- Highly proficient with Microsoft Excel, Microsoft PowerPoint, Microsoft Word, Microsoft Power BI, Globe3 ERP
-- Basic level of ACL, SAS, SQL, Python, Java, Linux, C, SAP, Oracle, Google Analytics. 
-<br>
-
-### **Accounting and Finance**
-- In Progress - Certified Practicing Account, Australia (Passed EG, FR, SMA, DF. 4 out of 5 units)
-- Certified Public Accountant, ROC
-- Level B technician for Accounting
-- Level C technician for Accounting
-<br>
-
-### **International Business and Business Analysis**
-- Futures Specialist licensed by [SFI](https://www.sfi.org.tw/en/)
-- Level C technician for International Trade Management
-- Blockchain Basic
-- Business Analysis Foundation
-<br>
 
 <!-- ### Footer
 Last updated: May 2022 -->
