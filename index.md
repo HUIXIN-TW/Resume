@@ -191,7 +191,7 @@ Before I graduated, the Accounting students’ Guild invited me as a lecturer fo
 <br>
 -->
 
-### **CCU Excellent Teaching Facilitator** `2016.5`
+### **[CCU Excellent Teaching Facilitator](https://oaa.ccu.edu.tw/_files_oaa/dev/ta_selection/ta_selection104.pdf)** `2016.5`
 
 ### **Champion Team in KPMG Academic competition** `2015.5`
 
