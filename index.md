@@ -76,7 +76,7 @@ Taiwan
 ## Experience
 
 ### **Assistant Manager, Deloitte Taiwan** `2019.3 - 2020.8`
-
+<!-- For more detail but not show on CV
 Responsibility
 - Possessed sound knowledge of US GAAP, IFRS, and SOX internal control audits.
 - Performed financial modeling to support and challenge key assumptions made by the development team and external advisors, such as DCF models.
@@ -100,14 +100,14 @@ Leadership
 - Communicated with clients and proactively sought timely feedback for improvement to maximize client satisfaction.
 - Conducted client interviews and led internal meetings to facilitate effective audit planning and execution.
 <br>
-
+-->
 Industry Experiences
 - Medical Manufacturing, listed Taipei Exchange and NASDAQ
 - Telecommunication, listed Taipei Exchange and NASDAQ
 <br>
 
 ### **Staff - Senior Associate, PwC Taiwan** `2016.9 - 2019.2`
-
+<!-- For more detail but not show on CV
 Responsibility
 - Conducted in Biotechnology Industry initial public offering project.
 - Evaluated investment profile including local/international, public/private stocks, and bonds by natures under IFRS9.
@@ -126,7 +126,7 @@ Leadership
 - Initiated plans before auditing, and managed a project, then assign tasks to team member based on priority
 - Leaded 2 members and managed audit plan for a listed companies
 <br>
-
+-->
 Industry Experiences
 - Medical Manufacturing, Investment, Advertising, Hospitality, Clothing Manufacturing
 <br>
