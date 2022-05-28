@@ -61,7 +61,7 @@ Kaohsiung, Taiwan
 
 ## Professional Program
 
-### **[CPA Australia Program](https://www.cpaaustralia.com.au) (CPAA)** `2020.7 -`
+### **[CPA Australia Program (CPAA)](https://www.cpaaustralia.com.au)** `2020.7 -`
 
 ```
 Australia
