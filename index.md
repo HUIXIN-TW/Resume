@@ -136,7 +136,7 @@ Industry Experiences
 - Medical Manufacturing, Investment, Advertising, Hospitality, Clothing Manufacturing
 <br>
 
-### **Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`<br>
+### **Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
 
 <!-- For more detail but not show on CV
 - Provided guidance
@@ -144,8 +144,8 @@ Industry Experiences
 <br>
 -->
 
-### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`<br>
-- Business analysis and Valuation, Accounting, Advanced Accounting, Audit and Statistics.
+### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
+- Business analysis and Valuation, Accounting, Advanced Accounting, Audit and Statistics.<br>
 
 <!-- For more detail but not show on CV
 Business analysis and Valuation `2016.2 - 2016.6`<br>
