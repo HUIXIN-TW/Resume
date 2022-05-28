@@ -106,8 +106,7 @@ Leadership
 -->
 
 Industry Experiences
-- Medical Manufacturing, listed Taipei Exchange and NASDAQ
-- Telecommunication, listed Taipei Exchange and NASDAQ
+- Medical Manufacturing(listed Taipei Exchange and NASDAQ) and Telecommunication(listed Taipei Exchange and NASDAQ)
 <br>
 
 ### **Staff - Senior Associate, PwC** `2016.9 - 2019.2`
