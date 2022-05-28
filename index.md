@@ -132,20 +132,23 @@ Industry Experiences
 <br>
 
 ### **Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
+_Intermediate Accounting_<br>
+<!-- For more detail but not show on CV
 - Provided guidance
 - Initiated study planning for students
 <br>
-
+-->
 ### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
 _Business analysis and Valuation `2016.2 - 2016.6`_<br>
 _Principles of Accounting `2015.9 - 2016.6`_<br>
 _Advanced Accounting `2015.9 - 2016.6`_<br>
 _Audit and Assurance `2015.9 - 2016.6`_<br>
 _Statistics `2015.2 - 2015.6`<br>_
+<!-- For more detail but not show on CV
 - Provided guidance and handouts
 - Assisted professors and gave students instructions
 <br>
-
+-->
 ---
 
 ## Honors & Awards
