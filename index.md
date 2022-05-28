@@ -29,7 +29,7 @@ Supported arguments:
 
 ## Education
 
-### **University of Western Australia** `2021.2 -`
+### **University of Western Australia (UWA)** `2021.2 -`
 
 ```
 Perth, Australia
@@ -38,7 +38,7 @@ Perth, Australia
 - GPA 6/7
 
 
-### **National Chung Cheng University** `2014.9 - 2016.7`
+### **National Chung Cheng University (CCU)** `2014.9 - 2016.7`
 
 ```
 Chiayi, Taiwan
@@ -47,7 +47,7 @@ Chiayi, Taiwan
 - The _2nd_ place in the entrance examination
 - GPA 3.93/4.0
 
-### **National Kaohsiung University of Science and Technology** `2010.9 - 2014.6`
+### **National Kaohsiung University of Science and Technology (NKUST)** `2010.9 - 2014.6`
 
 ```
 Kaohsiung, Taiwan 
@@ -57,7 +57,7 @@ Kaohsiung, Taiwan
 
 ## Professional Program
 
-### **[CPA Australia Program](https://www.cpaaustralia.com.au)** `2020.7 -`
+### **[CPA Australia Program](https://www.cpaaustralia.com.au) (CPAA)** `2020.7 -`
 
 ```
 Australia
@@ -75,7 +75,12 @@ Taiwan
 
 ## Experience
 
-### **Assistant Manager, Deloitte Taiwan** `2019.3 - 2020.8`
+### **Assistant Manager, Deloitte** `2019.3 - 2020.8`
+
+```
+Taipei, Taiwan 
+```
+
 <!-- For more detail but not show on CV
 Responsibility
 - Possessed sound knowledge of US GAAP, IFRS, and SOX internal control audits.
@@ -100,13 +105,19 @@ Leadership
 - Communicated with clients and proactively sought timely feedback for improvement to maximize client satisfaction.
 - Conducted client interviews and led internal meetings to facilitate effective audit planning and execution.
 <br>
--->
+
 Industry Experiences
 - Medical Manufacturing, listed Taipei Exchange and NASDAQ
 - Telecommunication, listed Taipei Exchange and NASDAQ
 <br>
+-->
 
-### **Staff - Senior Associate, PwC Taiwan** `2016.9 - 2019.2`
+### **Staff - Senior Associate, PwC** `2016.9 - 2019.2`
+
+```
+Taipei, Taiwan 
+```
+
 <!-- For more detail but not show on CV
 Responsibility
 - Conducted in Biotechnology Industry initial public offering project.
@@ -126,13 +137,14 @@ Leadership
 - Initiated plans before auditing, and managed a project, then assign tasks to team member based on priority
 - Leaded 2 members and managed audit plan for a listed companies
 <br>
--->
+
 Industry Experiences
 - Medical Manufacturing, Investment, Advertising, Hospitality, Clothing Manufacturing
 <br>
+-->
 
 ### **Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
-_Intermediate Accounting_<br>
+Intermediate Accounting<br>
 
 <!-- For more detail but not show on CV
 - Provided guidance
@@ -141,11 +153,11 @@ _Intermediate Accounting_<br>
 -->
 
 ### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
-_Business analysis and Valuation `2016.2 - 2016.6`_<br>
-_Principles of Accounting `2015.9 - 2016.6`_<br>
-_Advanced Accounting `2015.9 - 2016.6`_<br>
-_Audit and Assurance `2015.9 - 2016.6`_<br>
-_Statistics `2015.2 - 2015.6`<br>_
+Business analysis and Valuation `2016.2 - 2016.6`<br>
+Principles of Accounting `2015.9 - 2016.6`<br>
+Advanced Accounting `2015.9 - 2016.6`<br>
+Audit and Assurance `2015.9 - 2016.6`<br>
+Statistics `2015.2 - 2015.6`<br>
 
 <!-- For more detail but not show on CV
 - Provided guidance and handouts
@@ -157,17 +169,17 @@ _Statistics `2015.2 - 2015.6`<br>_
 
 ## Honors & Awards
 
-### **CCU AIT 5th Summer Camp Best Lecturer** `Accounting and Information Technology Faculty, National Chung Cheng University, 2016.7`
+### **CCU AIT 5th Summer Camp Best Lecturer** `CCU, 2016.7`
 
 <!-- For more detail but not show on CV
 Before I graduated, the Accounting students’ Guild invited me as a lecturer for the fifth accounting summer camp on July 10, 2016. It flattered me when I heard. I attached great importance to teaching high school students who are interested in accounting. Hence, I took a week to design my game - Fraud and Fraudit. It was an interactive game with audiences. Participants won credits by a group if they answered correctly. Then, all teams showed their financial statements and told a good story to gain the fund. Be careful! It may be a fraud! Candidates who acted as accountants must find out whether it was fraud. Call “BLUFF” when determining it was a scandal, then you won.
 <br>
 -->
 
-### **Excellent Teaching Assistant** `Accounting and Information Technology Faculty, National Chung Cheng University, 2016.5` 
+### **Excellent Teaching Assistant** `CCU, 2016.5` 
 
 
-### **KPMG Academic competition Champion Team** `KPMG Taiwan, 2015.5`
+### **KPMG Academic competition Champion Team** `KPMG, 2015.5`
 
 <!-- For more detail but not show on CV
 KPMG International Limited (or simply KPMG) is a multinational professional services network, and one of the Big Four accounting organizations. Every June, they hold a KPMG academic competition in my university to reward those who have professional and practical knowledge. All candidates must answer the questions about intermediate accounting in a limited time. In the end, my team won the champion. It was thrill experience; I was glad that we showed teamwork and professionalism.
