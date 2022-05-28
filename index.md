@@ -193,17 +193,14 @@ Before I graduated, the Accounting students’ Guild invited me as a lecturer fo
 
 ### **Champion Team in KPMG Academic competition** `2015.5`
 
-<!-- For more detail but not show on CV
 KPMG International Limited (or simply KPMG) is a multinational professional services network, and one of the Big Four accounting organizations. Every June, they hold a KPMG academic competition in my university to reward those who have professional and practical knowledge. All candidates must answer the questions about intermediate accounting in a limited time. In the end, my team won the champion. It was thrill experience; I was glad that we showed teamwork and professionalism.
 <br>
--->
 
 ### **Bronze Medal Winner on XBRL Academic Winter Camp, [TWSE](https://www.twse.com.tw/en/)** `2015.1`
 
-<!-- For more detail but not show on CV
 XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. Hence, my classmates and I enrolled in the XBRL camp hold by Taiwan Stock Exchange from January 19, 2015, to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day. Luckily, we won third place!
 <br>
--->
+
 
 <!-- ### Footer
 Last updated: May 2022 -->
