@@ -184,7 +184,7 @@ Statistics `2015.2 - 2015.6`<br>
 
 ### **Best Lecturer on CCU AIT 5th Summer Camp** `2016.7`
 
-I designed a game, named _Fraud and Fraudit_. It was an interactive game with audiences. Participants won credits if they answered correctly. Then, all teams showed their financial statements and told a good story to gain the fund. Be careful! It may be a fraud! Candidates who acted as accountants must find out whether it was fraud. Call _BLUFF_ when determining it was a scandal, then you won.
+I designed a game, named _Fraud and Fraudit_. It is an interactive game with audiences. Participants win credits as financial points if they answer correctly. Then, all teams show their financial statements and tell a good story to gain the fund. Candidates who act as accountants must find out whether it is a fraud.
 
 <!-- For more detail but not show on CV
 Before I graduated, the Accounting students’ Guild invited me as a lecturer for the fifth accounting summer camp on July 10, 2016. It flattered me when I heard. I attached great importance to teaching high school students who are interested in accounting. Hence, I took a week to design my game - Fraud and Fraudit. It was an interactive game with audiences. Participants won credits by a group if they answered correctly. Then, all teams showed their financial statements and told a good story to gain the fund. Be careful! It may be a fraud! Candidates who acted as accountants must find out whether it was fraud. Call “BLUFF” when determining it was a scandal, then you won.
