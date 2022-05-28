@@ -162,27 +162,42 @@ Statistics `2015.2 - 2015.6`<br>
 
 ## Honors & Awards
 
-### **Best Lecturer on CCU AIT 5th Summer Camp** `2016.7`
+### **Best Lecturer** `2016.7`
+
+```
+CCU AIT 5th Summer Camp
+```
+<br>
 
 <!-- For more detail but not show on CV
 Before I graduated, the Accounting students’ Guild invited me as a lecturer for the fifth accounting summer camp on July 10, 2016. It flattered me when I heard. I attached great importance to teaching high school students who are interested in accounting. Hence, I took a week to design my game - Fraud and Fraudit. It was an interactive game with audiences. Participants won credits by a group if they answered correctly. Then, all teams showed their financial statements and told a good story to gain the fund. Be careful! It may be a fraud! Candidates who acted as accountants must find out whether it was fraud. Call “BLUFF” when determining it was a scandal, then you won.
 <br>
 -->
 
-### **CCU Excellent Teaching Assistant** `2016.5` 
+### **Excellent Teaching Facilitator** `2016.5`
+
+```
+CCU
+```
+<br>
 
 
-### **Champion Team in KPMG Academic competition** `2015.5`
+### **Champion Team** `2015.5`
+
+```
+KPMG Academic competition
+```
+<br>
 
 <!-- For more detail but not show on CV
 KPMG International Limited (or simply KPMG) is a multinational professional services network, and one of the Big Four accounting organizations. Every June, they hold a KPMG academic competition in my university to reward those who have professional and practical knowledge. All candidates must answer the questions about intermediate accounting in a limited time. In the end, my team won the champion. It was thrill experience; I was glad that we showed teamwork and professionalism.
 <br>
 -->
 
-### **Third place Team in the XBRL Academic Winter Camp competition** `2015.1`
+### **Third place Team** `2015.1`
 
 ```
-Taiwan Stock Exchange Corporation
+XBRL Academic Winter Camp competition, Taiwan Stock Exchange Corporation
 ```
 <br>
 
