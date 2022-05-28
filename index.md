@@ -48,7 +48,7 @@ Perth, Australia
 Chiayi, Taiwan
 ```
 - M.S. in Accounting and Information Technology
-- The _2nd_ place in the entrance examination
+- The second place in the entrance examination
 - GPA 3.93/4.0
 
 ### **National Kaohsiung University of Science and Technology (NKUST)** `2010.9 - 2014.6`
@@ -103,9 +103,9 @@ Leadership
 - Communicated with clients and proactively sought timely feedback for improvement to maximize client satisfaction.
 - Conducted client interviews and led internal meetings to facilitate effective audit planning and execution.
 <br>
+-->
 
 Industry Experiences
--->
 - Medical Manufacturing, listed Taipei Exchange and NASDAQ
 - Telecommunication, listed Taipei Exchange and NASDAQ
 <br>
@@ -131,13 +131,13 @@ Leadership
 - Initiated plans before auditing, and managed a project, then assign tasks to team member based on priority
 - Leaded 2 members and managed audit plan for a listed companies
 <br>
+-->
 
 Industry Experiences
--->
 - Medical Manufacturing, Investment, Advertising, Hospitality, Clothing Manufacturing
 <br>
 
-### ** Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`<br>
+### **Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`<br>
 
 <!-- For more detail but not show on CV
 - Provided guidance
@@ -162,7 +162,7 @@ Statistics `2015.2 - 2015.6`<br>
 
 ## Honors & Awards
 
-### **CCU AIT 5th Summer Camp Best Lecturer** `2016.7`
+### **Best Lecturer on CCU AIT 5th Summer Camp** `2016.7`
 
 <!-- For more detail but not show on CV
 Before I graduated, the Accounting students’ Guild invited me as a lecturer for the fifth accounting summer camp on July 10, 2016. It flattered me when I heard. I attached great importance to teaching high school students who are interested in accounting. Hence, I took a week to design my game - Fraud and Fraudit. It was an interactive game with audiences. Participants won credits by a group if they answered correctly. Then, all teams showed their financial statements and told a good story to gain the fund. Be careful! It may be a fraud! Candidates who acted as accountants must find out whether it was fraud. Call “BLUFF” when determining it was a scandal, then you won.
@@ -172,18 +172,19 @@ Before I graduated, the Accounting students’ Guild invited me as a lecturer fo
 ### **CCU Excellent Teaching Assistant** `2016.5` 
 
 
-### **KPMG Academic competition Champion Team** `2015.5`
+### **Champion Team in KPMG Academic competition ** `2015.5`
 
 <!-- For more detail but not show on CV
 KPMG International Limited (or simply KPMG) is a multinational professional services network, and one of the Big Four accounting organizations. Every June, they hold a KPMG academic competition in my university to reward those who have professional and practical knowledge. All candidates must answer the questions about intermediate accounting in a limited time. In the end, my team won the champion. It was thrill experience; I was glad that we showed teamwork and professionalism.
 <br>
 -->
 
-### **XBRL Academic Winter Camp Third place in the competition** `2015.1`
+### **Third place Team in the XBRL Academic Winter Camp competition** `2015.1`
 
 ```
 Taiwan Stock Exchange Corporation
 ```
+<br>
 
 <!-- For more detail but not show on CV
 XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. Hence, my classmates and I enrolled in the XBRL camp hold by Taiwan Stock Exchange from January 19, 2015, to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day. Luckily, we won third place!
@@ -206,12 +207,8 @@ XBRL (eXtensible Business Reporting Language) was the latest idea of a global fr
 ### **International Business and Business Analysis**
 - Futures Specialist licensed by [SFI](https://www.sfi.org.tw/en/)
 - Level C technician for International Trade Management
-
-<!-- For more detail but not show on CV
 - Blockchain Basic
 - Business Analysis Foundation
--->
-
 <br>
 
 <!-- ### Footer
