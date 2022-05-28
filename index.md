@@ -172,7 +172,7 @@ Before I graduated, the Accounting students’ Guild invited me as a lecturer fo
 ### **CCU Excellent Teaching Assistant** `2016.5` 
 
 
-### **Champion Team in KPMG Academic competition ** `2015.5`
+### **Champion Team in KPMG Academic competition** `2015.5`
 
 <!-- For more detail but not show on CV
 KPMG International Limited (or simply KPMG) is a multinational professional services network, and one of the Big Four accounting organizations. Every June, they hold a KPMG academic competition in my university to reward those who have professional and practical knowledge. All candidates must answer the questions about intermediate accounting in a limited time. In the end, my team won the champion. It was thrill experience; I was glad that we showed teamwork and professionalism.
