@@ -145,7 +145,7 @@ Industry Experiences
 -->
 
 ### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
-- Business analysis, Accounting, Advanced Accounting, Audit and Statistics.<br>
+- Business Analysis, Accounting, Advanced Accounting, Audit and Statistics.<br>
 
 <!-- For more detail but not show on CV
 Business analysis and Valuation `2016.2 - 2016.6`<br>
