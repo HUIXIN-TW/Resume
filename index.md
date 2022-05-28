@@ -177,7 +177,7 @@ Before I graduated, the Accounting students’ Guild invited me as a lecturer fo
 ### **Excellent Teaching Facilitator** `2016.5`
 
 ```
-CCU
+CCU AIT
 ```
 <br>
 
@@ -197,7 +197,7 @@ KPMG International Limited (or simply KPMG) is a multinational professional serv
 ### **Third place Team** `2015.1`
 
 ```
-XBRL Academic Winter Camp competition, Taiwan Stock Exchange Corporation
+XBRL Academic Winter Camp, [TWSE](https://www.twse.com.tw/en/)
 ```
 <br>
 
