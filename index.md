@@ -167,7 +167,7 @@ Statistics `2015.2 - 2015.6`<br>
 <br>
 
 ### **Accounting and Finance**
-- In Progress - Certified Practicing Account, Australia (Passed EG, FR, SMA, DF. 4 out of 5 units)
+- In Progress: Certified Practicing Account, Australia (Passed EG, FR, SMA, DF. 4 out of 5 units)
 - Certified Public Accountant, ROC
 - Level B technician for Accounting
 - Level C technician for Accounting
