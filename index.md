@@ -43,7 +43,7 @@ Perth, Australia
 ```
 Chiayi, Taiwan
 ```
-- M.S in Accounting and Information Technology
+- M.S. in Accounting and Information Technology
 - The _2nd_ place in the entrance examination
 - GPA 3.93/4.0
 
@@ -77,10 +77,6 @@ Taiwan
 
 ### **Assistant Manager, Deloitte** `2019.3 - 2020.8`
 
-```
-Taipei, Taiwan 
-```
-
 <!-- For more detail but not show on CV
 Responsibility
 - Possessed sound knowledge of US GAAP, IFRS, and SOX internal control audits.
@@ -113,10 +109,6 @@ Industry Experiences
 -->
 
 ### **Staff - Senior Associate, PwC** `2016.9 - 2019.2`
-
-```
-Taipei, Taiwan 
-```
 
 <!-- For more detail but not show on CV
 Responsibility
