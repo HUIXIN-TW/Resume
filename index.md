@@ -61,7 +61,7 @@ Kaohsiung, Taiwan
 
 ## Professional Program
 
-### **[CPA Australia Program (CPAA)](https://www.cpaaustralia.com.au)** `2020.7 -`
+### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2020.7 -`
 
 ```
 Australia
@@ -165,7 +165,7 @@ Statistics `2015.2 - 2015.6`<br>
 <br>
 
 ### **Accounting and Finance**
-- In Progress: Certified Practicing Account, Australia (Passed EG, FR, SMA, DF. 4 out of 5 units)
+- Certified Practicing Account, Australia
 - Certified Public Accountant, ROC
 - Level B technician for Accounting
 - Level C technician for Accounting
