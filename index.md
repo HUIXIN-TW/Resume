@@ -10,6 +10,9 @@ github:
 homepage:
   url: https://www.notion.so/huixin/Personal-Profile-89bf504efcbb4b1682c249e127b194f1
   text: Personal Profile
+linkedin:
+  url: https://www.linkedin.com/in/hui-xin-yang
+  text: Linkedin
 phone:
   tel: tel:+61478093588
   text: 0478093588
