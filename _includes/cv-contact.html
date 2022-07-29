@@ -10,14 +10,14 @@
     <a href="{{ page.linkedin.url }}" style="margin-left:0.5em"> {{ page.linkedin.text }}</a>
     {% endif %}
 
-    {% if page.email %}
-    <i class="fi-mail" style="margin-left:1em"></i>
-    <a href="{{ page.email.url }}" style="margin-left:0.5em">{{ page.email.text }}</a>
-    {% endif %}
-
     {% if page.github %}
     <i class="fi-social-github" style="margin-left:1em"></i>
     <a href="{{ page.github.url }}" style="margin-left:0.5em">{{ page.github.text }}</a>
+    {% endif %}
+
+    {% if page.email %}
+    <i class="fi-mail" style="margin-left:1em"></i>
+    <a href="{{ page.email.url }}" style="margin-left:0.5em">{{ page.email.text }}</a>
     {% endif %}
 
     {% if page.phone %}
