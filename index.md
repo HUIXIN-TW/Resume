@@ -160,6 +160,7 @@ Statistics `2015.2 - 2015.6`<br>
 - Assisted professors and gave students instructions
 <br>
 -->
+<br>
 
 ## Qualifications and Certifications
 ### **Technology and Programming**
