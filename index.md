@@ -52,6 +52,7 @@ Chiayi, Taiwan
 ```
 - M.S. in Accounting and Information Technology
 - The second place in the entrance examination
+- Subject of  research: Directors’ and Officers’ Liability Insurance and Cost Stickiness.
 - GPA 3.93/4.0
 
 ### **National Kaohsiung University of Science and Technology (NKUST)** `2010.9 - 2014.6`
