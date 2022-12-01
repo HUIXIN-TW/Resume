@@ -1,5 +1,5 @@
 # Resume via GitHub
-Introduce myself to the world
+[Introduce myself to the world](https://huixin-tw.github.io/Resume/)
 
 # Installation
 
