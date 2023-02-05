@@ -46,7 +46,7 @@ Perth, Australia
 -   GPA 6.25/7
 -   Assignments
     -   COVID Analysis (Python)
-    -   Chemical formula game and Light Bulb game (Java)
+    -   Chemical Equations game and Puzzle Light Bulb game (Java)
     -   Maze game (bash)
     -   Software requirements and design analysis for Transportation system - shuttleUWA
     -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R)
@@ -92,9 +92,9 @@ Taiwan
 
 ## Experience
 
-### **[Coders for Causes](https://codersforcauses.org)** `2022.11 - `
+### **Software Developer, [Coders for Causes](https://codersforcauses.org)** `2022.11 - `
 
--   [Pets of Older Persons](https://www.poopswa.org.au)
+-   Member in [Pets of Older Persons](https://www.poopswa.org.au) Project
 
 ### **Assistant Manager, Deloitte** `2019.3 - 2020.8`
 
@@ -185,7 +185,7 @@ Statistics `2015.2 - 2015.6`<br>
 
 ### **Technology and Programming**
 
--   Programming: SQLite SQL, MySQL, Python, Java, Javascript, bash, C, React, Firebase
+-   Programming: Python, Java, Javascript, bash, C, React, Firebase, SQLite, MySQL
 -   Office Applications: Microsoft Excel, Microsoft PowerPoint, Microsoft Word, Microsoft Power BI, Globe3 ERP, ACL, SAS, SAP, Oracle, Google Analytics.
     <br>
 
