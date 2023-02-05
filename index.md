@@ -46,7 +46,7 @@ Perth, Australia
 -   GPA 6.25/7
 -   Assignments
     -   COVID Analysis (Python)
-    -   Chemical Equations game and Puzzle Light Bulb game (Java)
+    -   Chemical Equations game and Light Bulb puzzle (Java)
     -   Maze game (bash)
     -   Software requirements and design analysis for Transportation system - shuttleUWA
     -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R)
