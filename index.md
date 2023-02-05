@@ -8,7 +8,7 @@ github:
     url: https://github.com/HUIXIN-TW
     text: HUIXIN-TW
 homepage:
-    url: https://www.notion.so/huixin/Personal-Profile-89bf504efcbb4b1682c249e127b194f1
+    url: https://huixin.notion.site
     text: Personal Profile
 linkedin:
     url: https://www.linkedin.com/in/hui-xin-yang
