@@ -2,20 +2,20 @@
 layout: cv
 title: HUIXIN *YANG*
 email:
-  url: mailto:huixin.yang.tw@gmail.com
-  text: huixin.yang.tw@gmail.com
+    url: mailto:huixin.yang.tw@gmail.com
+    text: huixin.yang.tw@gmail.com
 github:
-  url: https://github.com/HUIXIN-TW
-  text: HUIXIN-TW
+    url: https://github.com/HUIXIN-TW
+    text: HUIXIN-TW
 homepage:
-  url: https://www.notion.so/huixin/Personal-Profile-89bf504efcbb4b1682c249e127b194f1
-  text: Personal Profile
+    url: https://www.notion.so/huixin/Personal-Profile-89bf504efcbb4b1682c249e127b194f1
+    text: Personal Profile
 linkedin:
-  url: https://www.linkedin.com/in/hui-xin-yang
-  text: Linkedin
+    url: https://www.linkedin.com/in/hui-xin-yang
+    text: Linkedin
 phone:
-  tel: tel:+61478093588
-  text: 0478093588
+    tel: tel:+61478093588
+    text: 0478093588
 ---
 
 # HUIXIN **YANG**
@@ -41,27 +41,36 @@ print format: use --- to separate pages
 ```
 Perth, Australia
 ```
-- M.S. in Information Technology
-- GPA 6/7
 
+-   M.S. in Information Technology
+-   GPA 6.25/7
+-   Assignments
+    -   COVID Analysis (Python)
+    -   Chemical formula game and Light Bulb game (Java)
+    -   Maze game (bash)
+    -   Software requirements and design analysis for Transportation system - shuttleUWA
+    -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R)
+    -   Business intelligent report for BMW cars marketing (PowerBI)
 
 ### **National Chung Cheng University (CCU)** `2014.9 - 2016.7`
 
 ```
 Chiayi, Taiwan
 ```
-- M.S. in Accounting and Information Technology
-- The second place in the entrance examination
-- Subject of  research: Directors’ and Officers’ Liability Insurance and Cost Stickiness.
-- GPA 3.93/4.0
+
+-   M.S. in Accounting and Information Technology
+-   The second place in the entrance examination
+-   Subject of research: Directors’ and Officers’ Liability Insurance and Cost Stickiness.
+-   GPA 3.93/4.0
 
 ### **National Kaohsiung University of Science and Technology (NKUST)** `2010.9 - 2014.6`
 
 ```
-Kaohsiung, Taiwan 
+Kaohsiung, Taiwan
 ```
-- B.S. in Accounting and Information System
-- GPA 80.44/100
+
+-   B.S. in Accounting and Information System
+-   GPA 80.44/100
 
 ## Professional Program
 
@@ -70,16 +79,22 @@ Kaohsiung, Taiwan
 ```
 Australia
 ```
-- Financial Reporting, High Distinction
+
+-   Financial Reporting, High Distinction
 
 ### **Law Program** `2017.8 - 2018.5`
 
 ```
 Taiwan
 ```
-- GPA 78.6/100
+
+-   GPA 78.6/100
 
 ## Experience
+
+### **[Coders for Causes](https://codersforcauses.org)** `2022.11 - `
+
+-   [Pets of Older Persons](https://www.poopswa.org.au)
 
 ### **Assistant Manager, Deloitte** `2019.3 - 2020.8`
 
@@ -110,8 +125,9 @@ Leadership
 -->
 
 Industry Experiences
-- Medical Manufacturing and Telecommunication<br>
-*Both are listed on the Taipei Stock Exchange and NASDAQ<br>
+
+-   Medical Manufacturing and Telecommunication<br>
+    \*Both are listed on the Taipei Stock Exchange and NASDAQ<br>
 
 ### **Staff - Senior Associate, PwC** `2016.9 - 2019.2`
 
@@ -137,8 +153,9 @@ Leadership
 -->
 
 Industry Experiences
-- Medical Manufacturing, Investment, Advertising, Hospitality, Clothing Manufacturing
-<br>
+
+-   Medical Manufacturing, Investment, Advertising, Hospitality, Clothing Manufacturing
+    <br>
 
 ### **Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
 
@@ -149,7 +166,8 @@ Industry Experiences
 -->
 
 ### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
-- Business Analysis, Accounting, Advanced Accounting, Audit and Statistics.<br>
+
+-   Business Analysis, Accounting, Advanced Accounting, Audit and Statistics.<br>
 
 <!-- For more detail but not show on CV
 Business analysis and Valuation `2016.2 - 2016.6`<br>
@@ -164,24 +182,28 @@ Statistics `2015.2 - 2015.6`<br>
 <br>
 
 ## Qualifications and Certifications
+
 ### **Technology and Programming**
-- Highly proficient with Microsoft Excel, Microsoft PowerPoint, Microsoft Word, Microsoft Power BI, Globe3 ERP
-- Basic level of ACL, SAS, SQL, Python, Java, Linux, C, SAP, Oracle, Google Analytics. 
-<br>
+
+-   Programming: SQLite SQL, MySQL, Python, Java, Javascript, bash, C, React, Firebase
+-   Office Applications: Microsoft Excel, Microsoft PowerPoint, Microsoft Word, Microsoft Power BI, Globe3 ERP, ACL, SAS, SAP, Oracle, Google Analytics.
+    <br>
 
 ### **Accounting and Finance**
-- Certified Practicing Account, Australia
-- Certified Public Accountant, ROC
-- Level B technician for Accounting
-- Level C technician for Accounting
-<br>
+
+-   Certified Practicing Account, Australia
+-   Certified Public Accountant, ROC
+-   Level B technician for Accounting
+-   Level C technician for Accounting
+    <br>
 
 ### **International Business and Business Analysis**
-- Futures Specialist licensed by [SFI](https://www.sfi.org.tw/en/)
-- Level C technician for International Trade Management
-- Blockchain Basic
-- Business Analysis Foundation
-<br>
+
+-   Futures Specialist licensed by [SFI](https://www.sfi.org.tw/en/)
+-   Level C technician for International Trade Management
+-   Blockchain Basic
+-   Business Analysis Foundation
+    <br>
 
 ## Honors & Awards
 
@@ -198,14 +220,13 @@ Before I graduated, the Accounting students’ Guild invited me as a lecturer fo
 
 ### **Champion Team in KPMG Academic competition** `2015.5`
 
-KPMG International Limited (or simply KPMG) is a multinational professional services network, and one of the Big Four accounting organizations. Every June, they hold a KPMG academic competition in my university to reward those who have professional and practical knowledge. All candidates must answer the questions about intermediate accounting in a limited time. In the end, my team won the champion. It was thrill experience; I was glad that we showed teamwork and professionalism.
+KPMG International Limited (or simply KPMG) is a multinational professional services network, and one of the Big Four accounting organizations. Every June, they hold a KPMG academic competition at my university to reward those who have professional and practical knowledge. All candidates must answer the questions about intermediate accounting in a limited time. In the end, my team won the championship. It was thrill experience; I was glad that we showed teamwork and professionalism.
 <br>
 
 ### **Bronze Medal Winner on XBRL Academic Winter Camp, [TWSE](https://www.twse.com.tw/en/)** `2015.1`
 
-XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. Hence, my classmates and I enrolled in the XBRL camp hold by Taiwan Stock Exchange from January 19, 2015, to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day. Luckily, we won third place!
+XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. Hence, my classmates and I enrolled in the XBRL camp held by Taiwan Stock Exchange from January 19, 2015, to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day. Luckily, we won third place!
 <br>
 
-
 <!-- ### Footer
-Last updated: May 2022 -->
+Last updated: Feb 2023 -->
