@@ -43,7 +43,7 @@ Perth, Australia
 ```
 
 -   M.S. in Information Technology
--   GPA 6.25/7
+-   GPA 6.42/7
 -   Assignments
     -   COVID Analysis (Python)
     -   Chemical Equations game and Light Bulb puzzle (Java)
@@ -51,7 +51,9 @@ Perth, Australia
     -   Software requirements and design analysis for Transportation system - shuttleUWA
     -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R)
     -   Business intelligent report for BMW cars marketing (PowerBI)
-
+    -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, and the SQLAlchemy. Test unittest and Selenium)
+    -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI)
+    -   Graph Database & Graph Data Science - Crime in Atlanta (Neo4j, Cypher, and R)
 ### **National Chung Cheng University (CCU)** `2014.9 - 2016.7`
 
 ```
@@ -94,6 +96,7 @@ Taiwan
 
 ### **Software Developer, [Coders for Causes](https://codersforcauses.org)** `2022.11 - `
 
+-   Member in [Repair Labs](https://github.com/codersforcauses/repair-labs) Project
 -   Member in [Pets of Older Persons](https://www.poopswa.org.au) Project
 
 ### **Assistant Manager, Deloitte** `2019.3 - 2020.8`
@@ -116,18 +119,22 @@ Responsibility
 <br>
 
 Leadership
+
 - Leaded 4 members and managed audit plan for a listed companies
 - Supervise, coach, and develop junior members of staff within teams, on client premises, and in the office.
 - Drafted reports and presentations to the engagement leader, which will enable decisions on audit opinion.
 - Communicated with clients and proactively sought timely feedback for improvement to maximize client satisfaction.
 - Conducted client interviews and led internal meetings to facilitate effective audit planning and execution.
-<br>
--->
 
 Industry Experiences
-
+<br>
 -   Medical Manufacturing and Telecommunication<br>
-    \*Both are listed on the Taipei Stock Exchange and NASDAQ<br>
+    \*Both are listed on the Taipei Stock Exchange and NASDAQ<br> -->
+
+Leadership: Leaded 4 members and managed audit plan for a listed company
+Teamwork: Conducted internal review with team members and provided constructive feedback
+Communication: Communicated with clients and proactively sought timely feedback for improvement to maximize client satisfaction
+
 
 ### **Staff - Senior Associate, PwC** `2016.9 - 2019.2`
 
@@ -150,12 +157,15 @@ Leadership
 - Initiated plans before auditing, and managed a project, then assign tasks to team member based on priority
 - Leaded 2 members and managed audit plan for a listed companies
 <br>
--->
+
 
 Industry Experiences
 
 -   Medical Manufacturing, Investment, Advertising, Hospitality, Clothing Manufacturing
     <br>
+-->
+
+Teamwork: Conducted internal review with team members
 
 ### **Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
 
@@ -185,8 +195,8 @@ Statistics `2015.2 - 2015.6`<br>
 
 ### **Technology and Programming**
 
--   Programming: Python, Java, Javascript, bash, C, React, Firebase, SQLite, MySQL
--   Office Applications: Microsoft Excel, Microsoft PowerPoint, Microsoft Word, Microsoft Power BI, Globe3 ERP, ACL, SAS, SAP, Oracle, Google Analytics.
+-   Programming: Python, Java, Javascript, Typescript, bash, C, React, Firebase, SQLite, MySQL, R
+-   Office Applications: Neo4j, SSMS, SSAS, Microsoft Excel, Microsoft PowerPoint, Microsoft Word, Microsoft Power BI, Globe3 ERP, ACL, SAS, SAP, Oracle, Google Analytics.
     <br>
 
 ### **Accounting and Finance**
