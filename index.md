@@ -44,7 +44,7 @@ Perth, Australia
 
 -   M.S. in Information Technology
 -   GPA 6.42/7
--   Assignments
+-   Assignments / Projects
     -   COVID Analysis (Python)
     -   Chemical Equations game and Light Bulb puzzle (Java)
     -   Maze game (bash)
@@ -131,9 +131,9 @@ Industry Experiences
 -   Medical Manufacturing and Telecommunication<br>
     \*Both are listed on the Taipei Stock Exchange and NASDAQ<br> -->
 
-Leadership: Leaded 4 members and managed audit plan for a listed company
-Teamwork: Conducted internal review with team members and provided constructive feedback
-Communication: Communicated with clients and proactively sought timely feedback for improvement to maximize client satisfaction
+-   Leadership: Leaded 4 members and managed audit plan for a listed company
+-   Teamwork: Conducted internal review with team members and provided constructive feedback
+-   Communication: Communicated with clients and proactively sought timely feedback for improvement to maximize client satisfaction
 
 
 ### **Staff - Senior Associate, PwC** `2016.9 - 2019.2`
@@ -165,7 +165,7 @@ Industry Experiences
     <br>
 -->
 
-Teamwork: Conducted internal review with team members
+-   Teamwork: Conducted internal review with team members
 
 ### **Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
 
