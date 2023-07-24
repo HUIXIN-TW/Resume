@@ -45,8 +45,7 @@ Perth, Australia
 -   M.S. in Information Technology
 -   GPA 6.42/7
 -   Projects
-    Web application - BrewChat `HD & Top 3 Project` <br>
-    (HTML, CSS, Javascript, AJAX, jQuery, Flask, and the SQLAlchemy; unittest and Selenium)
+    Web application - BrewChat (HTML, CSS, Javascript, Flask, and SQLAlchemy; unittest and Selenium) `HD & Top 3 Project` <br>
     Data Warehousing & Association Rule Mining (R, SQL, SSMS and Power BI) `HD & Top 2 Project`<br>  
     Graph Database & Graph Data Science (Neo4j, Cypher, and R) `HD & Top 4 Project`<br>
     Exploratory data analysis and Machine learning models (R) `Top 1 Project`<br>
@@ -79,6 +78,7 @@ Kaohsiung, Taiwan
 -   B.S. in Accounting and Information System
 -   GPA 80.44/100
 
+<!-- 
 ## Professional Program
 
 ### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2020.7 - Current`
@@ -95,7 +95,8 @@ Australia
 Taiwan
 ```
 
--   GPA 78.6/100
+-   GPA 78.6/100 
+-->
 
 ## Project Experience
 
