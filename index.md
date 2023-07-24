@@ -46,7 +46,7 @@ Perth, Australia
 -   GPA 6.42/7
 -   Projects
     -   Web application - BrewChat `HD & Top 3 Project`
-    *HTML, CSS, Javascript, AJAX, jQuery, Flask, and the SQLAlchemy. Test unittest and Selenium*
+        *HTML, CSS, Javascript, AJAX, jQuery, Flask, and the SQLAlchemy. Test unittest and Selenium*
     -   Data Warehousing & Association Rule Mining – Crime in Atlanta `HD & Top 2 Project`
     *R, SQL, SSMS and Power BI*
     -   Graph Database & Graph Data Science - Crime in Atlanta `HD & Top 4 Project`
