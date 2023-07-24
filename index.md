@@ -44,17 +44,13 @@ Perth, Australia
 
 -   M.S. in Information Technology
 -   GPA 6.42/7
--   Projects test2
+-   Projects
     -   Web application - BrewChat (Javascript, Flask, SQLAlchemy, unittest) `HD & Top3 Project`
-    - Data Warehousing & Association Rule Mining (R, SQL, SSMS and Power BI) `HD & Top2 Project`
-
-    Graph Database & Graph Data Science (Neo4j, Cypher, and R) `HD & Top4 Project`
-
-    Exploratory data analysis and Machine learning models (R) `Top1 Project`
-
-    Business intelligent report (PowerBI) `HD`
-
-    COVID Analysis (Python) `HD`
+    -   Data Warehousing & Association Rule Mining (R, SQL, SSMS and Power BI) `HD & Top2 Project`
+    -   Graph Database & Graph Data Science (Neo4j, Cypher, and R) `HD & Top4 Project`
+    -   Exploratory data analysis and Machine learning models (R) `Top1 Project`
+    -   Business intelligent report (PowerBI) `HD`
+    -   COVID Analysis (Python) `HD`
 
 <!-- 
 -   Software requirements and design analysis for Transportation system - shuttleUWA
