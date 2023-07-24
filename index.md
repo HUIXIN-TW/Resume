@@ -62,8 +62,7 @@ Perth, Australia
 Chiayi, Taiwan
 ```
 
--   M.S. in Accounting and Information Technology
--   Ranked second in the entrance examination.
+-   M.S. in Accounting and Information Technology, ranked second in the entrance examination.
 -   Conducted research on "Directors’ and Officers’ Liability Insurance and Cost Stickiness."
 -   GPA 3.93/4.0
 
@@ -117,25 +116,20 @@ Responsibility
 - Supervise, coach, and develop junior members of staff within teams, on client premises, and in the office.
 - Assisting in preparing the company and branches year-end audit, with constant monitoring of internal controls for Taiwan and overseas branch offices: 5 days in San Jose, 10 days in Singapore.
 - Utilized IT skills for data cleaning, manipulation, and mapping - Microsoft Excel, Power BI
-<br>
-
 Leadership
-
 - Leaded 4 members and managed audit plan for a listed companies
 - Supervise, coach, and develop junior members of staff within teams, on client premises, and in the office.
 - Drafted reports and presentations to the engagement leader, which will enable decisions on audit opinion.
 - Communicated with clients and proactively sought timely feedback for improvement to maximize client satisfaction.
 - Conducted client interviews and led internal meetings to facilitate effective audit planning and execution.
-
 Industry Experiences
-<br>
 -   Medical Manufacturing and Telecommunication<br>
-    \*Both are listed on the Taipei Stock Exchange and NASDAQ<br> -->
+    \*Both are listed on the Taipei Stock Exchange and NASDAQ<br> 
+-->
 
 -   Led a team of 4 members in managing an audit plan for a listed company.
 -   Conducted internal reviews, providing constructive feedback to improve team performance.
 -   Actively communicated with clients to gather feedback and improve client satisfaction.
-
 
 ### **Staff - Senior Associate, PwC** `2016.9 - 2019.2`
 
@@ -152,14 +146,11 @@ Responsibility
 - Complied with audit methodology, internal risk management, and external regulatory requirements.
 - Directed non-profit organizations audit and tax declaration audit.
 - Assisting in preparing the company and branches year-end audit, with constant monitoring of internal controls for Taiwan and overseas branch offices:12 days in Dongguan, 17 days in Shanghai, 2 days in Nanjing, 3days in Wuhan and 12 days in New Jersey and Memphis.
-<br>
 Leadership
 - Initiated plans before auditing, and managed a project, then assign tasks to team member based on priority
 - Leaded 2 members and managed audit plan for a listed companies
-<br>
 Industry Experiences
 -   Medical Manufacturing, Investment, Advertising, Hospitality, Clothing Manufacturing
-<br>
 -->
 
 -   Worked collaboratively with team members, conducting internal reviews to ensure high-quality outputs.
@@ -189,7 +180,8 @@ Statistics `2015.2 - 2015.6`<br>
 <br>
 -->
 -   
-<br>
+
+---
 
 ## Qualifications and Certifications
 
