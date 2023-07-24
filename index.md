@@ -44,7 +44,7 @@ Perth, Australia
 
 -   M.S. in Information Technology
 -   GPA 6.42/7
--   Projects
+-   Projects <br>
     Web application - BrewChat (HTML, CSS, Javascript, Flask, and SQLAlchemy; unittest and Selenium) `HD & Top 3 Project` <br>
     Data Warehousing & Association Rule Mining (R, SQL, SSMS and Power BI) `HD & Top 2 Project`<br>  
     Graph Database & Graph Data Science (Neo4j, Cypher, and R) `HD & Top 4 Project`<br>
@@ -112,6 +112,8 @@ Taiwan
 -   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase and Vercel.
 -   Utilized Figma to craft intuitive mobile and desktop layouts.
 -   Collaborated effectively with other student volunteers, utilizing Git version control.
+
+---
 
 ## Work Experience
 
@@ -195,8 +197,6 @@ Statistics `2015.2 - 2015.6`<br>
 - Assisted professors and gave students instructions
 <br>
 -->
-
----
 
 ## Qualifications and Certifications
 
