@@ -156,10 +156,10 @@ em {
 h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: center;
-  font-size: 28pt;
+  font-size: 24pt;
   font-weight: lighter;
   position: relative;
-  line-height: 1.2em;
+  line-height: 1em;
   position: relative;
   /* left: 28%; */
 }

@@ -45,7 +45,7 @@ Perth, Australia
 -   M.S. in Information Technology
 -   GPA 6.42/7
 -   Projects <br>
-    Web application - BrewChat (HTML, CSS, Javascript, Flask, and SQLAlchemy; unittest and Selenium) `HD & Top 3 Project` <br>
+    Web application - BrewChat (Javascript, Flask, SQLAlchemy, unittest) `HD & Top 3 Project` <br>
     Data Warehousing & Association Rule Mining (R, SQL, SSMS and Power BI) `HD & Top 2 Project`<br>  
     Graph Database & Graph Data Science (Neo4j, Cypher, and R) `HD & Top 4 Project`<br>
     Exploratory data analysis and Machine learning models (R) `Top 1 Project`<br>
@@ -224,7 +224,7 @@ Statistics `2015.2 - 2015.6`<br>
 
 ## Honors & Awards
 
-### **Best Lecturer on CCU AIT 5th Summer Camp** `2016.7`
+**Best Lecturer on CCU AIT 5th Summer Camp** `2016.7`
 
 <!-- I designed a game, named _Fraud and Fraudit_. It is an interactive game with audiences. Participants win credits as financial points if they answer correctly. Then, all teams show their financial statements and tell a good story to gain the fund. Candidates who act as accountants must find out whether it is a fraud. -->
 
@@ -233,13 +233,13 @@ Before I graduated, the Accounting students’ Guild invited me as a lecturer fo
 <br>
 -->
 
-### **[CCU Excellent Teaching Facilitator](https://oaa.ccu.edu.tw/_files_oaa/dev/ta_selection/ta_selection104.pdf)** `2016.5`
+**[CCU Excellent Teaching Facilitator](https://oaa.ccu.edu.tw/_files_oaa/dev/ta_selection/ta_selection104.pdf)** `2016.5`
 
-### **Champion Team in KPMG Academic competition** `2015.5`
+**Champion Team in KPMG Academic competition** `2015.5`
 
 <!-- KPMG International Limited (or simply KPMG) is a multinational professional services network, and one of the Big Four accounting organizations. Every June, they hold a KPMG academic competition at my university to reward those who have professional and practical knowledge. All candidates must answer the questions about intermediate accounting in a limited time. In the end, my team won the championship. It was thrill experience; I was glad that we showed teamwork and professionalism. -->
 
-### **Bronze Medal Winner on XBRL Academic Winter Camp, [TWSE](https://www.twse.com.tw/en/)** `2015.1`
+**Bronze Medal Winner on XBRL Academic Winter Camp, [TWSE](https://www.twse.com.tw/en/)** `2015.1`
 
 <!-- XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. Hence, my classmates and I enrolled in the XBRL camp held by Taiwan Stock Exchange from January 19, 2015, to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day. Luckily, we won third place! -->
 
