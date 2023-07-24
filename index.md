@@ -203,7 +203,7 @@ Statistics `2015.2 - 2015.6`<br>
 ### **Technology and Programming**
 
 -   Programming: Python, Java, Javascript, Typescript, bash, C, React, Firebase, SQLite, MySQL, R
--   Office Applications: Neo4j, SSMS, SSAS, Power BI, Globe3 ERP, ACL, SAS, SAP, Oracle, Google Analytics.
+-   Applications: Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle.
     <br>
 
 ### **Accounting and Finance**
