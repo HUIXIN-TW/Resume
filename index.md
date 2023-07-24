@@ -44,18 +44,18 @@ Perth, Australia
 
 -   M.S. in Information Technology
 -   GPA 6.42/7
--   Assignments / Projects
+-   Projects
     -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, and the SQLAlchemy. Test unittest and Selenium) `HD & Top 3 Project`
     -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI) `HD & Top 2 Project`
     -   Graph Database & Graph Data Science - Crime in Atlanta (Neo4j, Cypher, and R) `HD & Top 4 Project`
-    -   Business intelligent report for BMW cars marketing (PowerBI) `HD`
     -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R) `Top 1 Project`
+    -   Business intelligent report for BMW cars marketing (PowerBI) `HD`
     -   COVID Analysis (Python) `HD`
-    <!-- 
-    -   Software requirements and design analysis for Transportation system - shuttleUWA
-    -   Maze game (bash)
-    -   Chemical Equations game and Light Bulb puzzle (Java) 
-    -->
+<!-- 
+-   Software requirements and design analysis for Transportation system - shuttleUWA
+-   Maze game (bash)
+-   Chemical Equations game and Light Bulb puzzle (Java) 
+-->
     
     
 ### **National Chung Cheng University (CCU)** `2014.9 - 2016.7`
