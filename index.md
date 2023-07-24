@@ -44,7 +44,8 @@ Perth, Australia
 
 -   M.S. in Information Technology
 -   GPA 6.42/7
--   Projects <br>
+
+-   **Projects?**
     
     Web application - BrewChat (Javascript, Flask, SQLAlchemy, unittest) `HD & Top3 Project`
 
