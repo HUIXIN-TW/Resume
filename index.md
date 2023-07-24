@@ -51,6 +51,7 @@ Perth, Australia
     -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R) `Top 1 Project`
     -   Business intelligent report for BMW cars marketing (PowerBI) `HD`
     -   COVID Analysis (Python) `HD`
+
 <!-- 
 -   Software requirements and design analysis for Transportation system - shuttleUWA
 -   Maze game (bash)
