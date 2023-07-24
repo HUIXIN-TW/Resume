@@ -45,17 +45,16 @@ Perth, Australia
 -   M.S. in Information Technology
 -   GPA 6.42/7
 -   Assignments / Projects
-    -   COVID Analysis using Python.
-    -   Designed a Chemical Equations game and Light Bulb puzzle using Java.
-    -   Developed a Maze game using bash scripting.
-    -   Conducted software requirements and design analysis for the shuttleUWA Transportation system.
-    -   Performed exploratory data analysis and developed machine learning models (Classification and Clustering) for US Accident Injury using R. This project was ranked as the top 1 project.
-    -   Created a business intelligence report for BMW car marketing using PowerBI.
-    -   Developed a web application named "BrewChat" using HTML, CSS, Javascript, AJAX, jQuery, Flask, and SQLAlchemy. Conducted testing using unittest and Selenium. This project was in the top 3.
-    -   Conducted data warehousing and association rule mining for Crime in Atlanta using R, SQL, SSMS, and Power BI. This project was ranked top 2.
-    -   Worked on graph database and graph data science for Crime in Atlanta using Neo4j, Cypher, and R. This project was ranked top 4.
-
-
+    -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, and the SQLAlchemy. Test unittest and Selenium) `HD & Top 3 Project`
+    -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI) `HD & Top 2 Project`
+    -   Graph Database & Graph Data Science - Crime in Atlanta (Neo4j, Cypher, and R) `HD & Top 4 Project`
+    -   Business intelligent report for BMW cars marketing (PowerBI)
+    -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R) Top 1 Project
+    -   Software requirements and design analysis for Transportation system - shuttleUWA
+    -   Maze game (bash)
+    -   Chemical Equations game and Light Bulb puzzle (Java)
+    -   COVID Analysis (Python) `HD`
+    
 ### **National Chung Cheng University (CCU)** `2014.9 - 2016.7`
 
 ```
@@ -93,11 +92,22 @@ Taiwan
 
 -   GPA 78.6/100
 
-## Experience
+## Project Experience
 
-### **Software Developer, [Coders for Causes](https://codersforcauses.org)** `2022.11 - Current`
+### *Repair Labs project, Full Stack developer* `2023.1 - Current`
+-   Actively contributing as a member of the [Repair Labs Project](https://github.com/codersforcauses/repair-labs)
+-   Technology Stack: Next.js, TypeScript, React, Tailwind CSS and Vercel; prisma as ORM, Postgres and Docker for local DB.
+-   Designed mobile and desktop layouts using Figma, ensuring a user-friendly interface.
+-   Developed robust APIs to seamlessly connect frontend pages with the backend database, facilitating efficient data retrieval and updates.
+-   Achievements:
+    -   Successfully created and merged three pull requests into the main branch within one month.
+### *Pets Of Older Persons project, Full Stack developer* `2022.11 - 2023.2`
+-   Contributed as a team member in th [Pets of Older Persons Project](https://github.com/codersforcauses/poops)
+-   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase and Vercel.
+-   Utilized Figma to craft intuitive mobile and desktop layouts.
+-   Collaborated effectively with other student volunteers, utilizing Git version control.
 
--   Contributed to the [Repair Labs](https://github.com/codersforcauses/repair-labs) and [Pets of Older Persons](https://www.poopswa.org.au) Project projects, enhancing the functionality and user experience.
+## Work Experience
 
 ### **Assistant Manager, Deloitte** `2019.3 - 2020.8`
 
@@ -179,8 +189,6 @@ Statistics `2015.2 - 2015.6`<br>
 - Assisted professors and gave students instructions
 <br>
 -->
-
----
 
 ## Qualifications and Certifications
 
