@@ -36,7 +36,7 @@ print format: use --- to separate pages
 
 ## Education
 
-### **University of Western Australia (UWA)** `2021.2 -`
+### **University of Western Australia (UWA)** `2021.2 - Current`
 
 ```
 Perth, Australia
@@ -45,15 +45,17 @@ Perth, Australia
 -   M.S. in Information Technology
 -   GPA 6.42/7
 -   Assignments / Projects
-    -   COVID Analysis (Python)
-    -   Chemical Equations game and Light Bulb puzzle (Java)
-    -   Maze game (bash)
-    -   Software requirements and design analysis for Transportation system - shuttleUWA
-    -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R)
-    -   Business intelligent report for BMW cars marketing (PowerBI)
-    -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, and the SQLAlchemy. Test unittest and Selenium)
-    -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI)
-    -   Graph Database & Graph Data Science - Crime in Atlanta (Neo4j, Cypher, and R)
+    -   COVID Analysis using Python.
+    -   Designed a Chemical Equations game and Light Bulb puzzle using Java.
+    -   Developed a Maze game using bash scripting.
+    -   Conducted software requirements and design analysis for the shuttleUWA Transportation system.
+    -   Performed exploratory data analysis and developed machine learning models (Classification and Clustering) for US Accident Injury using R. This project was ranked as the top 1 project.
+    -   Created a business intelligence report for BMW car marketing using PowerBI.
+    -   Developed a web application named "BrewChat" using HTML, CSS, Javascript, AJAX, jQuery, Flask, and SQLAlchemy. Conducted testing using unittest and Selenium. This project was in the top 3.
+    -   Conducted data warehousing and association rule mining for Crime in Atlanta using R, SQL, SSMS, and Power BI. This project was ranked top 2.
+    -   Worked on graph database and graph data science for Crime in Atlanta using Neo4j, Cypher, and R. This project was ranked top 4.
+
+
 ### **National Chung Cheng University (CCU)** `2014.9 - 2016.7`
 
 ```
@@ -61,8 +63,8 @@ Chiayi, Taiwan
 ```
 
 -   M.S. in Accounting and Information Technology
--   The second place in the entrance examination
--   Subject of research: Directors’ and Officers’ Liability Insurance and Cost Stickiness.
+-   Ranked second in the entrance examination.
+-   Conducted research on "Directors’ and Officers’ Liability Insurance and Cost Stickiness."
 -   GPA 3.93/4.0
 
 ### **National Kaohsiung University of Science and Technology (NKUST)** `2010.9 - 2014.6`
@@ -76,7 +78,7 @@ Kaohsiung, Taiwan
 
 ## Professional Program
 
-### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2020.7 -`
+### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2020.7 - Current`
 
 ```
 Australia
@@ -94,10 +96,9 @@ Taiwan
 
 ## Experience
 
-### **Software Developer, [Coders for Causes](https://codersforcauses.org)** `2022.11 - `
+### **Software Developer, [Coders for Causes](https://codersforcauses.org)** `2022.11 - Current`
 
--   Member in [Repair Labs](https://github.com/codersforcauses/repair-labs) Project
--   Member in [Pets of Older Persons](https://www.poopswa.org.au) Project
+-   Contributed to the [Repair Labs](https://github.com/codersforcauses/repair-labs) and [Pets of Older Persons](https://www.poopswa.org.au) Project projects, enhancing the functionality and user experience.
 
 ### **Assistant Manager, Deloitte** `2019.3 - 2020.8`
 
@@ -131,9 +132,9 @@ Industry Experiences
 -   Medical Manufacturing and Telecommunication<br>
     \*Both are listed on the Taipei Stock Exchange and NASDAQ<br> -->
 
--   Leadership: Leaded 4 members and managed audit plan for a listed company
--   Teamwork: Conducted internal review with team members and provided constructive feedback
--   Communication: Communicated with clients and proactively sought timely feedback for improvement to maximize client satisfaction
+-   Led a team of 4 members in managing an audit plan for a listed company.
+-   Conducted internal reviews, providing constructive feedback to improve team performance.
+-   Actively communicated with clients to gather feedback and improve client satisfaction.
 
 
 ### **Staff - Senior Associate, PwC** `2016.9 - 2019.2`
@@ -152,20 +153,16 @@ Responsibility
 - Directed non-profit organizations audit and tax declaration audit.
 - Assisting in preparing the company and branches year-end audit, with constant monitoring of internal controls for Taiwan and overseas branch offices:12 days in Dongguan, 17 days in Shanghai, 2 days in Nanjing, 3days in Wuhan and 12 days in New Jersey and Memphis.
 <br>
-
 Leadership
 - Initiated plans before auditing, and managed a project, then assign tasks to team member based on priority
 - Leaded 2 members and managed audit plan for a listed companies
 <br>
-
-
 Industry Experiences
-
 -   Medical Manufacturing, Investment, Advertising, Hospitality, Clothing Manufacturing
-    <br>
+<br>
 -->
 
--   Teamwork: Conducted internal review with team members
+-   Worked collaboratively with team members, conducting internal reviews to ensure high-quality outputs.
 
 ### **Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
 
@@ -175,9 +172,11 @@ Industry Experiences
 <br>
 -->
 
+-   Delivered effective instruction in Intermediate Accounting, facilitating student understanding and proficiency.
+
 ### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
 
--   Business Analysis, Accounting, Advanced Accounting, Audit and Statistics.<br>
+-   Assisted in teaching courses such as Business Analysis, Accounting, Advanced Accounting, Audit, and Statistics.
 
 <!-- For more detail but not show on CV
 Business analysis and Valuation `2016.2 - 2016.6`<br>
@@ -189,6 +188,7 @@ Statistics `2015.2 - 2015.6`<br>
 - Assisted professors and gave students instructions
 <br>
 -->
+-   
 <br>
 
 ## Qualifications and Certifications
@@ -219,7 +219,7 @@ Statistics `2015.2 - 2015.6`<br>
 
 ### **Best Lecturer on CCU AIT 5th Summer Camp** `2016.7`
 
-I designed a game, named _Fraud and Fraudit_. It is an interactive game with audiences. Participants win credits as financial points if they answer correctly. Then, all teams show their financial statements and tell a good story to gain the fund. Candidates who act as accountants must find out whether it is a fraud.
+<!-- I designed a game, named _Fraud and Fraudit_. It is an interactive game with audiences. Participants win credits as financial points if they answer correctly. Then, all teams show their financial statements and tell a good story to gain the fund. Candidates who act as accountants must find out whether it is a fraud. -->
 
 <!-- For more detail but not show on CV
 Before I graduated, the Accounting students’ Guild invited me as a lecturer for the fifth accounting summer camp on July 10, 2016. It flattered me when I heard. I attached great importance to teaching high school students who are interested in accounting. Hence, I took a week to design my game - Fraud and Fraudit. It was an interactive game with audiences. Participants won credits by a group if they answered correctly. Then, all teams showed their financial statements and told a good story to gain the fund. Be careful! It may be a fraud! Candidates who acted as accountants must find out whether it was fraud. Call “BLUFF” when determining it was a scandal, then you won.
@@ -230,12 +230,12 @@ Before I graduated, the Accounting students’ Guild invited me as a lecturer fo
 
 ### **Champion Team in KPMG Academic competition** `2015.5`
 
-KPMG International Limited (or simply KPMG) is a multinational professional services network, and one of the Big Four accounting organizations. Every June, they hold a KPMG academic competition at my university to reward those who have professional and practical knowledge. All candidates must answer the questions about intermediate accounting in a limited time. In the end, my team won the championship. It was thrill experience; I was glad that we showed teamwork and professionalism.
+<!-- KPMG International Limited (or simply KPMG) is a multinational professional services network, and one of the Big Four accounting organizations. Every June, they hold a KPMG academic competition at my university to reward those who have professional and practical knowledge. All candidates must answer the questions about intermediate accounting in a limited time. In the end, my team won the championship. It was thrill experience; I was glad that we showed teamwork and professionalism. -->
 <br>
 
 ### **Bronze Medal Winner on XBRL Academic Winter Camp, [TWSE](https://www.twse.com.tw/en/)** `2015.1`
 
-XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. Hence, my classmates and I enrolled in the XBRL camp held by Taiwan Stock Exchange from January 19, 2015, to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day. Luckily, we won third place!
+<!-- XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. Hence, my classmates and I enrolled in the XBRL camp held by Taiwan Stock Exchange from January 19, 2015, to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day. Luckily, we won third place! -->
 <br>
 
 <!-- ### Footer
