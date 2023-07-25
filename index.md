@@ -100,14 +100,14 @@ Taiwan
 
 ## Project Experience
 
-### **Repair Labs project, Full Stack developer** `2023.1 - Current`
+### **Full Stack developer, Repair Labs project (CFC)** `2023.6 - Current`
 -   Actively contributing as a member of the [Repair Labs Project](https://github.com/codersforcauses/repair-labs)
 -   Technology Stack: Next.js, TypeScript, React, Tailwind CSS and Vercel; prisma as ORM, Postgres and Docker for local DB.
 -   Designed mobile and desktop layouts using Figma, ensuring a user-friendly interface.
 -   Developed robust APIs to seamlessly connect frontend pages with the backend database, facilitating efficient data retrieval and updates.
 -   Achievements: Successfully created and merged three pull requests into the main branch within one month.
 
-### **Pets Of Older Persons project, Full Stack developer** `2022.11 - 2023.2`
+### **Full Stack developer, Pets Of Older Persons project (CFC)** `2022.11 - 2023.2`
 -   Contributed as a team member in th [Pets of Older Persons Project](https://github.com/codersforcauses/poops)
 -   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase and Vercel.
 -   Utilized Figma to craft intuitive mobile and desktop layouts.
