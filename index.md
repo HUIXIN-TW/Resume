@@ -54,6 +54,7 @@ Perth, Australia
 -   Hackathons
     -   Data Science Hackathon: Prototype Solution Presentation `3rd`
     -   Data Science Hackathon: Creative Poster at the WA Mining Conference `4th`
+
 <!-- 
 -   Software requirements and design analysis for the Transportation system - shuttleUWA
 -   Maze game (bash)
