@@ -51,10 +51,17 @@ Perth, Australia
     -   Exploratory data analysis and Machine learning models (R) `Top1 Project`
     -   Business intelligence report (PowerBI) `HD`
     -   COVID Analysis (Python) `HD`
--   Hackathons
-    -   SLB Data Science: Prototype Solution Presentation (LSTM based) `3rd`
-    -   SLB Data Science: Creative Poster at the WA Mining Conference `4th`
-
+-   SLB Data Science Hackathon
+    - Prototype Solution Presentation `3rd`
+      - Developed a mining exploration lithology identification model using LSTM.
+      - Addressed challenges in accurately identifying lithology in mining exploration data.
+      - Collaborated with a multidisciplinary team on data collection, model development, and presentation preparation.
+      - Presented the LSTM solution, showcasing its effectiveness in improving identification accuracy.
+    - Creative Poster at the WA Mining Conference `4th`
+      - Designed an engaging and informative poster showcasing the applications and benefits of the developed model.
+      - Presented findings at the conference, highlighting the impact of accurate lithology identification in mining exploration.
+      - Received recognition for the innovative approach to solving exploration challenges.
+ 
 <!-- 
 -   Software requirements and design analysis for the Transportation system - shuttleUWA
 -   Maze game (bash)
