@@ -52,7 +52,7 @@ Perth, Australia
     -   Business intelligence report (PowerBI) `HD`
     -   COVID Analysis (Python) `HD`
 -   Hackathons
-    -   SLB Data Science: Prototype Solution Presentation `3rd`
+    -   SLB Data Science: Prototype Solution Presentation (LSTM based) `3rd`
     -   SLB Data Science: Creative Poster at the WA Mining Conference `4th`
 
 <!-- 
@@ -81,9 +81,7 @@ Kaohsiung, Taiwan
 
 -   B.S. in Accounting and Information Systems
 -   GPA 80.44/100
--->
 
-<!-- 
 ## Professional Program
 
 ### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2020.7 - Current`
