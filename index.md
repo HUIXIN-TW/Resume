@@ -52,17 +52,7 @@ Perth, Australia
     -   [IOT project - ESP32 Air Quality Detector](https://github.com/HUIXIN-TW/CITS5506IOT) `HD`
     -   Business intelligence report (PowerBI) `HD`
     -   COVID Analysis (Python) `HD`
--   SLB Data Science Hackathon
-    - Prototype Solution Presentation `3rd`
-      - Developed a mining exploration lithology identification model using LSTM.
-      - Addressed challenges in accurately identifying lithology in mining exploration data.
-      - Collaborated with a multidisciplinary team on data collection, model development, and presentation preparation.
-      - Presented the LSTM solution, showcasing its effectiveness in improving identification accuracy.
-    - Creative Poster at the WA Mining Conference `4th`
-      - Designed an engaging and informative poster showcasing the applications and benefits of the developed model.
-      - Presented findings at the conference, highlighting the impact of accurate lithology identification in mining exploration.
-      - Received recognition for the innovative approach to solving exploration challenges.
- 
+
 <!-- 
 -   Software requirements and design analysis for the Transportation system - shuttleUWA
 -   Maze game (bash)
@@ -117,6 +107,17 @@ Taiwan
 -   Designed mobile and desktop layouts using Figma, ensuring a user-friendly interface.
 -   Developed robust APIs to seamlessly connect frontend pages with the backend database, facilitating efficient data retrieval and updates.
 -   Achievements: Successfully created and merged three pull requests into the main branch within one month.
+
+### **Data Scientist, SLB Data Science Hackathon** `2023.9 - 2023.10`
+- Prototype Solution Presentation `3rd`
+  - Developed a mining exploration lithology identification model using LSTM.
+  - Addressed challenges in accurately identifying lithology in mining exploration data.
+  - Collaborated with a multidisciplinary team on data collection, model development, and presentation preparation.
+  - Presented the LSTM solution, showcasing its effectiveness in improving identification accuracy.
+- Creative Poster at the WA Mining Conference `4th`
+  - Designed an engaging and informative poster showcasing the applications and benefits of the developed model.
+  - Presented findings at the conference, highlighting the impact of accurate lithology identification in mining exploration.
+  - Received recognition for the innovative approach to solving exploration challenges.
 
 ### **Full Stack developer, Pets Of Older Persons project (CFC)** `2022.11 - 2023.2`
 -   Contributed as a team member in the [Pets of Older Persons Project](https://github.com/codersforcauses/poops)
