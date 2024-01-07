@@ -45,11 +45,11 @@ Perth, Australia
 -   M.S. in Information Technology
 -   GPA 6.375/7
 -   Projects
-    -   Web application - BrewChat (Javascript, Flask, SQLAlchemy, unittest) `HD & Top3 Project`
+    -   Web application - [BrewChat](https://github.com/HUIXIN-TW/BrewChatApp) (Javascript, Flask, SQLAlchemy, unittest) `HD & Top3 Project`
     -   Data Warehousing & Association Rule Mining (R, SQL, SSMS and Power BI) `HD & Top2 Project`
     -   Graph Database & Graph Data Science (Neo4j, Cypher, and R) `HD & Top4 Project`
     -   Exploratory data analysis and Machine learning models (R) `Top1 Project`
-    -   [IOT project - ESP32 Air Quality Detector](https://github.com/HUIXIN-TW/CITS5506IOT) `HD`
+    -   Internet of Things - [ESP32 Air Quality Detector](https://github.com/HUIXIN-TW/CITS5506IOT) `HD`
     -   Business intelligence report (PowerBI) `HD`
     -   COVID Analysis (Python) `HD`
 
