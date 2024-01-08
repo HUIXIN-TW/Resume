@@ -114,6 +114,9 @@ Taiwan
   - Addressed challenges in accurately identifying lithology in mining exploration data.
   - Collaborated with a multidisciplinary team on data collection, model development, and presentation preparation.
   - Presented the LSTM solution, showcasing its effectiveness in improving identification accuracy.
+ 
+---
+    
 - Creative Poster at the WA Mining Conference `4th`
   - Designed an engaging and informative poster showcasing the applications and benefits of the developed model.
   - Presented findings at the conference, highlighting the impact of accurate lithology identification in mining exploration.
@@ -207,8 +210,6 @@ Statistics `2015.2 - 2015.6`<br>
 - Assisted professors and gave students instructions
 <br>
 -->
-
----
 
 ## Skills and Certifications
 -   Programming: Python, Java, Javascript, Typescript, bash, C, React, Firebase, SQLite, MySQL, R
