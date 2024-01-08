@@ -125,8 +125,6 @@ Taiwan
 -   Utilized Figma to craft intuitive mobile and desktop layouts.
 -   Collaborated effectively with other student volunteers, utilizing Git version control.
 
----
-
 ## Work Experience
 
 ### **Assistant Manager, Deloitte** `2019.3 - 2020.8`
@@ -210,12 +208,21 @@ Statistics `2015.2 - 2015.6`<br>
 <br>
 -->
 
+---
+
+## Skills and Certifications
+-   Programming: Python, Java, Javascript, Typescript, bash, C, React, Firebase, SQLite, MySQL, R
+-   Applications: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle.
+-   Certified Practising Accountant, Australia (CPA Australia Member)
+-   Certified Public Accountant, Taiwan (CPA Taiwan)
+
+<!--
 ## Qualifications and Certifications
 
 ### **Technology and Programming**
 
 -   Programming: Python, Java, Javascript, Typescript, bash, C, React, Firebase, SQLite, MySQL, R
--   Applications: Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle.
+-   Applications: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle.
     <br>
 
 ### **Accounting and Finance**
@@ -233,6 +240,7 @@ Statistics `2015.2 - 2015.6`<br>
 -   Blockchain Basic
 -   Business Analysis Foundation
     <br>
+-->
 
 ## Honors & Awards
 
