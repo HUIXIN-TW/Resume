@@ -341,6 +341,8 @@ Australia
 - Performed financial modelling to support and challenge key assumptions made by the development team and external advisors, such as DCF models.
 - Performed risk assessment of material financial statement items while exercising judgment within agreed parameters under the COSO framework.
 - Performed valuation analysis of assets, debt, and equity, such as intangible assets impairment and convertible bonds.
+
+<!--
 - Complied with audit methodology, internal risk management, and external regulatory requirements.
 - Set up the strategic plans and budget within milestone-driven projects to meet all required deadlines.
 - Drafted reports and presentations to the engagement leader, which will enable decisions on audit opinion.
@@ -349,15 +351,16 @@ Australia
 - Interrogate and question external market/clinical research and analysis.
 - Supervise, coach, and develop junior members of staff within teams, on client premises, and in the office.
 - Assisting in preparing the company and branches' year-end audit, with constant monitoring of internal controls for Taiwan and overseas branch offices: 5 days in San Jose, and 10 days in Singapore.
-- Utilized IT skills for data cleaning, manipulation, and mapping - Microsoft Excel, Power BI
-Leadership
-- Led 4 members and managed audit plan for a listed companies
-- Supervise, coach, and develop junior members of staff within teams, on client premises, and in the office.
 - Drafted reports and presentations to the engagement leader, which will enable decisions on audit opinion.
 - Communicated with clients and proactively sought timely feedback for improvement to maximize client satisfaction.
 - Conducted client interviews and led internal meetings to facilitate effective audit planning and execution.
 - Industry Experiences
     - Medical Manufacturing and Telecommunication. Both are listed on the Taipei Stock Exchange and NASDAQ
+-->
+- Utilized IT skills for data cleaning, manipulation, and mapping - Microsoft Excel, Power BI
+- Led 4 members and managed audit plan for a listed companies
+- Supervise, coach, and develop junior members of staff within teams, on client premises, and in the office.
+
 
 ### **Staff - Senior Associate, PwC** `2016.9 - 2019.2`
 
@@ -369,6 +372,8 @@ Leadership
 - Reviewed cash flow forecasts for the prospectus to assess the feasibility of the assumptions.
 - Building detailed financial reports analysis to evaluate performance and determine the impacts of potential M&A transactions.
 - Assessed financial risk information, including market risk, credit risk, liquidity risk, interest rate risk, and sensitive analysis of each.
+
+<!--
 - Supervised a security physical inventory and performed security and bank confirmations.
 - Complied with audit methodology, internal risk management, and external regulatory requirements.
 - Directed non-profit organizations' audit and tax declaration audit.
@@ -378,6 +383,7 @@ Leadership
 - Led 2 members and managed an audit plan for a listed companies
 - Industry Experiences
     - Medical Manufacturing, Investment, Advertising, Hospitality, Clothing Manufacturing
+-->
 
 ### **Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
 - Provided guidance
