@@ -319,7 +319,7 @@ Kaohsiung, Taiwan
 
 ### **CPA Taiwan** `2015.10 - Current`
 
--   Cost and Management Accountin `HD``
+-   Cost and Management Accountin `HD`
 
 ### **SLB Data Science Hackathon** `2023.9 - 2023.10`
 
