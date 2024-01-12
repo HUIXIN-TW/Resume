@@ -330,6 +330,8 @@ Australia
   - Designed an engaging and informative poster showcasing the applications and benefits of the developed model.
   - Presented findings at the conference, highlighting the impact of accurate lithology identification in mining exploration.
 
+---
+
 ## Work Experience
 
 ### **Assistant Manager, Deloitte** `2019.3 - 2020.8`
@@ -352,16 +354,6 @@ Australia
 - Recalculated net asset value and return on investment.
 - Reviewed cash flow forecasts for the prospectus to assess the feasibility of the assumptions.
 - Assessed financial risk information, including market risk, credit risk, liquidity risk, interest rate risk, and sensitive analysis of each.
-
-### **Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
-- Provided guidance
-- Initiated study planning for students
-- Delivered effective instruction in Intermediate Accounting, facilitating student understanding and proficiency.
-
-### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
-- Assisted in teaching courses including Business Analysis, Accounting, Advanced Accounting, Audit, and Statistics.
-- Provided guidance and handouts
-- Assisted professors and gave students instructions
 
 ## Skills and Certifications
 Programming: Python, Java, Javascript, Typescript, bash, C, React, Firebase, SQLite, MySQL, R
