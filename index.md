@@ -326,11 +326,9 @@ Australia
   - Developed a mining exploration lithology identification model using LSTM.
   - Addressed challenges in accurately identifying lithology in mining exploration data.
   - Collaborated with a multidisciplinary team on data collection, model development, and presentation preparation.
-  - Presented the LSTM solution, showcasing its effectiveness in improving identification accuracy.
 - Creative Poster at the WA Mining Conference `4th`
   - Designed an engaging and informative poster showcasing the applications and benefits of the developed model.
   - Presented findings at the conference, highlighting the impact of accurate lithology identification in mining exploration.
-  - Received recognition for the innovative approach to solving exploration challenges.
 
 ## Work Experience
 
@@ -341,26 +339,9 @@ Australia
 - Performed financial modelling to support and challenge key assumptions made by the development team and external advisors, such as DCF models.
 - Performed risk assessment of material financial statement items while exercising judgment within agreed parameters under the COSO framework.
 - Performed valuation analysis of assets, debt, and equity, such as intangible assets impairment and convertible bonds.
-
-<!--
-- Complied with audit methodology, internal risk management, and external regulatory requirements.
-- Set up the strategic plans and budget within milestone-driven projects to meet all required deadlines.
-- Drafted reports and presentations to the engagement leader, which will enable decisions on audit opinion.
-- Visualized data in easy-to-understand formats by using tools and techniques.
-- Utilized IT skills for data cleaning, manipulation, and mapping.
-- Interrogate and question external market/clinical research and analysis.
-- Supervise, coach, and develop junior members of staff within teams, on client premises, and in the office.
-- Assisting in preparing the company and branches' year-end audit, with constant monitoring of internal controls for Taiwan and overseas branch offices: 5 days in San Jose, and 10 days in Singapore.
-- Drafted reports and presentations to the engagement leader, which will enable decisions on audit opinion.
-- Communicated with clients and proactively sought timely feedback for improvement to maximize client satisfaction.
-- Conducted client interviews and led internal meetings to facilitate effective audit planning and execution.
-- Industry Experiences
-    - Medical Manufacturing and Telecommunication. Both are listed on the Taipei Stock Exchange and NASDAQ
--->
 - Utilized IT skills for data cleaning, manipulation, and mapping - Microsoft Excel, Power BI
 - Led 4 members and managed audit plan for a listed companies
 - Supervise, coach, and develop junior members of staff within teams, on client premises, and in the office.
-
 
 ### **Staff - Senior Associate, PwC** `2016.9 - 2019.2`
 
@@ -370,20 +351,7 @@ Australia
 - Evaluated derivative financial instruments.
 - Recalculated net asset value and return on investment.
 - Reviewed cash flow forecasts for the prospectus to assess the feasibility of the assumptions.
-- Building detailed financial reports analysis to evaluate performance and determine the impacts of potential M&A transactions.
 - Assessed financial risk information, including market risk, credit risk, liquidity risk, interest rate risk, and sensitive analysis of each.
-
-<!--
-- Supervised a security physical inventory and performed security and bank confirmations.
-- Complied with audit methodology, internal risk management, and external regulatory requirements.
-- Directed non-profit organizations' audit and tax declaration audit.
-- Assisting in preparing the company and branches' year-end audit, with constant monitoring of internal controls for Taiwan and overseas branch offices:12 days in Dongguan, 17 days in Shanghai, 2 days in Nanjing, 3 days in Wuhan and 12 days in New Jersey and Memphis.
-Leadership
-- Initiated plans before auditing, and managed a project, then assigned tasks to team members based on priority
-- Led 2 members and managed an audit plan for a listed companies
-- Industry Experiences
-    - Medical Manufacturing, Investment, Advertising, Hospitality, Clothing Manufacturing
--->
 
 ### **Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
 - Provided guidance
