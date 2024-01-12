@@ -269,8 +269,6 @@ Bronze Medal Winner on XBRL Academic Winter Camp, [TWSE](https://www.twse.com.tw
 
 # HUIXIN **YANG**
 
-CPA Australia Member | CPA Taiwan
-
 {% include cv-contact.html %}
 
 
@@ -322,8 +320,18 @@ Australia
 ```
 
 -   Financial Reporting, High Distinction
+### **CPA Taiwan** `2015.10 -Current`
+
+```
+Taiwan
+```
 
 ### **SLB Data Science Hackathon** `2023.9 - 2023.10`
+
+```
+Australia
+```
+
 - Prototype Solution Presentation `3rd`
   - Developed a mining exploration lithology identification model using LSTM.
   - Addressed challenges in accurately identifying lithology in mining exploration data.
