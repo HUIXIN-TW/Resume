@@ -269,6 +269,8 @@ Bronze Medal Winner on XBRL Academic Winter Camp, [TWSE](https://www.twse.com.tw
 
 # HUIXIN **YANG**
 
+CPA Australia Member | CPA Taiwan
+
 {% include cv-contact.html %}
 
 
@@ -355,14 +357,15 @@ Australia
 - Reviewed cash flow forecasts for the prospectus to assess the feasibility of the assumptions.
 - Assessed financial risk information, including market risk, credit risk, liquidity risk, interest rate risk, and sensitive analysis of each.
 
-## Skills and Certifications
-Programming: Python, Java, Javascript, Typescript, bash, C, React, Firebase, SQLite, MySQL, R
+### **Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
+- Provided guidance
+- Initiated study planning for students
+- Delivered effective instruction in Intermediate Accounting, facilitating student understanding and proficiency.
 
-Applications: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle.
-
-Certified Practising Accountant, Australia (CPA Australia License and Member)
-
-Certified Public Accountant, Taiwan (CPA Taiwan License)
+### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
+- Assisted in teaching courses including Business Analysis, Accounting, Advanced Accounting, Audit, and Statistics.
+- Provided guidance and handouts
+- Assisted professors and gave students instructions
 
 ## Honors & Awards
 
