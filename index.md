@@ -321,7 +321,7 @@ Australia
 
 -   Financial Reporting, High Distinction
 
-## **SLB Data Science Hackathon** `2023.9 - 2023.10`
+### **SLB Data Science Hackathon** `2023.9 - 2023.10`
 - Prototype Solution Presentation `3rd`
   - Developed a mining exploration lithology identification model using LSTM.
   - Addressed challenges in accurately identifying lithology in mining exploration data.
@@ -385,13 +385,7 @@ Leadership
 - Delivered effective instruction in Intermediate Accounting, facilitating student understanding and proficiency.
 
 ### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
-For the following courses:<br>
-**Business Analysis and Valuation Course** `2016.2 - 2016.6`<br>
-**Principles of Accounting Course** `2015.9 - 2016.6`<br>
-**Advanced Accounting Course** `2015.9 - 2016.6`<br>
-**Audit and Assurance Course** `2015.9 - 2016.6`<br>
-**Statistics Course** `2015.2 - 2015.6`<br>
-- Assisted in teaching courses such as Business Analysis, Accounting, Advanced Accounting, Audit, and Statistics.
+- Assisted in teaching courses including Business Analysis, Accounting, Advanced Accounting, Audit, and Statistics.
 - Provided guidance and handouts
 - Assisted professors and gave students instructions
 
