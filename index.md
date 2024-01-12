@@ -315,21 +315,20 @@ Kaohsiung, Taiwan
 
 ### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2020.7 - Current`
 
--   Financial Reporting, High Distinction
+-   Financial Reporting `HD`
 
 ### **CPA Taiwan** `2015.10 - Current`
 
--   Cost and Management Accountin, High Distinction
+-   Cost and Management Accountin `HD``
 
 ### **SLB Data Science Hackathon** `2023.9 - 2023.10`
 
 - Prototype Solution Presentation `3rd`
   - Developed a mining exploration lithology identification model using LSTM.
-  - Addressed challenges in accurately identifying lithology in mining exploration data.
   - Collaborated with a multidisciplinary team on data collection, and model development.
 - Creative Poster at the WA Mining Conference `4th`
   - Designed an engaging and informative poster showcasing the applications and benefits of the developed model.
-  - Presented findings at the conference, highlighting the impact of accurate lithology identification in mining exploration.
+  - Presented findings at the conference, highlighting the impact of accurate lithology identification.
 
 ---
 
@@ -358,13 +357,11 @@ Kaohsiung, Taiwan
 
 ### **Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
 - Provided guidance
-- Initiated study planning for students
 - Delivered effective instruction in Intermediate Accounting, facilitating student understanding and proficiency.
 
 ### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
 - Assisted in teaching courses including Business Analysis, Accounting, Advanced Accounting, Audit, and Statistics.
 - Provided guidance and handouts
-- Assisted professors and gave students instructions
 
 ## Honors & Awards
 
