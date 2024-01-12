@@ -396,10 +396,13 @@ Leadership
 - Assisted professors and gave students instructions
 
 ## Skills and Certifications
--   Programming: Python, Java, Javascript, Typescript, bash, C, React, Firebase, SQLite, MySQL, R
--   Applications: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle.
--   Certified Practising Accountant, Australia (CPA Australia License and Member)
--   Certified Public Accountant, Taiwan (CPA Taiwan License)
+Programming: Python, Java, Javascript, Typescript, bash, C, React, Firebase, SQLite, MySQL, R
+
+Applications: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle.
+
+Certified Practising Accountant, Australia (CPA Australia License and Member)
+
+Certified Public Accountant, Taiwan (CPA Taiwan License)
 
 ## Honors & Awards
 
