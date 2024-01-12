@@ -315,16 +315,8 @@ Kaohsiung, Taiwan
 
 ### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2020.7 - Current`
 
-```
-Australia
-```
-
 -   Financial Reporting, High Distinction
-### **CPA Taiwan** `2015.10 -Current`
-
-```
-Taiwan
-```
+### **CPA Taiwan** `2015.10 - Current`
 
 ### **SLB Data Science Hackathon** `2023.9 - 2023.10`
 
