@@ -316,18 +316,15 @@ Kaohsiung, Taiwan
 ### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2020.7 - Current`
 
 -   Financial Reporting, High Distinction
+
 ### **CPA Taiwan** `2015.10 - Current`
 
 ### **SLB Data Science Hackathon** `2023.9 - 2023.10`
 
-```
-Australia
-```
-
 - Prototype Solution Presentation `3rd`
   - Developed a mining exploration lithology identification model using LSTM.
   - Addressed challenges in accurately identifying lithology in mining exploration data.
-  - Collaborated with a multidisciplinary team on data collection, model development, and presentation preparation.
+  - Collaborated with a multidisciplinary team on data collection, and model development.
 - Creative Poster at the WA Mining Conference `4th`
   - Designed an engaging and informative poster showcasing the applications and benefits of the developed model.
   - Presented findings at the conference, highlighting the impact of accurate lithology identification in mining exploration.
