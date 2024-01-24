@@ -330,7 +330,30 @@ Kaohsiung, Taiwan
   - Designed an engaging and informative poster showcasing the applications and benefits of the developed model.
   - Presented findings at the conference, highlighting the impact of accurate lithology identification.
 
----
+## Project Experience
+
+### **Full Stack developer, Repair Labs project (CFC)** `2023.6 - Current`
+-   Actively contributing as a member of the [Repair Labs Project](https://github.com/codersforcauses/repair-labs)
+-   Technology Stack: Next.js, TypeScript, React, Tailwind CSS and Vercel; prisma as ORM, Postgres and Docker for local DB.
+-   Designed mobile and desktop layouts using Figma, ensuring a user-friendly interface.
+-   Developed robust APIs to seamlessly connect frontend pages with the backend database, facilitating efficient data retrieval and updates.
+-   Achievements: Successfully created and merged three pull requests into the main branch within one month.
+
+### **Full Stack developer, Pets Of Older Persons project (CFC)** `2022.11 - 2023.2`
+-   Contributed as a team member in the [Pets of Older Persons Project](https://github.com/codersforcauses/poops)
+-   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase and Vercel.
+-   Utilized Figma to craft intuitive mobile and desktop layouts.
+-   Collaborated effectively with other student volunteers, utilizing Git version control.
+
+### **Business Consultant, Practera** `2022.7 - 2022.8`
+-   Collaborated with UseVerb, leveraging my expertise in business consulting to enhance their marketing strategies.
+-   Conducted a comprehensive SWOT analysis to identify strengths, weaknesses, opportunities, and threats, enabling a more targeted approach to marketing and outreach.
+-   Utilized PESTLE analysis to understand the macro-environmental factors affecting UseVerb, ensuring that marketing strategies were adaptable and relevant.
+-   Performed an in-depth competitor analysis to benchmark UseVerb’s services and identify unique positioning and value propositions in the market.
+-   Developed and proposed innovative marketing strategies, integrating insights from SWOT, PESTLE, and competitor analysis, to effectively reach and engage the target audience.
+-   Enhanced digital presence and community engagement through data-driven marketing initiatives, leading to measurable increases in service awareness and utilization.
+-   Collaborated closely with the team to align the marketing plan with organizational goals, ensuring a cohesive and impactful brand message.
+-   Contributed to a significant improvement in UseVerb's market positioning and community impact, driven by strategic, analytical, and data-informed decision-making.
 
 ## Work Experience
 
