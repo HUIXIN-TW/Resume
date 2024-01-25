@@ -87,7 +87,7 @@ video {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 95%;
+  font-size: 100%;
   font: inherit;
   vertical-align: baseline;
 }
@@ -192,7 +192,7 @@ h2:after {
 }
 
 h3 strong {
-  /* line-height: 2.5em; */
+  line-height: 2.5em;
 }
 
 h3 {

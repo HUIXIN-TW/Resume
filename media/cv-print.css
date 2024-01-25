@@ -159,7 +159,7 @@ h1 {
   font-size: 15pt;
   font-weight: lighter;
   position: relative;
-  line-height: 1em;
+  line-height: 1.2em;
   position: relative;
   /* left: 28%; */
 }
@@ -186,7 +186,7 @@ h2:after {
   /* height: 0.8em; */
   margin-left: 10px;
   content: "";
-  /* flex: 1; */
+  flex: 1;
 }
 
 h3 strong {
