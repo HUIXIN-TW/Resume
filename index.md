@@ -67,7 +67,7 @@ Chiayi, Taiwan
 ```
 
 -   M.S. in Accounting and Information Technology
--   Entrance examination `Top2`
+-   Nationally in CCU's competitive annual Accounting postgraduate entrance exam `Top2`
 -   Conducted research on "Directors’ and Officers’ Liability Insurance and Cost Stickiness." `HD`
 -   GPA 3.93/4.0
 
@@ -320,7 +320,7 @@ Chiayi, Taiwan
 ```
 
 -   M.S. in Accounting and Information Technology
--   Entrance examination `Top2`
+-   Nationally in CCU's competitive annual Accounting postgraduate entrance exam `Top2`
 -   Conducted research on "Directors’ and Officers’ Liability Insurance and Cost Stickiness." `HD`
 -   GPA 3.93/4.0
 
