@@ -102,17 +102,6 @@ Taiwan
 -   GPA 78.6/100 
 -->
 
-## Scholarships and Awards
-
-### **UWA Global Excellence Scholarship**, University of Western Australia `2021 - 2023`
-  - Awarded for exceptional academic performance, providing partial tuition coverage for the entire postgraduate study period.
-
-### **Scholarships for Top Three Academic Ranking**, Kaohsiung Vocational High School of Commerce (KSVCS) `2007 - 2010`
-  - Recurrently awarded for ranking within the top three students each semester. The scholarship included a complete tuition waiver for the subsequent semester, sponsored by the government. Achieved in:
-    - Grade 10, Semester 1
-    - Grade 11, Semester 2
-    - Grade 12, Semesters 1 and 2
-
 ## Project Experience
 
 ### **Full Stack developer, Repair Labs project (CFC)** `2023.6 - Current`
@@ -262,6 +251,18 @@ Statistics Course `2015.2 - 2015.6`
 -   **Command-Line Interpreter**: Windows PowerShell, Git Bash, Bash & Zsh (Mac OS) 
 -   **Applications**: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle
 -   **Finance and Business**: Certified Practising Accountant, Australia (CPA Australia Member) and Certified Public Accountant, Taiwan (CPA Taiwan)
+
+
+## Scholarships and Awards
+
+### **UWA Global Excellence Scholarship**, University of Western Australia `2021 - 2023`
+  - Awarded for exceptional academic performance, providing partial tuition coverage for the entire postgraduate study period.
+
+### **Scholarships for Top Three Academic Ranking**, Kaohsiung Vocational High School of Commerce (KSVCS) `2007 - 2010`
+  - Recurrently awarded for ranking within the top three students each semester. The scholarship included a complete tuition waiver for the subsequent semester, sponsored by the government. Achieved in:
+    - Grade 10, Semester 1
+    - Grade 11, Semester 2
+    - Grade 12, Semesters 1 and 2
 
 ## Honors & Awards
 
