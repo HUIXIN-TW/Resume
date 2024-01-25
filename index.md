@@ -67,7 +67,7 @@ Chiayi, Taiwan
 ```
 
 -   M.S. in Accounting and Information Technology
--   Ranked 2nd in the entrance examination.
+-   Entrance examination `Top2`
 -   Conducted research on "Directors’ and Officers’ Liability Insurance and Cost Stickiness." `HD`
 -   GPA 3.93/4.0
 
@@ -320,8 +320,8 @@ Chiayi, Taiwan
 ```
 
 -   M.S. in Accounting and Information Technology
--   Ranked 2nd in the entrance examination
--   Conducted research on "Directors’ and Officers’ Liability Insurance and Cost Stickiness."
+-   Entrance examination `Top2`
+-   Conducted research on "Directors’ and Officers’ Liability Insurance and Cost Stickiness." `HD`
 -   GPA 3.93/4.0
 
 ### **National Kaohsiung University of Science and Technology (NKUST)** `2010.9 - 2014.6`
@@ -391,7 +391,7 @@ Kaohsiung, Taiwan
 -   Contributed to a significant improvement in UseVerb's market positioning and community impact, driven by strategic, analytical, and data-informed decision-making.
 
 ## Skills and Certifications
--   **Programming & Database Languages**: Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j.
+-   **Programming & Database Languages**: Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j, Docker, Prisma, Postgres
 -   **Front End Web Development**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
 -   **UX prototyping tools**: Figma
 -   **Web Framework / Libraries**: React, Next.JS, Django, Vue, Flask, .NET (C#)
@@ -399,8 +399,8 @@ Kaohsiung, Taiwan
 -   **Cloud Computing Platforms**: AWS, Firebase
 -   **Low-code/No-code Development Platform**: WordPress, Wix
 -   **Command-Line Interpreter**: Windows PowerShell, Git Bash, Bash & Zsh (Mac OS) 
--   **Applications**: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle.
--   **Finance and Business**: Certified Practising Accountant, Australia (CPA Australia Member) and Certified Public Accountant, Taiwan (CPA Taiwan)
+-   **Applications**: ChatGPT API, Notion API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle, Microsoft Office
+-   **Finance and Business**: CPA Australia, CPA Taiwan, Futures Specialist licensed by [SFI](https://www.sfi.org.tw/en/), Blockchain Basic, Business Analysis Foundation.
 
 ---
 
