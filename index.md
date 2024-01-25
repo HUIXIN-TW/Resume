@@ -441,8 +441,8 @@ Selcted as one of the best teaching facilitators in CCU. I was glad that I could
 
 **Champion Team in KPMG Academic Competitio**n `2015.5`
 
-KPMG International Limited (KPMG) is a multinational professional services network and one of the Big Four accounting organizations. Every June, they hold a KPMG academic competition at CCU to reward those who have professional and practical knowledge. All candidates must answer the questions about intermediate accounting in a limited time. My team won the championship.
+KPMG International Limited (KPMG) is a multinational professional services network and one of the Big Four accounting organizations. Every June, they hold a KPMG academic competition at CCU to reward those who have professional and practical knowledge. All candidates must answer the questions about intermediate accounting in a limited time. `Top1`
 
 **Bronze Medal Winner on XBRL Academic Winter Camp**, [TWSE](https://www.twse.com.tw/en/) `2015.1`
 
-XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. My classmates and I enrolled in the XBRL camp held by the Taiwan Stock Exchange from January 19, 2015 to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day.
+XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. My classmates and I enrolled in the XBRL camp held by the Taiwan Stock Exchange from January 19, 2015 to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day. `Top3`
