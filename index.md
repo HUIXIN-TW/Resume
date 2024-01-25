@@ -189,14 +189,13 @@ Industry Experiences
 <!-- Abstract for SD -->
 -   Worked collaboratively with team members, conducting internal reviews to ensure high-quality outputs.
 
+<!--
 ### **Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
-
-<!-- For more detail but not shown on CV
-- Provided guidance
-- Initiated study planning for students
--->
-
+-   Provided guidance
+-   Initiated study planning for students
 -   Delivered effective instruction in Intermediate Accounting, facilitating student understanding and proficiency.
+
+-->
 
 ### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
 
