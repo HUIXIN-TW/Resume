@@ -111,8 +111,6 @@ Taiwan
 -   Developed robust APIs to seamlessly connect frontend pages with the backend database, facilitating efficient data retrieval and updates.
 -   Achievements: Successfully created and merged three pull requests into the main branch within one month.
 
----
-
 ### **Data Scientist, SLB Data Science Hackathon** `2023.9 - 2023.10`
 - Prototype Solution Presentation `3rd`
   - Developed a mining exploration lithology identification model using LSTM.
@@ -129,6 +127,8 @@ Taiwan
 -   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase and Vercel.
 -   Utilized Figma to craft intuitive mobile and desktop layouts.
 -   Collaborated effectively with other student volunteers, utilizing Git version control.
+
+---
 
 ## Work Experience
 
@@ -364,6 +364,8 @@ Kaohsiung, Taiwan
   - Designed an engaging and informative poster showcasing the applications and benefits of the developed model.
   - Presented findings at the conference, highlighting the impact of accurate lithology identification.
 
+---
+
 ## Project Experience
 
 ### **Full Stack developer, Repair Labs project (CFC)** `2023.6 - Current`
@@ -388,6 +390,20 @@ Kaohsiung, Taiwan
 -   Enhanced digital presence and community engagement through data-driven marketing initiatives, leading to measurable increases in service awareness and utilization.
 -   Collaborated closely with the team to align the marketing plan with organizational goals, ensuring a cohesive and impactful brand message.
 -   Contributed to a significant improvement in UseVerb's market positioning and community impact, driven by strategic, analytical, and data-informed decision-making.
+
+## Skills and Certifications
+-   **Programming & Database Languages**: Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j.
+-   **Front End Web Development**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
+-   **UX prototyping tools**: Figma
+-   **Web Framework / Libraries**: React, Next.JS, Django, Vue, Flask, .NET (C#)
+-   **Version Control Systems & CI/CD Tools**: Git, GitHub, GitLab
+-   **Cloud Computing Platforms**: AWS, Firebase
+-   **Low-code/No-code Development Platform**: WordPress, Wix
+-   **Command-Line Interpreter**: Windows PowerShell, Git Bash, Bash & Zsh (Mac OS) 
+-   **Applications**: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle.
+-   **Finance and Business**: Certified Practising Accountant, Australia (CPA Australia Member) and Certified Public Accountant, Taiwan (CPA Taiwan)
+
+---
 
 ## Work Experience
 
@@ -419,18 +435,6 @@ Kaohsiung, Taiwan
 ### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
 - Assisted in teaching courses including Business Analysis, Accounting, Advanced Accounting, Audit, and Statistics.
 - Provided guidance and handouts
-
-## Skills and Certifications
--   **Programming & Database Languages**: Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j.
--   **Front End Web Development**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
--   **UX prototyping tools**: Figma
--   **Web Framework / Libraries**: React, Next.JS, Django, Vue, Flask, .NET (C#)
--   **Version Control Systems & CI/CD Tools**: Git, GitHub, GitLab
--   **Cloud Computing Platforms**: AWS, Firebase
--   **Low-code/No-code Development Platform**: WordPress, Wix
--   **Command-Line Interpreter**: Windows PowerShell, Git Bash, Bash & Zsh (Mac OS) 
--   **Applications**: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle.
--   **Finance and Business**: Certified Practising Accountant, Australia (CPA Australia Member) and Certified Public Accountant, Taiwan (CPA Taiwan)
 
 ## Honors & Awards
 
