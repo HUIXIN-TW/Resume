@@ -431,23 +431,18 @@ Kaohsiung, Taiwan
 
 ## Honors & Awards
 
-Best Lecturer on CCU AIT 5th Summer Camp `2016.7`
+**Best Lecturer on CCU AIT 5th Summer Camp** `2016.7`
 
 I designed a game, named _Fraud and Fraudit_. It is an interactive game with audiences. Participants can win credits as financial points if they answer correctly. Then, all teams show their financial statements and tell a good story to gain the funds. Candidates who act as accountants must find out whether it is a fraud.
 
-<!-- For more detail but not shown on CV
-Before I graduated, the Accounting Students’ Guild invited me as a lecturer for the fifth accounting summer camp on July 10, 2016. It flattered me when I heard. I attached great importance to teaching high school students who are interested in accounting. Hence, I took a week to design my game - Fraud and Fraudit. It was an interactive game with audiences. Participants won credits by a group if they answered correctly. Then, all teams showed their financial statements and told a good story to gain the funds. Be careful! It may be a fraud! Candidates who acted as accountants must find out whether it was fraud. Call “BLUFF” when determining it was a scandal, and then you won.
-<br>
--->
-
-[CCU Excellent Teaching Facilitator](https://oaa.ccu.edu.tw/_files_oaa/dev/ta_selection/ta_selection104.pdf) `2016.5`
+**[CCU Excellent Teaching Facilitator](https://oaa.ccu.edu.tw/_files_oaa/dev/ta_selection/ta_selection104.pdf) **`2016.5`
 
 Selcted as one of the best teaching facilitators in CCU. I was glad that I could help students to understand advanced accounting.
 
-Champion Team in KPMG Academic Competition `2015.5`
+**Champion Team in KPMG Academic Competitio**n `2015.5`
 
-KPMG International Limited (KPMG) is a multinational professional services network and one of the Big Four accounting organizations. Every June, they hold a KPMG academic competition at CCU to reward those who have professional and practical knowledge. All candidates must answer the questions about intermediate accounting in a limited time. My team won the championship. It was a thrilling experience; I was glad that we showed teamwork and professionalism.
+KPMG International Limited (KPMG) is a multinational professional services network and one of the Big Four accounting organizations. Every June, they hold a KPMG academic competition at CCU to reward those who have professional and practical knowledge. All candidates must answer the questions about intermediate accounting in a limited time. My team won the championship.
 
-Bronze Medal Winner on XBRL Academic Winter Camp, [TWSE](https://www.twse.com.tw/en/) `2015.1`
+**Bronze Medal Winner on XBRL Academic Winter Camp**, [TWSE](https://www.twse.com.tw/en/) `2015.1`
 
-XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. My classmates and I enrolled in the XBRL camp held by the Taiwan Stock Exchange from January 19, 2015 to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day. Luckily, we won third place!
+XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. My classmates and I enrolled in the XBRL camp held by the Taiwan Stock Exchange from January 19, 2015 to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day.
