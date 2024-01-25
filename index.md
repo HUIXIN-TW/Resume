@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: HUIXIN *YANG*
+title: HUIXIN YANG
 email:
     url: mailto:huixin.yang.tw@gmail.com
     text: huixin.yang.tw@gmail.com
