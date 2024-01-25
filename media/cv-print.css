@@ -177,6 +177,7 @@ h2 {
   font-weight: normal;
   display: flex;
   align-items: center; /* Aligns the text and the dashed line vertically */
+  line-height: 1.2em;
   margin-top: 0.5em;
   margin-bottom: 0.2em;
 }
@@ -191,11 +192,11 @@ h2:after {
 
 
 h3 strong {
-  line-height: 2.5em;
+  line-height: 2em;
 }
 
 h3 {
-  margin-top: 10px;
+  margin-top: 2px;
 }
 
 code {
