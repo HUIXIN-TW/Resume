@@ -109,7 +109,7 @@ Taiwan
 -   Technology Stack: Next.js, TypeScript, React, Tailwind CSS and Vercel; prisma as ORM, Postgres and Docker for local DB.
 -   Designed mobile and desktop layouts using Figma, ensuring a user-friendly interface.
 -   Developed robust APIs to seamlessly connect frontend pages with the backend database, facilitating efficient data retrieval and updates.
--   Achievements: Successfully created and merged three pull requests into the main branch within one month.
+-   Achievements: Successfully created and merged three pull requests via GitHub into the main branch within one month.
 
 ### **Data Scientist, SLB Data Science Hackathon** `2023.9 - 2023.10`
 - Prototype Solution Presentation `3rd`
@@ -340,9 +340,7 @@ Kaohsiung, Taiwan
 
 ### **Scholarships for Top Three Academic Ranking**, Kaohsiung Vocational High School of Commerce (KSVCS) `2007 - 2010`
   - Recurrently awarded for ranking within the top three students each semester. The scholarship included a complete tuition waiver for the subsequent semester, sponsored by the government. Achieved in:
-    - Grade 10, Semester 1
-    - Grade 11, Semester 2
-    - Grade 12, Semesters 1 and 2
+    - Grade 10, Semester 1, Grade 11, Semester 2, Grade 12, Semesters 1 and 2
 
 ## Professional Program
 
@@ -372,7 +370,7 @@ Kaohsiung, Taiwan
 -   Technology Stack: Next.js, TypeScript, React, Tailwind CSS and Vercel; prisma as ORM, Postgres and Docker for local DB.
 -   Designed mobile and desktop layouts using Figma, ensuring a user-friendly interface.
 -   Developed robust APIs to seamlessly connect frontend pages with the backend database, facilitating efficient data retrieval and updates.
--   Achievements: Successfully created and merged three pull requests into the main branch within one month.
+-   Achievements: Successfully created and merged three pull requests via GitHub into the main branch within one month.
 
 ### **Full Stack developer, Pets Of Older Persons project (CFC)** `2022.11 - 2023.2`
 -   Contributed as a team member in the [Pets of Older Persons Project](https://github.com/codersforcauses/poops)
