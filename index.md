@@ -45,7 +45,7 @@ Perth, Australia
 -   M.S. in Information Technology
 -   GPA 6.375/7
 -   Projects
-    -   Web application - [BrewChat](https://github.com/HUIXIN-TW/BrewChatApp) (Javascript, Flask, SQLAlchemy, unittest) `HD & Top3 Project`
+    -   Agile Web application - [BrewChat](https://github.com/HUIXIN-TW/BrewChatApp) (Javascript, Flask, SQLAlchemy, unittest) `HD & Top3 Project`
     -   Data Warehousing & Association Rule Mining (R, SQL, SSMS and Power BI) `HD & Top2 Project`
     -   Graph Database & Graph Data Science (Neo4j, Cypher, and R) `HD & Top4 Project`
     -   Exploratory data analysis and Machine learning models (R, RStudio) `Top1 Project`
@@ -304,7 +304,7 @@ Perth, Australia
 -   M.S. in Information Technology
 -   GPA 6.375/7
 -   Projects
-    -   Web application - [BrewChat](https://github.com/HUIXIN-TW/BrewChatApp) (Javascript, Flask, SQLAlchemy, unittest) `HD & Top3 Project`
+    -   Agile Web application - [BrewChat](https://github.com/HUIXIN-TW/BrewChatApp) (Javascript, Flask, SQLAlchemy, unittest) `HD & Top3 Project`
     -   Data Warehousing & Association Rule Mining (R, SQL, SSMS and Power BI) `HD & Top2 Project`
     -   Graph Database & Graph Data Science (Neo4j, Cypher, and R) `HD & Top4 Project`
     -   Exploratory data analysis and Machine learning models (R) `Top1 Project`
@@ -339,8 +339,7 @@ Kaohsiung, Taiwan
   - Awarded for exceptional academic performance, providing partial tuition coverage for the entire postgraduate study period.
 
 ### **Scholarships for Top Three Academic Ranking**, Kaohsiung Vocational High School of Commerce (KSVCS) `2007 - 2010`
-  - Recurrently awarded for ranking within the top three students each semester. The scholarship included a complete tuition waiver for the subsequent semester, sponsored by the government. Achieved in:
-    - Grade 10, Semester 1, Grade 11, Semester 2, Grade 12, Semesters 1 and 2
+  - Recurrently awarded for ranking within the top three students each semester. The scholarship included a complete tuition waiver for the subsequent semester, sponsored by the government. Achieved in: Grade 10, Semester 1, Grade 11, Semester 2, Grade 12, Semesters 1 and 2
 
 ## Professional Program
 
