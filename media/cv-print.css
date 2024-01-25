@@ -181,9 +181,9 @@ h2 {
 }
 
 h2:after {
-  content: "";
-  flex-grow: 1; /* Ensures the dashed line grows to fill the space */
-  margin-left: 10px;
+  /* content: ""; */
+  /* flex-grow: 1; Ensures the dashed line grows to fill the space */
+  /* margin-left: 10px; */
   /* border-bottom: 2px dashed #d3d3d3; */
   height: 0; /* Ensures the line is positioned correctly with the text */
 }
