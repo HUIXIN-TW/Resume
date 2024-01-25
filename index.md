@@ -435,11 +435,11 @@ Kaohsiung, Taiwan
 
 I designed a game, named _Fraud and Fraudit_. It is an interactive game with audiences. Participants can win credits as financial points if they answer correctly. Then, all teams show their financial statements and tell a good story to gain the funds. Candidates who act as accountants must find out whether it is a fraud.
 
-**[CCU Excellent Teaching Facilitator](https://oaa.ccu.edu.tw/_files_oaa/dev/ta_selection/ta_selection104.pdf) **`2016.5`
+**CCU Excellent Teaching Facilitator** [Certification](https://oaa.ccu.edu.tw/_files_oaa/dev/ta_selection/ta_selection104.pdf) `2016.5`
 
 Selcted as one of the best teaching facilitators in CCU. I was glad that I could help students to understand advanced accounting.
 
-**Champion Team in KPMG Academic Competitio**n `2015.5`
+**Champion Team in KPMG Academic Competition** `2015.5`
 
 KPMG International Limited (KPMG) is a multinational professional services network and one of the Big Four accounting organizations. Every June, they hold a KPMG academic competition at CCU to reward those who have professional and practical knowledge. All candidates must answer the questions about intermediate accounting in a limited time. `Top1`
 
