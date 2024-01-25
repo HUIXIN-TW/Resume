@@ -49,7 +49,7 @@ Perth, Australia
     -   Data Warehousing & Association Rule Mining (R, SQL, SSMS and Power BI) `HD & Top2 Project`
     -   Graph Database & Graph Data Science (Neo4j, Cypher, and R) `HD & Top4 Project`
     -   Exploratory data analysis and Machine learning models (R, RStudio) `Top1 Project`
-    -   Internet of Things - [ESP32 Air Quality Detector](https://github.com/HUIXIN-TW/CITS5506IOT) (Flask, Firebase, HTML, CSS, Javascript) `HD`
+    -   Internet of Things - [ESP32 Air Quality Detector](https://github.com/HUIXIN-TW/CITS5506IOT) (C++, Flask, Firebase, HTML, CSS, Javascript) `HD`
     -   Business intelligence report (Python, PowerBI) `HD`
     -   COVID Analysis (Python) `HD`
 
