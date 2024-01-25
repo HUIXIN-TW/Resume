@@ -122,13 +122,13 @@ Taiwan
   - Presented findings at the conference, highlighting the impact of accurate lithology identification in mining exploration.
   - Received recognition for the innovative approach to solving exploration challenges.
 
+---
+
 ### **Full Stack developer, Pets Of Older Persons project (CFC)** `2022.11 - 2023.2`
 -   Contributed as a team member in the [Pets of Older Persons Project](https://github.com/codersforcauses/poops)
 -   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase and Vercel.
 -   Utilized Figma to craft intuitive mobile and desktop layouts.
 -   Collaborated effectively with other student volunteers, utilizing Git version control.
-
----
 
 ## Work Experience
 
