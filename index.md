@@ -408,8 +408,6 @@ Kaohsiung, Taiwan
 ## Work Experience
 
 ### **Assistant Manager, Deloitte** `2019.3 - 2020.8`
-
-**Responsibility**
 - Possessed sound knowledge of US GAAP, IFRS, and SOX internal control audits.
 - Performed financial modelling to support and challenge key assumptions made by the development team and external advisors, such as DCF models.
 - Performed risk assessment of material financial statement items while exercising judgment within agreed parameters under the COSO framework.
@@ -419,8 +417,6 @@ Kaohsiung, Taiwan
 - Supervise, coach, and develop junior members of staff within teams, on client premises, and in the office.
 
 ### **Staff - Senior Associate, PwC** `2016.9 - 2019.2`
-
-**Responsibility**
 - Conducted in the Biotechnology Industry's initial public offering project.
 - Evaluated investment profiles including local/international, public/private stocks, and bonds by nature under IFRS9.
 - Evaluated derivative financial instruments.
