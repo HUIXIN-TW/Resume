@@ -66,11 +66,11 @@ Perth, Australia
 Chiayi, Taiwan
 ```
 
--   M.S. in Accounting and Information Technology, ranked second in the entrance examination.
--   Conducted research on "Directors’ and Officers’ Liability Insurance and Cost Stickiness."
+-   M.S. in Accounting and Information Technology
+-   Ranked 2nd in the entrance examination.
+-   Conducted research on "Directors’ and Officers’ Liability Insurance and Cost Stickiness." `HD`
 -   GPA 3.93/4.0
 
-<!--
 ### **National Kaohsiung University of Science and Technology (NKUST)** `2010.9 - 2014.6`
 
 ```
@@ -79,7 +79,6 @@ Kaohsiung, Taiwan
 
 -   B.S. in Accounting and Information Systems
 -   GPA 80.44/100
--->
 
 <!--
 ## Professional Program
