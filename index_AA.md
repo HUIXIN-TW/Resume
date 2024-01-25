@@ -150,6 +150,19 @@ Kaohsiung, Taiwan
 - Assisted in teaching courses including Business Analysis, Accounting, Advanced Accounting, Audit, and Statistics.
 - Provided guidance and handouts
 
+## Skills and Certifications
+-   Certified Practising Accountant, Australia (CPA Australia Member)
+-   Certified Public Accountant, Taiwan (CPA Taiwan)
+-   Programming & Database Languages: Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j.
+-   Front End Web Development: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
+-   UX prototyping tools: Figma
+-   Web Framework / Libraries: React, Next.JS, Django, Vue, Flask, .NET (C#)
+-   Version Control Systems & CI/CD Tools: Git, GitHub, GitLab
+-   Cloud Computing Platforms: AWS, Firebase
+-   Low-code/No-code Development Platform: WordPress, Wix
+-   Command-Line Interpreter: Windows PowerShell, Git Bash, Bash & Zsh (Mac OS) 
+-   Applications: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle.
+
 ## Honors & Awards
 
 Best Lecturer on CCU AIT 5th Summer Camp `2016.7`

@@ -250,7 +250,15 @@ Statistics Course `2015.2 - 2015.6`
 -->
 
 <!-- Abstract for SD -->
--   Programming: Python, Java, Javascript, Typescript, bash, C, React, Firebase, SQLite, MySQL, R
+
+-   Programming & Database Languages: Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j.
+-   Front End Web Development: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
+-   UX prototyping tools: Figma
+-   Web Framework / Libraries: React, Next.JS, Django, Vue, Flask, .NET (C#)
+-   Version Control Systems & CI/CD Tools: Git, GitHub, GitLab
+-   Cloud Computing Platforms: AWS, Firebase
+-   Low-code/No-code Development Platform: WordPress, Wix
+-   Command-Line Interpreter: Windows PowerShell, Git Bash, Bash & Zsh (Mac OS) 
 -   Applications: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle.
 -   Certified Practising Accountant, Australia (CPA Australia Member)
 -   Certified Public Accountant, Taiwan (CPA Taiwan)
