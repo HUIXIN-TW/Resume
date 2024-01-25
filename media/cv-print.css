@@ -87,7 +87,7 @@ video {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 95%;
+  font-size: 100%;
   font: inherit;
   vertical-align: baseline;
 }
@@ -132,7 +132,7 @@ table {
 
 body {
   font: normal normal 400;
-  font-size: 11pt;
+  font-size: 10pt;
   line-height: 1.5em;
   /*also written as...  font: normal normal 400 100%/1.5em;*/
   font-family: "Helvetica", sans-serif;
@@ -156,7 +156,7 @@ em {
 h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: center;
-  font-size: 18pt;
+  font-size: 14pt;
   font-weight: lighter;
   position: relative;
   line-height: 1em;
@@ -172,7 +172,7 @@ h1 strong {
 /* Section headers */
 h2 {
   font-family: "Avenir Next", sans-serif;
-  font-size: 18pt;
+  font-size: 12pt;
   text-align: center;
   font-weight: normal;
   display: flex;
