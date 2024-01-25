@@ -284,6 +284,7 @@ Bronze Medal Winner on XBRL Academic Winter Camp, [TWSE](https://www.twse.com.tw
 
 <!-- XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. Hence, my classmates and I enrolled in the XBRL camp held by the Taiwan Stock Exchange from January 19, 2015, to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day. Luckily, we won third place! -->
 
+---
 
 <!-- Accountant or Auditor Resume -->
 

@@ -156,7 +156,7 @@ em {
 h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: center;
-  font-size: 13pt;
+  font-size: 15pt;
   font-weight: lighter;
   position: relative;
   line-height: 1em;
@@ -177,8 +177,8 @@ h2 {
   font-weight: normal;
   display: flex;
   /* line-height: 1.5em; */
-  /* margin-top: 0.3em; */
-  /* margin-bottom: 0.3em; */
+  margin-top: 0.5em;
+  margin-bottom: 0em;
   width: 100%;
 }
 h2:after {
