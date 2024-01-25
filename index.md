@@ -103,6 +103,17 @@ Taiwan
 -   GPA 78.6/100 
 -->
 
+## Scholarships and Awards
+
+### **UWA Global Excellence Scholarship**, University of Western Australia `2021 - 2023`
+  - Awarded for exceptional academic performance, providing partial tuition coverage for the entire postgraduate study period.
+
+### **Semester Tuition Waiver for Top Three Academic Ranking**, Kaohsiung Municipal Kaohsiung Vocational High School of Commerce (KSVCS) `2007 - 2010`
+  - Recurrently awarded for ranking within the top three students each semester. The scholarship included a complete tuition waiver for the subsequent semester, sponsored by the government. Achieved in:
+    - Grade 10, Semester 1
+    - Grade 11, Semester 2
+    - Grade 12, Semesters 1 and 2
+
 ## Project Experience
 
 ### **Full Stack developer, Repair Labs project (CFC)** `2023.6 - Current`
@@ -118,9 +129,6 @@ Taiwan
   - Addressed challenges in accurately identifying lithology in mining exploration data.
   - Collaborated with a multidisciplinary team on data collection, model development, and presentation preparation.
   - Presented the LSTM solution, showcasing its effectiveness in improving identification accuracy.
- 
----
-    
 - Creative Poster at the WA Mining Conference `4th`
   - Designed an engaging and informative poster showcasing the applications and benefits of the developed model.
   - Presented findings at the conference, highlighting the impact of accurate lithology identification in mining exploration.
@@ -161,6 +169,7 @@ Industry Experiences
     - Medical Manufacturing and Telecommunication. Both are listed on the Taipei Stock Exchange and NASDAQ
 -->
 
+<!-- Abstract for SD -->
 -   Led a team of 4 members in managing an audit plan for a listed company.
 -   Conducted internal reviews, providing constructive feedback to improve team performance.
 -   Actively communicated with clients to gather feedback and improve client satisfaction.
@@ -187,6 +196,7 @@ Industry Experiences
     - Medical Manufacturing, Investment, Advertising, Hospitality, Clothing Manufacturing
 -->
 
+<!-- Abstract for SD -->
 -   Worked collaboratively with team members, conducting internal reviews to ensure high-quality outputs.
 
 ### **Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
@@ -213,11 +223,6 @@ Statistics Course `2015.2 - 2015.6`
 -->
 
 ## Skills and Certifications
--   Programming: Python, Java, Javascript, Typescript, bash, C, React, Firebase, SQLite, MySQL, R
--   Applications: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle.
--   Certified Practising Accountant, Australia (CPA Australia Member)
--   Certified Public Accountant, Taiwan (CPA Taiwan)
-
 <!--
 ## Qualifications and Certifications
 
@@ -243,6 +248,12 @@ Statistics Course `2015.2 - 2015.6`
 -   Business Analysis Foundation
     <br>
 -->
+
+<!-- Abstract for SD -->
+-   Programming: Python, Java, Javascript, Typescript, bash, C, React, Firebase, SQLite, MySQL, R
+-   Applications: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle.
+-   Certified Practising Accountant, Australia (CPA Australia Member)
+-   Certified Public Accountant, Taiwan (CPA Taiwan)
 
 ## Honors & Awards
 
@@ -310,6 +321,17 @@ Kaohsiung, Taiwan
 
 -   B.S. in Accounting and Information Systems
 -   GPA 80.44/100
+
+## Scholarships and Awards
+
+### **UWA Global Excellence Scholarship**, University of Western Australia `2021 - 2023`
+  - Awarded for exceptional academic performance, providing partial tuition coverage for the entire postgraduate study period.
+
+### **Semester Tuition Waiver for Top Three Academic Ranking**, Kaohsiung Municipal Kaohsiung Vocational High School of Commerce (KSVCS) `2007 - 2010`
+  - Recurrently awarded for ranking within the top three students each semester. The scholarship included a complete tuition waiver for the subsequent semester, sponsored by the government. Achieved in:
+    - Grade 10, Semester 1
+    - Grade 11, Semester 2
+    - Grade 12, Semesters 1 and 2
 
 ## Professional Program
 
