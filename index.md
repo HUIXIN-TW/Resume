@@ -20,8 +20,6 @@ phone:
 
 # HUIXIN **YANG**
 
-https://huixin-tw.github.io/Resume/test.md
-
 <!--
 include contact information from the front matter
 Supported arguments:
