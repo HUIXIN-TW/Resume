@@ -43,14 +43,16 @@ Perth, Australia
 ```
 
 -   M.S. in Information Technology
--   GPA 6.375/7
+-   GPA `6.375/7`
 -   Projects
-    -   Agile Web application - [BrewChat](https://github.com/HUIXIN-TW/BrewChatApp) (Javascript, Flask, SQLAlchemy, unittest) `HD & Top3 Project`
+    -   Agile Web application - [BrewChat](https://github.com/HUIXIN-TW/BrewChatApp) (Javascript, Flask, SQLAlchemy, unittest, Git) `HD & Top3 Project`
     -   Data Warehousing & Association Rule Mining (R, SQL, SSMS and Power BI) `HD & Top2 Project`
     -   Graph Database & Graph Data Science (Neo4j, Cypher, and R) `HD & Top4 Project`
-    -   Exploratory data analysis and Machine learning models (R, RStudio) `Top1 Project`
-    -   Internet of Things - [ESP32 Air Quality Detector](https://github.com/HUIXIN-TW/CITS5506IOT) (C++, Flask, Firebase, HTML, CSS, Javascript) `HD`
+    -   Exploratory data analysis and Machine learning models (R, RStudio, Git) `Top1 Project`
+    -   Internet of Things - [ESP32 Air Quality Detector](https://github.com/HUIXIN-TW/CITS5506IOT) (C++, Flask, Firebase, HTML, CSS, Javascript, Firebase Real-Time Database, Git) `HD`
     -   Business intelligence report (Python, PowerBI) `HD`
+    -   Cybersecurity (Virtualisation and Containerisation) `Grade: HD`
+	-   Rational Database Management System (SQL) `Grade: HD`
     -   COVID Analysis (Python) `HD`
 
 <!-- 
@@ -69,7 +71,7 @@ Chiayi, Taiwan
 -   M.S. in Accounting and Information Technology
 -   Nationally in CCU's competitive annual Accounting postgraduate entrance exam `Top2`
 -   Conducted research on "Directors’ and Officers’ Liability Insurance and Cost Stickiness." `HD`
--   GPA 3.93/4.0
+-   GPA `3.93/4.0`
 
 ### **National Kaohsiung University of Science and Technology (NKUST)** `2010.9 - 2014.6`
 
@@ -78,7 +80,7 @@ Kaohsiung, Taiwan
 ```
 
 -   B.S. in Accounting and Information Systems
--   GPA 80.44/100
+-   GPA `80.44/100`
 
 <!--
 ## Professional Program
