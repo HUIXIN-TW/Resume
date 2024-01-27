@@ -49,7 +49,7 @@ Perth, Australia
     -   Data Warehousing & Association Rule Mining (R, SQL, SSMS and Power BI) `HD & Top2 Project`
     -   Graph Database & Graph Data Science (Neo4j, Cypher, and R) `HD & Top4 Project`
     -   Exploratory data analysis and Machine learning models (R, RStudio, Git) `Top1 Project`
-    -   IOT [ESP32 Air Quality Detector](https://github.com/HUIXIN-TW/CITS5506IOT) (C++, Flask, HTML, CSS, Javascript, Firebase Real-Time DＢ, Git) `HD`
+    -   IOT [ESP32 Air Quality Detector](https://github.com/HUIXIN-TW/CITS5506IOT) (C++, Flask, HTML, CSS, Javascript, Firebase Real-Time DB, Git) `HD`
     -   Business intelligence report (Python, PowerBI) `HD`
     -   Cybersecurity (Bash, Virtualisation & Containerisation) `HD`
     -   Rational Database Management System (SQL) `HD`
@@ -215,7 +215,7 @@ Audit and Assurance Course `2015.9 - 2016.6`<br>
 Statistics Course `2015.2 - 2015.6`
 -->
 
-## Skills and Certifications
+## Skills & Certifications
 <!--
 ## Qualifications and Certifications
 
@@ -256,7 +256,7 @@ Statistics Course `2015.2 - 2015.6`
 -   **Finance and Business**: Certified Practising Accountant, Australia (CPA Australia Member) and Certified Public Accountant, Taiwan (CPA Taiwan)
 
 
-## Scholarships and Awards
+## Scholarships
 
 ### **UWA Global Excellence Scholarship**, University of Western Australia `2021 - 2023`
   - Awarded for exceptional academic performance, providing partial tuition coverage for the entire postgraduate study period.
