@@ -69,7 +69,7 @@ Kaohsiung, Taiwan
 -   GPA 80.44/100
 -->
 
-## Scholarships and Awards
+## Scholarships
 
 ### **UWA Global Excellence Scholarship**, University of Western Australia `2021 - 2023`
   - Awarded for exceptional academic performance, providing partial tuition coverage for the entire postgraduate study period.
@@ -123,7 +123,7 @@ Kaohsiung, Taiwan
 -   Collaborated closely with the team to align the marketing plan with organizational goals, ensuring a cohesive and impactful brand message.
 -   Contributed to a significant improvement in UseVerb's market positioning and community impact, driven by strategic, analytical, and data-informed decision-making.
 
-## Skills and Certifications
+## Skills & Certifications
 -   **Programming & Database Languages**: Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j, Docker, Prisma, Postgres
 -   **Front End Web Development**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
 -   **UX prototyping tools**: Figma
@@ -172,7 +172,7 @@ I designed a game, named _Fraud and Fraudit_. It is an interactive game with aud
 
 **CCU Excellent Teaching Facilitator** [Certification](https://oaa.ccu.edu.tw/_files_oaa/dev/ta_selection/ta_selection104.pdf) `2016.5`
 
-Selcted as one of the best teaching facilitators in CCU. I was glad that I could help students to understand advanced accounting.
+Selected as one of the best teaching facilitators in CCU. I was glad that I could help students to understand advanced accounting.
 
 **Champion Team in KPMG Academic Competition** `2015.5`
 
