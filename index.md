@@ -119,7 +119,7 @@ Taiwan
 - Prototype Solution Presentation `3rd`
   - Developed a mining exploration lithology identification model using LSTM.
   - Addressed challenges in accurately identifying lithology in mining exploration data.
-  - Collaborated with a multidisciplinary team on data collection, model development, and presentation preparation.
+  - Collaborated with a multidisciplinary team on data collection, model development, and ETL frameworks and processes.
   - Presented the LSTM solution, showcasing its effectiveness in improving identification accuracy.
 - Creative Poster at the WA Mining Conference `4th`
   - Designed an engaging and informative poster showcasing the applications and benefits of the developed model.
