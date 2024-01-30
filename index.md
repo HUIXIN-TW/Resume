@@ -8,8 +8,8 @@ github:
     url: https://github.com/HUIXIN-TW
     text: HUIXIN-TW
 homepage:
-    url: https://huixin.notion.site
-    text: Personal Profile
+    url: https://portfolio-huixin-tw.vercel.app/
+    text: Personal Portfolio
 linkedin:
     url: https://www.linkedin.com/in/hui-xin-yang
     text: Linkedin
