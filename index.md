@@ -115,6 +115,12 @@ Taiwan
 -   Developed robust APIs to seamlessly connect frontend pages with the backend database, facilitating efficient data retrieval and updates.
 -   Achievements: Successfully created and merged three pull requests via GitHub into the main branch within one month.
 
+### **** `2023.7 - 2023.11`
+- Aimed to transform unstructured text data into a structured knowledge graph using natural language processing techniques.
+- Technology Stack: Python, networkx, requests, React, ChatGPT API, ChatGPT Fine Tuning Model, Prompt engineering & Feature engineering, Docker, Git.
+- Leveraged the ChatGPT API and ChatGPT Fine Tuning Model for advanced natural language understanding and generation.
+- Implemented prompt engineering and feature engineering to enhance the accuracy and efficiency of triple generation.
+
 ### **Data Scientist, SLB Data Science Hackathon** `2023.9 - 2023.10`
 - Prototype Solution Presentation `3rd`
   - Developed a mining exploration lithology identification model using LSTM.
