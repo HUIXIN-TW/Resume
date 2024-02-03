@@ -115,7 +115,7 @@ Taiwan
 -   Developed robust APIs to seamlessly connect frontend pages with the backend database, facilitating efficient data retrieval and updates.
 -   Achievements: Successfully created and merged three pull requests via GitHub into the main branch within one month.
 
-### **** `2023.7 - 2023.11`
+### **[LLM Triple Generator Project](https://www.youtube.com/watch?v=wVBYiyJ0u00)** `2023.7 - 2023.11`
 - Aimed to transform unstructured text data into a structured knowledge graph using natural language processing techniques.
 - Technology Stack: Python, networkx, requests, React, ChatGPT API, ChatGPT Fine Tuning Model, Prompt engineering & Feature engineering, Docker, Git.
 - Leveraged the ChatGPT API and ChatGPT Fine Tuning Model for advanced natural language understanding and generation.
@@ -253,7 +253,7 @@ Statistics Course `2015.2 - 2015.6`
 -   **Programming & Database Languages**: Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j
 -   **Front End Web Development**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
 -   **UX prototyping tools**: Figma
--   **Web Framework / Libraries**: React, Next.JS, Django, Flask
+-   **Web Framework / Libraries**: React, Angular, Angular Material, Next.JS, Django, Flask
 -   **Version Control Systems & CI/CD Tools**: Git, GitHub, GitLab
 -   **Cloud Computing Platforms**: AWS, Firebase
 -   **Low-code/No-code Development Platform**: WordPress, Wix
