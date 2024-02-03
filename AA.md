@@ -8,14 +8,17 @@ github:
     url: https://github.com/HUIXIN-TW
     text: HUIXIN-TW
 homepage:
-    url: https://huixin.notion.site
-    text: Personal Profile
+    url: https://portfolio-huixin-tw.vercel.app
+    text: Portfilio Website
 linkedin:
     url: https://www.linkedin.com/in/hui-xin-yang
     text: Linkedin
 phone:
     tel: tel:+61478093588
     text: 0478093588
+notion:
+    url: https://huixin.notion.site
+    text: Profile Notion.io
 ---
 
 <!-- Accountant or Auditor Resume -->
