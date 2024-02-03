@@ -9,7 +9,7 @@ github:
     text: HUIXIN-TW
 homepage:
     url: https://portfolio-huixin-tw.vercel.app
-    text: Portfilio Website
+    text: Portfolio Website
 linkedin:
     url: https://www.linkedin.com/in/hui-xin-yang
     text: Linkedin
@@ -61,7 +61,6 @@ Chiayi, Taiwan
 -   Conducted research on "Directors’ and Officers’ Liability Insurance and Cost Stickiness." `HD`
 -   GPA 3.93/4.0
 
-<!--
 ### **National Kaohsiung University of Science and Technology (NKUST)** `2010.9 - 2014.6`
 
 ```
@@ -70,7 +69,6 @@ Kaohsiung, Taiwan
 
 -   B.S. in Accounting and Information Systems
 -   GPA 80.44/100
--->
 
 ## Scholarships
 
@@ -99,7 +97,32 @@ Kaohsiung, Taiwan
   - Designed an engaging and informative poster showcasing the applications and benefits of the developed model.
   - Presented findings at the conference, highlighting the impact of accurate lithology identification.
 
----
+## Work Experience
+
+### **Assistant Manager, Deloitte** `2019.3 - 2020.8`
+- Possessed sound knowledge of US GAAP, IFRS, and SOX internal control audits.
+- Performed financial modelling to support and challenge key assumptions made by the development team and external advisors, such as DCF models.
+- Performed risk assessment of material financial statement items while exercising judgment within agreed parameters under the COSO framework.
+- Performed valuation analysis of assets, debt, and equity, such as intangible assets impairment and convertible bonds.
+- Utilized IT skills for data cleaning, manipulation, and mapping - Microsoft Excel, Power BI
+- Led 4 members and managed audit plan for a listed companies
+- Supervise, coach, and develop junior members of staff within teams, on client premises, and in the office.
+
+### **Staff - Senior Associate, PwC** `2016.9 - 2019.2`
+- Conducted in the Biotechnology Industry's initial public offering project.
+- Evaluated investment profiles including local/international, public/private stocks, and bonds by nature under IFRS9.
+- Evaluated derivative financial instruments.
+- Recalculated net asset value and return on investment.
+- Reviewed cash flow forecasts for the prospectus to assess the feasibility of the assumptions.
+- Assessed financial risk information, including market risk, credit risk, liquidity risk, interest rate risk, and sensitive analysis of each.
+
+### **Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
+- Provided guidance
+- Delivered effective instruction in Intermediate Accounting, facilitating student understanding and proficiency.
+
+### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
+- Assisted in teaching courses including Business Analysis, Accounting, Advanced Accounting, Audit, and Statistics.
+- Provided guidance and handouts
 
 ## Project Experience
 
@@ -143,35 +166,6 @@ Kaohsiung, Taiwan
 -   **Command-Line Interpreter**: Windows PowerShell, Git Bash, Bash & Zsh (Mac OS) 
 -   **Applications**: ChatGPT API, Notion API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle, Microsoft Office
 -   **Finance and Business**: CPA Australia, CPA Taiwan, Futures Specialist licensed by [SFI](https://www.sfi.org.tw/en/), Blockchain Basic, Business Analysis Foundation.
-
----
-
-## Work Experience
-
-### **Assistant Manager, Deloitte** `2019.3 - 2020.8`
-- Possessed sound knowledge of US GAAP, IFRS, and SOX internal control audits.
-- Performed financial modelling to support and challenge key assumptions made by the development team and external advisors, such as DCF models.
-- Performed risk assessment of material financial statement items while exercising judgment within agreed parameters under the COSO framework.
-- Performed valuation analysis of assets, debt, and equity, such as intangible assets impairment and convertible bonds.
-- Utilized IT skills for data cleaning, manipulation, and mapping - Microsoft Excel, Power BI
-- Led 4 members and managed audit plan for a listed companies
-- Supervise, coach, and develop junior members of staff within teams, on client premises, and in the office.
-
-### **Staff - Senior Associate, PwC** `2016.9 - 2019.2`
-- Conducted in the Biotechnology Industry's initial public offering project.
-- Evaluated investment profiles including local/international, public/private stocks, and bonds by nature under IFRS9.
-- Evaluated derivative financial instruments.
-- Recalculated net asset value and return on investment.
-- Reviewed cash flow forecasts for the prospectus to assess the feasibility of the assumptions.
-- Assessed financial risk information, including market risk, credit risk, liquidity risk, interest rate risk, and sensitive analysis of each.
-
-### **Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
-- Provided guidance
-- Delivered effective instruction in Intermediate Accounting, facilitating student understanding and proficiency.
-
-### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
-- Assisted in teaching courses including Business Analysis, Accounting, Advanced Accounting, Audit, and Statistics.
-- Provided guidance and handouts
 
 ## Honors & Awards
 

@@ -15,6 +15,11 @@
     <a href="{{ page.github.url }}" style="margin-left:0.5em">{{ page.github.text }}</a>
     {% endif %}
 
+    {% if page.notion %}
+    <i class="fi-book-bookmark" style="margin-left:1em"></i>
+    <a href="{{ page.notion.url }}" style="margin-left:0.5em">{{ page.notion.text }}</a>
+    {% endif %}
+
     {% if page.email %}
     <i class="fi-mail" style="margin-left:1em"></i>
     <a href="{{ page.email.url }}" style="margin-left:0.5em">{{ page.email.text }}</a>
