@@ -13,12 +13,6 @@ homepage:
 linkedin:
     url: https://www.linkedin.com/in/hui-xin-yang
     text: Linkedin
-phone:
-    tel: tel:+61478093588
-    text: 0478093588
-notion:
-    url: https://huixin.notion.site
-    text: Profile Notion.io
 ---
 
 <!-- Accountant or Auditor Resume -->
