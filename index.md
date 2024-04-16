@@ -13,9 +13,6 @@ homepage:
 linkedin:
     url: https://www.linkedin.com/in/hui-xin-yang
     text: Linkedin
-phone:
-    tel: tel:+61478093588
-    text: 0478093588
 ---
 
 # HUIXIN **YANG**
