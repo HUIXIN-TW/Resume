@@ -8,11 +8,11 @@ github:
     url: https://github.com/HUIXIN-TW
     text: HUIXIN-TW
 homepage:
-    url: https://portfolio-huixin-tw.vercel.app/
-    text: Personal Portfolio
+    url: https://huixinyang.com/
+    text: huixinyang.com
 linkedin:
     url: https://www.linkedin.com/in/hui-xin-yang
-    text: Linkedin
+    text: hui-xin-yang
 ---
 
 # HUIXIN **YANG**
@@ -103,39 +103,17 @@ Taiwan
 -   GPA 78.6/100 
 -->
 
-## Project Experience
-
-### **Full Stack developer, Repair Labs project (CFC)** `2023.6 - Current`
--   Actively contributing as a member of the [Repair Labs Project](https://github.com/codersforcauses/repair-labs)
--   Technology Stack: Next.js, TypeScript, React, Tailwind CSS and Vercel; prisma as ORM, Postgres and Docker for local DB.
--   Designed mobile and desktop layouts using Figma, ensuring a user-friendly interface.
--   Developed robust APIs to seamlessly connect frontend pages with the backend database, facilitating efficient data retrieval and updates.
--   Achievements: Successfully created and merged three pull requests via GitHub into the main branch within one month.
-
-### **[LLM Triple Generator Project](https://www.youtube.com/watch?v=wVBYiyJ0u00)** `2023.7 - 2023.11`
-- Aimed to transform unstructured text data into a structured knowledge graph using natural language processing techniques.
-- Technology Stack: Python, networkx, requests, React, ChatGPT API, ChatGPT Fine Tuning Model, Prompt engineering & Feature engineering, Docker, Git.
-- Leveraged the ChatGPT API and ChatGPT Fine Tuning Model for advanced natural language understanding and generation.
-- Implemented prompt engineering and feature engineering to enhance the accuracy and efficiency of triple generation.
-
-### **Data Scientist, SLB Data Science Hackathon** `2023.9 - 2023.10`
-- Prototype Solution Presentation `3rd`
-  - Developed a mining exploration lithology identification model using LSTM.
-  - Addressed challenges in accurately identifying lithology in mining exploration data.
-  - Collaborated with a multidisciplinary team on data collection, model development, and ETL frameworks and processes.
-  - Presented the LSTM solution, showcasing its effectiveness in improving identification accuracy.
-- Creative Poster at the WA Mining Conference `4th`
-  - Designed an engaging and informative poster showcasing the applications and benefits of the developed model.
-  - Presented findings at the conference, highlighting the impact of accurate lithology identification in mining exploration.
-  - Received recognition for the innovative approach to solving exploration challenges.
-
-### **Full Stack developer, Pets Of Older Persons project (CFC)** `2022.11 - 2023.2`
--   Contributed as a team member in the [Pets of Older Persons Project](https://github.com/codersforcauses/poops)
--   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase and Vercel.
--   Utilized Figma to craft intuitive mobile and desktop layouts.
--   Collaborated effectively with other student volunteers, utilizing Git version control.
-
 ## Work Experience
+
+### **Data Engineer, The U Group & Co** `2024.3 - Present`
+- Delivered high-quality data sets to clients, ensuring timely and accurate reporting.
+- Managed and optimized data pipelines, utilizing Snowflake, dbt, and SQL to streamline data transformation and storage processes.
+- Developed and maintained Python-based machine learning pipelines for predictive analytics and data processing tasks.
+- Used ETLeap to automate data integration and migration tasks, improving efficiency in data workflows.
+- Designed and orchestrated data pipelines with Dagster, ensuring reliability, monitoring, and efficient task execution.
+- Troubleshot and resolved complex data flow, storage, and accessibility challenges, improving system performance.
+- Leveraged AWS cloud technologies to build scalable, secure data infrastructure.
+- Collaborated with cross-functional teams to ensure data integrity, efficiency, and alignment with client needs.
 
 ### **Assistant Manager, Deloitte** `2019.3 - 2020.8`
 
@@ -215,6 +193,38 @@ Advanced Accounting Course `2015.9 - 2016.6`<br>
 Audit and Assurance Course `2015.9 - 2016.6`<br>
 Statistics Course `2015.2 - 2015.6`
 -->
+
+## Project Experience
+
+### **Full Stack developer, Repair Labs project (CFC)** `2023.6 - Current`
+-   Actively contributing as a member of the [Repair Labs Project](https://github.com/codersforcauses/repair-labs)
+-   Technology Stack: Next.js, TypeScript, React, Tailwind CSS and Vercel; prisma as ORM, Postgres and Docker for local DB.
+-   Designed mobile and desktop layouts using Figma, ensuring a user-friendly interface.
+-   Developed robust APIs to seamlessly connect frontend pages with the backend database, facilitating efficient data retrieval and updates.
+-   Achievements: Successfully created and merged three pull requests via GitHub into the main branch within one month.
+
+### **[LLM Triple Generator Project](https://www.youtube.com/watch?v=wVBYiyJ0u00)** `2023.7 - 2023.11`
+- Aimed to transform unstructured text data into a structured knowledge graph using natural language processing techniques.
+- Technology Stack: Python, networkx, requests, React, ChatGPT API, ChatGPT Fine Tuning Model, Prompt engineering & Feature engineering, Docker, Git.
+- Leveraged the ChatGPT API and ChatGPT Fine Tuning Model for advanced natural language understanding and generation.
+- Implemented prompt engineering and feature engineering to enhance the accuracy and efficiency of triple generation.
+
+### **Data Scientist, SLB Data Science Hackathon** `2023.9 - 2023.10`
+- Prototype Solution Presentation `3rd`
+  - Developed a mining exploration lithology identification model using LSTM.
+  - Addressed challenges in accurately identifying lithology in mining exploration data.
+  - Collaborated with a multidisciplinary team on data collection, model development, and ETL frameworks and processes.
+  - Presented the LSTM solution, showcasing its effectiveness in improving identification accuracy.
+- Creative Poster at the WA Mining Conference `4th`
+  - Designed an engaging and informative poster showcasing the applications and benefits of the developed model.
+  - Presented findings at the conference, highlighting the impact of accurate lithology identification in mining exploration.
+  - Received recognition for the innovative approach to solving exploration challenges.
+
+### **Full Stack developer, Pets Of Older Persons project (CFC)** `2022.11 - 2023.2`
+-   Contributed as a team member in the [Pets of Older Persons Project](https://github.com/codersforcauses/poops)
+-   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase and Vercel.
+-   Utilized Figma to craft intuitive mobile and desktop layouts.
+-   Collaborated effectively with other student volunteers, utilizing Git version control.
 
 ## Skills & Certifications
 <!--
