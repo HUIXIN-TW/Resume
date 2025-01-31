@@ -2,17 +2,17 @@
 layout: cv
 title: HUIXIN YANG
 email:
-    url: mailto:huixin.yang.tw@gmail.com
-    text: huixin.yang.tw@gmail.com
+  url: mailto:huixin.yang.tw@gmail.com
+  text: huixin.yang.tw@gmail.com
 github:
-    url: https://github.com/HUIXIN-TW
-    text: HUIXIN-TW
+  url: https://github.com/HUIXIN-TW
+  text: HUIXIN-TW
 homepage:
-    url: https://huixinyang.com/
-    text: huixinyang.com
+  url: https://huixinyang.com/
+  text: huixinyang.com
 linkedin:
-    url: https://www.linkedin.com/in/hui-xin-yang
-    text: hui-xin-yang
+  url: https://www.linkedin.com/in/hui-xin-yang
+  text: hui-xin-yang
 ---
 
 # HUIXIN **YANG**
@@ -39,36 +39,35 @@ print format: use --- to separate pages
 Perth, Australia
 ```
 
--   M.S. in Information Technology
--   GPA 6.375/7
--   Projects
-    -   Agile Web application - [BrewChat](https://github.com/HUIXIN-TW/BrewChatApp) (Javascript, Flask, SQLAlchemy, unittest, Git) `HD & Top3 Project`
-    -   Data Warehousing & Association Rule Mining (R, SQL, SSMS and Power BI) `HD & Top2 Project`
-    -   Graph Database & Graph Data Science (Neo4j, Cypher, and R) `HD & Top4 Project`
-    -   Exploratory data analysis and Machine learning models (R, RStudio, Git) `Top1 Project`
-    -   IOT [ESP32 Air Quality Detector](https://github.com/HUIXIN-TW/CITS5506IOT) (C++, Flask, HTML, CSS, Javascript, Firebase Real-Time DB, Git) `HD`
-    -   Business intelligence report (Python, PowerBI) `HD`
-    -   Cybersecurity (Bash, Virtualisation & Containerisation) `HD`
-    -   Rational Database Management System (SQL) `HD`
-    -   COVID Analysis (Python) `HD`
+- M.S. in Information Technology
+- GPA 6.375/7
+- Projects
+  - Agile Web application - [BrewChat](https://github.com/HUIXIN-TW/BrewChatApp) (Javascript, Flask, SQLAlchemy, unittest, Git) `HD & Top3 Project`
+  - Data Warehousing & Association Rule Mining (R, SQL, SSMS and Power BI) `HD & Top2 Project`
+  - Graph Database & Graph Data Science (Neo4j, Cypher, and R) `HD & Top4 Project`
+  - Exploratory data analysis and Machine learning models (R, RStudio, Git) `Top1 Project`
+  - IOT [ESP32 Air Quality Detector](https://github.com/HUIXIN-TW/CITS5506IOT) (C++, Flask, HTML, CSS, Javascript, Firebase Real-Time DB, Git) `HD`
+  - Business intelligence report (Python, PowerBI) `HD`
+  - Cybersecurity (Bash, Virtualisation & Containerisation) `HD`
+  - Rational Database Management System (SQL) `HD`
+  - COVID Analysis (Python) `HD`
 
-<!-- 
+<!--
 -   Software requirements and design analysis for the Transportation system - shuttleUWA
 -   Maze game (bash)
--   Chemical Equations game and Light Bulb puzzle (Java) 
+-   Chemical Equations game and Light Bulb puzzle (Java)
 -->
-    
-    
+
 ### **National Chung Cheng University (CCU)** `2014.9 - 2016.7`
 
 ```
 Chiayi, Taiwan
 ```
 
--   M.S. in Accounting and Information Technology
--   Nationally in CCU's competitive annual Accounting postgraduate entrance exam `Top2`
--   Conducted research on "Directors’ and Officers’ Liability Insurance and Cost Stickiness." `HD`
--   GPA 3.93/4.0
+- M.S. in Accounting and Information Technology
+- Nationally in CCU's competitive annual Accounting postgraduate entrance exam `Top2`
+- Conducted research on "Directors’ and Officers’ Liability Insurance and Cost Stickiness." `HD`
+- GPA 3.93/4.0
 
 <!--
 ### **National Kaohsiung University of Science and Technology (NKUST)** `2010.9 - 2014.6`
@@ -100,12 +99,13 @@ Australia
 Taiwan
 ```
 
--   GPA 78.6/100 
+-   GPA 78.6/100
 -->
 
 ## Work Experience
 
 ### **Data Engineer, The U Group & Co** `2024.3 - Present`
+
 - Delivered high-quality data sets to clients, ensuring timely and accurate reporting.
 - Managed and optimized data pipelines, utilizing Snowflake, dbt, and SQL to streamline data transformation and storage processes.
 - Developed and maintained Python-based machine learning pipelines for predictive analytics and data processing tasks.
@@ -143,9 +143,10 @@ Industry Experiences
 -->
 
 <!-- Abstract for SD -->
--   Led a team of 4 members in managing an audit plan for a listed company.
--   Conducted internal reviews, providing constructive feedback to improve team performance.
--   Actively communicated with clients to gather feedback and improve client satisfaction.
+
+- Led a team of 4 members in managing an audit plan for a listed company.
+- Conducted internal reviews, providing constructive feedback to improve team performance.
+- Actively communicated with clients to gather feedback and improve client satisfaction.
 
 ### **Staff - Senior Associate, PwC** `2016.9 - 2019.2`
 
@@ -170,7 +171,8 @@ Industry Experiences
 -->
 
 <!-- Abstract for SD -->
--   Worked collaboratively with team members, conducting internal reviews to ensure high-quality outputs.
+
+- Worked collaboratively with team members, conducting internal reviews to ensure high-quality outputs.
 
 <!--
 ### **Intermediate Accounting Instructor, Tekom Technologies, Inc** `2016.3 - 2016.6`
@@ -182,7 +184,7 @@ Industry Experiences
 
 ### **Facilitator, National Chung Cheng University** `2015.2 - 2016.6`
 
--   Assisted in teaching courses such as Business Analysis, Accounting, Advanced Accounting, Audit, and Statistics.
+- Assisted in teaching courses such as Business Analysis, Accounting, Advanced Accounting, Audit, and Statistics.
 
 <!-- For more detail but not shown on CV
 - Provided guidance and handouts
@@ -197,19 +199,22 @@ Statistics Course `2015.2 - 2015.6`
 ## Project Experience
 
 ### **Full Stack developer, Repair Labs project (CFC)** `2023.6 - Current`
--   Actively contributing as a member of the [Repair Labs Project](https://github.com/codersforcauses/repair-labs)
--   Technology Stack: Next.js, TypeScript, React, Tailwind CSS and Vercel; prisma as ORM, Postgres and Docker for local DB.
--   Designed mobile and desktop layouts using Figma, ensuring a user-friendly interface.
--   Developed robust APIs to seamlessly connect frontend pages with the backend database, facilitating efficient data retrieval and updates.
--   Achievements: Successfully created and merged three pull requests via GitHub into the main branch within one month.
+
+- Actively contributing as a member of the [Repair Labs Project](https://github.com/codersforcauses/repair-labs)
+- Technology Stack: Next.js, TypeScript, React, Tailwind CSS and Vercel; prisma as ORM, Postgres and Docker for local DB.
+- Designed mobile and desktop layouts using Figma, ensuring a user-friendly interface.
+- Developed robust APIs to seamlessly connect frontend pages with the backend database, facilitating efficient data retrieval and updates.
+- Achievements: Successfully created and merged three pull requests via GitHub into the main branch within one month.
 
 ### **[LLM Triple Generator Project](https://www.youtube.com/watch?v=wVBYiyJ0u00)** `2023.7 - 2023.11`
+
 - Aimed to transform unstructured text data into a structured knowledge graph using natural language processing techniques.
 - Technology Stack: Python, networkx, requests, React, ChatGPT API, ChatGPT Fine Tuning Model, Prompt engineering & Feature engineering, Docker, Git.
 - Leveraged the ChatGPT API and ChatGPT Fine Tuning Model for advanced natural language understanding and generation.
 - Implemented prompt engineering and feature engineering to enhance the accuracy and efficiency of triple generation.
 
 ### **Data Scientist, SLB Data Science Hackathon** `2023.9 - 2023.10`
+
 - Prototype Solution Presentation `3rd`
   - Developed a mining exploration lithology identification model using LSTM.
   - Addressed challenges in accurately identifying lithology in mining exploration data.
@@ -221,12 +226,14 @@ Statistics Course `2015.2 - 2015.6`
   - Received recognition for the innovative approach to solving exploration challenges.
 
 ### **Full Stack developer, Pets Of Older Persons project (CFC)** `2022.11 - 2023.2`
--   Contributed as a team member in the [Pets of Older Persons Project](https://github.com/codersforcauses/poops)
--   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase and Vercel.
--   Utilized Figma to craft intuitive mobile and desktop layouts.
--   Collaborated effectively with other student volunteers, utilizing Git version control.
+
+- Contributed as a team member in the [Pets of Older Persons Project](https://github.com/codersforcauses/poops)
+- Technology Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase and Vercel.
+- Utilized Figma to craft intuitive mobile and desktop layouts.
+- Collaborated effectively with other student volunteers, utilizing Git version control.
 
 ## Skills & Certifications
+
 <!--
 ## Qualifications and Certifications
 
@@ -255,28 +262,29 @@ Statistics Course `2015.2 - 2015.6`
 
 <!-- Abstract for SD -->
 
--   **Programming & Database Languages**: Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j
--   **Front End Web Development**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
--   **UX prototyping tools**: Figma
--   **Web Framework / Libraries**: React, Angular, Angular Material, Next.JS, Django, Flask
--   **Version Control Systems & CI/CD Tools**: Git, GitHub, GitLab
--   **Cloud Computing Platforms**: AWS, Firebase
--   **Low-code/No-code Development Platform**: WordPress, Wix
--   **Command-Line Interpreter**: Windows PowerShell, Git Bash, Bash & Zsh (Mac OS) 
--   **Applications**: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle
--   **Finance and Business**: Certified Practising Accountant, Australia (CPA Australia Member) and Certified Public Accountant, Taiwan (CPA Taiwan)
-
+- **Programming & Database Languages**: Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j
+- **Front End Web Development**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
+- **UX prototyping tools**: Figma
+- **Web Framework / Libraries**: React, Angular, Angular Material, Next.JS, Django, Flask
+- **Version Control Systems & CI/CD Tools**: Git, GitHub, GitLab
+- **Cloud Computing Platforms**: AWS, Firebase
+- **Low-code/No-code Development Platform**: WordPress, Wix
+- **Command-Line Interpreter**: Windows PowerShell, Git Bash, Bash & Zsh (Mac OS)
+- **Applications**: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle
+- **Finance and Business**: Certified Practising Accountant, Australia (CPA Australia Member) and Certified Public Accountant, Taiwan (CPA Taiwan)
 
 ## Scholarships
 
 ### **UWA Global Excellence Scholarship**, University of Western Australia `2021 - 2023`
-  - Awarded for exceptional academic performance, providing partial tuition coverage for the entire postgraduate study period.
+
+- Awarded for exceptional academic performance, providing partial tuition coverage for the entire postgraduate study period.
 
 ### **Scholarships for Top Three Academic Ranking**, Kaohsiung Vocational High School of Commerce (KSVCS) `2007 - 2010`
-  - Recurrently awarded for ranking within the top three students each semester. The scholarship included a complete tuition waiver for the subsequent semester, sponsored by the government. Achieved in:
-    - Grade 10, Semester 1
-    - Grade 11, Semester 2
-    - Grade 12, Semesters 1 and 2
+
+- Recurrently awarded for ranking within the top three students each semester. The scholarship included a complete tuition waiver for the subsequent semester, sponsored by the government. Achieved in:
+  - Grade 10, Semester 1
+  - Grade 11, Semester 2
+  - Grade 12, Semesters 1 and 2
 
 ## Honors & Awards
 
@@ -298,4 +306,3 @@ Champion Team in KPMG Academic Competition `2015.5`
 Bronze Medal Winner on XBRL Academic Winter Camp, [TWSE](https://www.twse.com.tw/en/) `2015.1`
 
 <!-- XBRL (eXtensible Business Reporting Language) was the latest idea of a global framework for exchanging business information in Taiwan at that time. Hence, my classmates and I enrolled in the XBRL camp held by the Taiwan Stock Exchange from January 19, 2015, to January 22, 2015. It was an intensive program. All candidates must take two and a half days of classes regarding XBRL, then take part in a competition in the afternoon of the third day. Luckily, we won third place! -->
-

@@ -29,12 +29,14 @@ Jekyll is a static site generator written in Ruby. It processes text files (ofte
 4. **Serve Locally or Deploy**: You can preview it locally or deploy it to any web server.
 
 ### Benefits of Jekyll:
+
 - **Static Sites**: Ideal for personal blogs, portfolios, and documentation where content changes infrequently.
 - **Markdown Support**: Easily write and maintain content using Markdown.
 - **Customization**: Customize layouts and designs using HTML, CSS, and Jekyll’s templating language, Liquid.
 - **Fast Performance**: Static sites load quickly as they don’t require server-side processing.
 
 ### Example Use Case:
+
 You can use Jekyll to create a CV (resume) site. Write your content in Markdown, and Jekyll will convert it into a styled HTML page using templates and styles you define.
 
 ---
@@ -52,6 +54,7 @@ To run this locally, you'll need to have the following installed:
 ## Installation
 
 ### 1. Install Ruby
+
 First, check if Ruby is installed by running:
 
 ```bash
@@ -60,23 +63,38 @@ ruby -v
 
 If Ruby isn't installed, follow the instructions on the [Ruby website](https://www.ruby-lang.org/en/documentation/installation/).
 
+```bash
+# create an alias to use Ruby 3 by pointing to /opt/homebrew/opt/ruby/bin
+nano ~/.zshrc
+alias ruby3='/opt/homebrew/opt/ruby/bin/ruby'
+source ~/.zshrc
+```
+
 ### 2. Install Jekyll and Bundler
+
 Once Ruby is installed, run the following command to install Jekyll and Bundler:
 
 ```bash
 gem install jekyll bundler
+# or
+ruby3 -S gem install bundler
+ruby3 -S gem install jekyll
 ```
 
 ### 3. Install Dependencies
+
 Navigate to the project directory in your terminal and run the following to install all the required gems:
 
 ```bash
 bundle install
+# or
+ruby3 -S bundle install
 ```
 
 This will install dependencies listed in the `Gemfile`.
 
 ### 4. Configure Your Jekyll Site
+
 Ensure your project has a `_config.yml` file. If not, create one with the following content:
 
 ```yaml
@@ -88,10 +106,13 @@ url: ""
 This file contains basic settings for your Jekyll site.
 
 ### 5. Run the Local Server
+
 To start the local server, run:
 
 ```bash
 bundle exec jekyll serve
+# or
+ruby3 -S jekyll serve
 ```
 
 Your site will be available at `http://localhost:4000`.
@@ -129,4 +150,4 @@ You can view and share your online resume via GitHub Pages:
 
 ## References
 
-- [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/)
+[Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/)
