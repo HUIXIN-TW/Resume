@@ -31,89 +31,27 @@ Supported arguments:
 print format: use --- to separate pages
 -->
 
-## Education
-
-### **University of Western Australia (UWA)** `2021.2 - 2023.11`
-
-```
-Perth, Australia
-```
-
-- M.S. in Information Technology
-- GPA 6.375/7
-- Projects
-  - Agile Web application - [BrewChat](https://github.com/HUIXIN-TW/BrewChatApp) (Javascript, Flask, SQLAlchemy, unittest, Git) `HD & Top3 Project`
-  - Data Warehousing & Association Rule Mining (R, SQL, SSMS and Power BI) `HD & Top2 Project`
-  - Graph Database & Graph Data Science (Neo4j, Cypher, and R) `HD & Top4 Project`
-  - Exploratory data analysis and Machine learning models (R, RStudio, Git) `Top1 Project`
-  - IOT [ESP32 Air Quality Detector](https://github.com/HUIXIN-TW/CITS5506IOT) (C++, Flask, HTML, CSS, Javascript, Firebase Real-Time DB, Git) `HD`
-  - Business intelligence report (Python, PowerBI) `HD`
-  - Cybersecurity (Bash, Virtualisation & Containerisation) `HD`
-  - Rational Database Management System (SQL) `HD`
-  - COVID Analysis (Python) `HD`
-
-<!--
--   Software requirements and design analysis for the Transportation system - shuttleUWA
--   Maze game (bash)
--   Chemical Equations game and Light Bulb puzzle (Java)
--->
-
-### **National Chung Cheng University (CCU)** `2014.9 - 2016.7`
-
-```
-Chiayi, Taiwan
-```
-
-- M.S. in Accounting and Information Technology
-- Nationally in CCU's competitive annual Accounting postgraduate entrance exam `Top2`
-- Conducted research on "Directors’ and Officers’ Liability Insurance and Cost Stickiness." `HD`
-- GPA 3.93/4.0
-
-<!--
-### **National Kaohsiung University of Science and Technology (NKUST)** `2010.9 - 2014.6`
-
-```
-Kaohsiung, Taiwan
-```
-
--   B.S. in Accounting and Information Systems
--   GPA 80.44/100
--->
-
-<!--
-## Professional Program
-
-### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2020.7 - Current`
-
-```
-Australia
-```
-
--   Financial Reporting, High Distinction
--->
-
-<!--
-### **Law Program** `2017.8 - 2018.5`
-
-```
-Taiwan
-```
-
--   GPA 78.6/100
--->
-
 ## Work Experience
 
-### **Data Engineer, The U Group & Co** `2024.3 - Present`
+### **Data Engineer II, The U Group & Co** `2025.1 - Present`
 
-- Delivered high-quality data sets to clients, ensuring timely and accurate reporting.
 - Managed and optimized data pipelines, utilizing Snowflake, dbt, and SQL to streamline data transformation and storage processes.
-- Developed and maintained Python-based machine learning pipelines for predictive analytics and data processing tasks.
+- Developed and maintained Python-based machine learning pipelines.
 - Used ETLeap to automate data integration and migration tasks, improving efficiency in data workflows.
 - Designed and orchestrated data pipelines with Dagster, ensuring reliability, monitoring, and efficient task execution.
-- Troubleshot and resolved complex data flow, storage, and accessibility challenges, improving system performance.
 - Leveraged AWS cloud technologies to build scalable, secure data infrastructure.
+
+### **Data Engineer I, The U Group & Co** `2024.3 - 2025.1`
+
+- Delivered high-quality data sets to clients, ensuring timely and accurate reporting
+- Troubleshot and resolved complex data flow, storage, and accessibility challenges, improving system performance.
+- Managed and optimized data pipelines, utilizing Snowflake, dbt, and SQL to streamline data transformation and storage processes.
 - Collaborated with cross-functional teams to ensure data integrity, efficiency, and alignment with client needs.
+
+### **Casual Teaching Assistant, University of Western Australia** `2024.2 - 2024.3`
+
+- CITS5505 - Agile Web Development
+- CITS1003 - Introduction to Cybersecurity
 
 ### **Assistant Manager, Deloitte** `2019.3 - 2020.8`
 
@@ -196,9 +134,80 @@ Audit and Assurance Course `2015.9 - 2016.6`<br>
 Statistics Course `2015.2 - 2015.6`
 -->
 
+## Education
+
+### **University of Western Australia (UWA)** `2021.2 - 2023.11`
+
+```
+Perth, Australia
+```
+
+- M.S. in Information Technology
+- GPA 6.375/7
+- Projects
+  - Agile Web application - [BrewChat](https://github.com/HUIXIN-TW/BrewChatApp) (Javascript, Flask, SQLAlchemy, unittest, Git) `HD & Top3 Project`
+  - Data Warehousing & Association Rule Mining (R, SQL, SSMS and Power BI) `HD & Top2 Project`
+  - Graph Database & Graph Data Science (Neo4j, Cypher, and R) `HD & Top4 Project`
+  - Exploratory data analysis and Machine learning models (R, RStudio, Git) `Top1 Project`
+  - IOT [ESP32 Air Quality Detector](https://github.com/HUIXIN-TW/CITS5506IOT) (C++, Flask, HTML, CSS, Javascript, Firebase Real-Time DB, Git) `HD`
+  - Business intelligence report (Python, PowerBI) `HD`
+  - Cybersecurity (Bash, Virtualisation & Containerisation) `HD`
+  - Rational Database Management System (SQL) `HD`
+  - COVID Analysis (Python) `HD`
+
+<!--
+-   Software requirements and design analysis for the Transportation system - shuttleUWA
+-   Maze game (bash)
+-   Chemical Equations game and Light Bulb puzzle (Java)
+-->
+
+### **National Chung Cheng University (CCU)** `2014.9 - 2016.7`
+
+```
+Chiayi, Taiwan
+```
+
+- M.S. in Accounting and Information Technology
+- Nationally in CCU's competitive annual Accounting postgraduate entrance exam `Top2`
+- Conducted research on "Directors’ and Officers’ Liability Insurance and Cost Stickiness." `HD`
+- GPA 3.93/4.0
+
+<!--
+### **National Kaohsiung University of Science and Technology (NKUST)** `2010.9 - 2014.6`
+
+```
+Kaohsiung, Taiwan
+```
+
+-   B.S. in Accounting and Information Systems
+-   GPA 80.44/100
+-->
+
+<!--
+## Professional Program
+
+### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2020.7 - Current`
+
+```
+Australia
+```
+
+-   Financial Reporting, High Distinction
+-->
+
+<!--
+### **Law Program** `2017.8 - 2018.5`
+
+```
+Taiwan
+```
+
+-   GPA 78.6/100
+-->
+
 ## Project Experience
 
-### **Full Stack developer, Repair Labs project (CFC)** `2023.6 - Current`
+### **Full Stack developer, Repair Labs project (CFC)** `2023.6 - 2024.2`
 
 - Actively contributing as a member of the [Repair Labs Project](https://github.com/codersforcauses/repair-labs)
 - Technology Stack: Next.js, TypeScript, React, Tailwind CSS and Vercel; prisma as ORM, Postgres and Docker for local DB.
@@ -262,16 +271,19 @@ Statistics Course `2015.2 - 2015.6`
 
 <!-- Abstract for SD -->
 
+- **Certificate**: AWS Certified Cloud Practitioner (CLF-C02), CPA Australia and CPA Taiwan
 - **Programming & Database Languages**: Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j
 - **Front End Web Development**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
 - **UX prototyping tools**: Figma
+- **Data Orchestration & Workflow Automation**: Dagster
+- **Infrastructure as Code (IaC)**: Pulumi
+- **Data Transformation & ELT Tools**: dbt, dbt Cloud, Etleap
 - **Web Framework / Libraries**: React, Angular, Angular Material, Next.JS, Django, Flask
 - **Version Control Systems & CI/CD Tools**: Git, GitHub, GitLab
 - **Cloud Computing Platforms**: AWS, Firebase
 - **Low-code/No-code Development Platform**: WordPress, Wix
 - **Command-Line Interpreter**: Windows PowerShell, Git Bash, Bash & Zsh (Mac OS)
-- **Applications**: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle
-- **Finance and Business**: Certified Practising Accountant, Australia (CPA Australia Member) and Certified Public Accountant, Taiwan (CPA Taiwan)
+- **Applications**: Notion API, ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ACL, Globe3 ERP, SAP, Oracle
 
 ## Scholarships
 

@@ -64,9 +64,11 @@ ruby -v
 If Ruby isn't installed, follow the instructions on the [Ruby website](https://www.ruby-lang.org/en/documentation/installation/).
 
 ```bash
-# create an alias to use Ruby 3 by pointing to /opt/homebrew/opt/ruby/bin
+# add ruby path
 nano ~/.zshrc
-alias ruby3='/opt/homebrew/opt/ruby/bin/ruby'
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+export GEM_HOME="$HOME/.gem"
+export PATH="$GEM_HOME/bin:$PATH"
 source ~/.zshrc
 ```
 
@@ -75,10 +77,10 @@ source ~/.zshrc
 Once Ruby is installed, run the following command to install Jekyll and Bundler:
 
 ```bash
-gem install jekyll bundler
+gem install bundler jekyll
 # or
-ruby3 -S gem install bundler
-ruby3 -S gem install jekyll
+ruby -S gem install bundler
+ruby -S gem install jekyll
 ```
 
 ### 3. Install Dependencies
@@ -88,7 +90,7 @@ Navigate to the project directory in your terminal and run the following to inst
 ```bash
 bundle install
 # or
-ruby3 -S bundle install
+ruby -S bundle install
 ```
 
 This will install dependencies listed in the `Gemfile`.
@@ -112,7 +114,7 @@ To start the local server, run:
 ```bash
 bundle exec jekyll serve
 # or
-ruby3 -S jekyll serve
+ruby -S jekyll serve
 ```
 
 Your site will be available at `http://localhost:4000`.
