@@ -40,6 +40,8 @@ print format: use --- to separate pages
 - Used ETLeap to automate data integration and migration tasks, improving efficiency in data workflows.
 - Designed and orchestrated data pipelines with Dagster, ensuring reliability, monitoring, and efficient task execution.
 - Leveraged AWS cloud technologies to build scalable, secure data infrastructure.
+- Set up Pulumi IaC to manage Snowflake resources including users, roles, databases, etc.
+- Applied CI/CD practices with GitHub Actions to streamline deployment and testing.
 
 ### **Data Engineer I, The U Group & Co** `2024.3 - 2025.1`
 
@@ -47,6 +49,7 @@ print format: use --- to separate pages
 - Troubleshot and resolved complex data flow, storage, and accessibility challenges, improving system performance.
 - Managed and optimized data pipelines, utilizing Snowflake, dbt, and SQL to streamline data transformation and storage processes.
 - Collaborated with cross-functional teams to ensure data integrity, efficiency, and alignment with client needs.
+- Supported internal tools and ingestion systems through automation and process documentation.
 
 ### **Casual Teaching Assistant, University of Western Australia** `2024.2 - 2024.3`
 
