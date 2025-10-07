@@ -33,7 +33,16 @@ print format: use --- to separate pages
 
 ## Work Experience
 
-### **Data Engineer II, The U Group & Co** `2025.1 - Present`
+### **Backend Engineer II, The U Group & Co** `2025.3 - Present`
+
+- Designed, developed, and maintained backend services using Python and TypeScript, ensuring scalable, reliable, and maintainable systems.
+- Built and optimized cross-service APIs to improve interoperability across microservices and enhance developer experience.
+- Managed and optimized AWS infrastructure for migration, performance, reliability, and cost-efficiency.
+- Implemented CI/CD pipelines and automated deployments to streamline release processes and reduce operational overhead.
+- Contributed to frontend features using React for internal tools and dashboards, supporting better visibility into system and data processes.
+- Collaborated with data and ML teams to integrate backend services with data pipelines and analytics systems.
+
+### **Data Engineer II, The U Group & Co** `2025.1 - 2025.3`
 
 - Managed and optimized data pipelines, utilizing Snowflake, dbt, and SQL to streamline data transformation and storage processes.
 - Developed and maintained Python-based machine learning pipelines.
