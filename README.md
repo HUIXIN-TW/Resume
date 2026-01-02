@@ -146,7 +146,7 @@ To print your CV:
 
 You can view and share your online resume via GitHub Pages:
 
-[Introduce myself to the world](https://huixin-tw.github.io/Resume/)
+- https://huixin-tw.github.io/Resume/
 
 ---
 

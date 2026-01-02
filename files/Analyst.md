@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: HUIXIN YANG
+permalink: /analyst
 email:
   url: mailto:huixin.yang.tw@gmail.com
   text: huixin.yang.tw@gmail.com

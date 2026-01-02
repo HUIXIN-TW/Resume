@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: YunChuan *Kung*
+permalink: /remy
 email:
   url: mailto:yunchuan.kung@gmail.com
   text: yunchuan.kung@gmail.com
