@@ -150,6 +150,22 @@ You can view and share your online resume via GitHub Pages:
 
 ---
 
+## Deploy via Cloudflare Pages
+
+This site is also deployed with Cloudflare Pages from the same GitHub repository:
+
+- https://resume-c74.pages.dev
+- https://resume.huixinyang.com (custom domain)
+
+Use the Jekyll preset with:
+
+- Build command: `bundle exec jekyll build`
+- Build output directory: `_site`
+
+![alt text](cloudflare.png)
+
+---
+
 ## References
 
 [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/)

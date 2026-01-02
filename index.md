@@ -10,6 +10,9 @@ github:
 homepage:
   url: https://huixinyang.com/
   text: huixinyang.com
+product:
+  url: https://www.notica.studio/
+  text: notica app
 linkedin:
   url: https://www.linkedin.com/in/hui-xin-yang
   text: hui-xin-yang
