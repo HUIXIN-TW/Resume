@@ -38,30 +38,37 @@ print format: use --- to separate pages
 
 ### **Backend Engineer II, The U Group & Co** `2025.3 - Present`
 
-- Designed, developed, and maintained backend services using Python and TypeScript, ensuring scalable, reliable, and maintainable systems.
-- Built and optimized cross-service APIs to improve interoperability across microservices and enhance developer experience.
-- Managed and optimized AWS infrastructure for migration, performance, reliability, and cost-efficiency.
-- Implemented CI/CD pipelines and automated deployments to streamline release processes and reduce operational overhead.
-- Contributed to frontend features using React for internal tools and dashboards, supporting better visibility into system and data processes.
+- Designed, developed, and maintained scalable and reliable backend services using Python and TypeScript.
+- Built and optimized cross-service APIs, improving microservice interoperability and developer experience.
+- Managed and optimized AWS infrastructure, improving performance, reliability, and cost-efficiency.
+- Implemented CI/CD pipelines and automated deployments, streamlining release processes and reducing operational overhead.
+- Developed frontend features for internal tools and dashboards using React, enhancing system visibility.
 - Collaborated with data and ML teams to integrate backend services with data pipelines and analytics systems.
+- **Key Achievements:**
+  - Migrated **dozens of servers, databases, and AWS Lambda functions** to a new AWS account in a large-scale cloud migration.
+  - Replaced **AWS Fargate** with **Amazon EC2-backed Amazon ECS** and consolidated workloads across countries into a shared cluster, improving compute utilization and reducing infrastructure costs.
 
 ### **Data Engineer II, The U Group & Co** `2025.1 - 2025.3`
 
-- Managed and optimized data pipelines, utilizing Snowflake, dbt, and SQL to streamline data transformation and storage processes.
+- Managed and optimized data pipelines using Snowflake, dbt, and SQL to streamline data transformation and storage.
 - Developed and maintained Python-based machine learning pipelines.
-- Used ETLeap to automate data integration and migration tasks, improving efficiency in data workflows.
+- Automated data integration and migration using ETLeap, improving workflow efficiency.
 - Designed and orchestrated data pipelines with Dagster, ensuring reliability, monitoring, and efficient task execution.
 - Leveraged AWS cloud technologies to build scalable, secure data infrastructure.
-- Set up Pulumi IaC to manage Snowflake resources including users, roles, databases, etc.
-- Applied CI/CD practices with GitHub Actions to streamline deployment and testing.
+- Provisioned Snowflake resources (users, roles, databases) using Pulumi IaC.
+- Streamlined deployment and testing by implementing CI/CD pipelines with GitHub Actions.
+- **Key Achievements:**
+  - Transitioned **Snowflake** management from manual UI operations to **Infrastructure as Code (IaC)**, strengthening control, auditability, and deployment consistency.
 
 ### **Data Engineer I, The U Group & Co** `2024.3 - 2025.1`
 
-- Delivered high-quality data sets to clients, ensuring timely and accurate reporting
-- Troubleshot and resolved complex data flow, storage, and accessibility challenges, improving system performance.
-- Managed and optimized data pipelines, utilizing Snowflake, dbt, and SQL to streamline data transformation and storage processes.
+- Delivered high-quality data sets to clients, ensuring timely and accurate reporting.
+- Troubleshot and resolved complex data flow, storage, and accessibility challenges to improve system performance.
+- Managed and optimized data pipelines using Snowflake, dbt, and SQL to streamline data transformation and storage.
 - Collaborated with cross-functional teams to ensure data integrity, efficiency, and alignment with client needs.
 - Supported internal tools and ingestion systems through automation and process documentation.
+- **Key Achievements:**
+  - Optimized a large **dbt** project with **hundreds of modules**, improving daily delivery efficiency and cutting associated costs by **30%**.
 
 ### **Casual Teaching Assistant, University of Western Australia** `2024.2 - 2024.3`
 
@@ -167,7 +174,7 @@ Perth, Australia
   - IOT [ESP32 Air Quality Detector](https://github.com/HUIXIN-TW/CITS5506IOT) (C++, Flask, HTML, CSS, Javascript, Firebase Real-Time DB, Git) `HD`
   - Business intelligence report (Python, PowerBI) `HD`
   - Cybersecurity (Bash, Virtualisation & Containerisation) `HD`
-  - Rational Database Management System (SQL) `HD`
+  - Relational Database Management System (SQL) `HD`
   - COVID Analysis (Python) `HD`
 
 <!--
@@ -228,7 +235,6 @@ Taiwan
 - Technology Stack: Next.js, TypeScript, React, Tailwind CSS and Vercel; prisma as ORM, Postgres and Docker for local DB.
 - Designed mobile and desktop layouts using Figma, ensuring a user-friendly interface.
 - Developed robust APIs to seamlessly connect frontend pages with the backend database, facilitating efficient data retrieval and updates.
-- Achievements: Successfully created and merged three pull requests via GitHub into the main branch within one month.
 
 ### **[LLM Triple Generator Project](https://www.youtube.com/watch?v=wVBYiyJ0u00)** `2023.7 - 2023.11`
 
@@ -286,14 +292,14 @@ Taiwan
 
 <!-- Abstract for SD -->
 
-- **Certificate**: AWS Certified Cloud Practitioner (CLF-C02), CPA Australia and CPA Taiwan
-- **Programming & Database Languages**: Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j
+- **Certifications**: AWS Certified Solutions Architect - Associate (SAA-C03), AWS Certified Cloud Practitioner (CLF-C02), CPA Australia and CPA Taiwan
+- **Programming Languages & Databases**: Python, Java, Javascript, Typescript, R, Shell Script, C, Snowflake, SQLite, MySQL, Cypher Neo4j
 - **Front End Web Development**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
-- **UX prototyping tools**: Figma
+- **UX/UI Prototyping**: Figma
 - **Data Orchestration & Workflow Automation**: Dagster
 - **Infrastructure as Code (IaC)**: Pulumi
 - **Data Transformation & ELT Tools**: dbt, dbt Cloud, Etleap
-- **Web Framework / Libraries**: React, Angular, Angular Material, Next.JS, Django, Flask
+- **Web Framework / Libraries**: React, Angular, Angular Material, Next.JS, NestJS, Django, Flask
 - **Version Control Systems & CI/CD Tools**: Git, GitHub, GitLab
 - **Cloud Computing Platforms**: AWS, Firebase
 - **Low-code/No-code Development Platform**: WordPress, Wix
