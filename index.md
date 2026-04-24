@@ -11,10 +11,10 @@ homepage:
   url: https://huixinyang.com/
   text: huixinyang.com
 product:
-  url: https://www.notica.studio/
+  url: https://notica.studio/
   text: notica app
 linkedin:
-  url: https://www.linkedin.com/in/hui-xin-yang
+  url: https://linkedin.com/in/hui-xin-yang
   text: hui-xin-yang
 ---
 
@@ -36,7 +36,7 @@ print format: use --- to separate pages
 
 ## Work Experience
 
-### **Backend Engineer II, The U Group & Co** `2025.3 - Present`
+### **Backend Engineer II, The U Group & Co** `2025.3 - 2026.3`
 
 - Designed, developed, and maintained scalable and reliable backend services using Python and TypeScript.
 - Built and optimized cross-service APIs, improving microservice interoperability and developer experience.
